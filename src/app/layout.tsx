@@ -1,6 +1,10 @@
 import type { Metadata } from "next";
 import localFont from "next/font/local";
 import "./globals.css";
+import Header from "../../components/Header";
+import Footer from "../../components/Footer";
+import TopBar from "../../components/TopBar";
+
 
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
@@ -24,12 +28,35 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
-      <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      >
+    <html data-component="Layout" className="scroll-smooth" lang="en">
+      <head>
+        <meta charSet="utf-8" />
+        <title>Site</title>
+        <meta name="description" content="" />
+        <meta name="keywords" content="" />
+        <meta name="robots" content="index, follow" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0" />
+        <link rel="icon" href="favicon-16x16.png" type="image/x-icon" sizes="16x16" />
+        <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css" />
+        <link rel="stylesheet" href="/assets/styles/tailwind.min.css" />
+        <link rel="stylesheet" href="/assets/styles/app.min.css" />
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        {/* <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css2?family=Chivo:wght@400;700;900&amp;family=Noto+Sans:wght@400;500;600;700;800&amp;display=swap" /> */}
+    
+
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200&display=swap" rel="stylesheet"/>
+      </head>
+
+      <body className="overflow-x-hidden w-screen relative">
+        <TopBar />
+        <Header />
         {children}
+        <Footer />
       </body>
+
     </html>
   );
 }
+
