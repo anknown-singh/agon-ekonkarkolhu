@@ -15,13 +15,19 @@ const Contact = () => (
       <a name="top"> </a>
       <div className="overlay" />
       <div className="full-width contact-bg">
-        <div className="text-center px-5 pt-[74px] pb-[90px]">
-          <h2 className="heading-style font-bold font-poppins text-[28px] leading-[32px] md:text-heading-2 mb-[22px]">
+        <div className="text-center text-white px-5 pt-[74px] pb-[90px]">
+          <h2 className="font-bold font-poppins text-[28px] leading-[32px] md:text-heading-2 mb-[22px] ">
             Contact Us
           </h2>
-          <p className="text-text text-gray-500 mx-auto md:w-[49ch]">
-            Equidem necessitatibus ei eam, ceteros expetenda hendrerit ei per,
-            tation vituperatoribus ut.
+          <p className="text-text mx-auto md:w-[49ch]">
+            <span className="font-bold">
+              Get in touch, we’re always here to listen.
+            </span>
+            <br />
+            <em>
+              Whether you have questions, need support, or want to share
+              feedback, we&apos;re ready to help.
+            </em>
           </p>
         </div>
       </div>
