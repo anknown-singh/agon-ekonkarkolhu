@@ -45,7 +45,7 @@ const NewHeader = () => (
                         />
                     </a>
                     <nav className="z-50 absolute hidden top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 lg:block">
-                        <ul className="navbar flex flex-col justify-center font-chivo gap-[34px] lg:flex-row">
+                        <ul className="navbar flex flex-col justify-center font-poppins gap-[34px] lg:flex-row">
                             <li className="flex items-center group">
                                 <a
                                     className="hover:text-green-900 text-base font-inter menu-link lg:text-heading-6 mr-[7px]"
@@ -62,7 +62,7 @@ const NewHeader = () => (
                                 </i>
                                 <ul className="menu-child translate-y-4 opacity-0 bg-white top-full z-50 py-2 grid menu-shadow -translate-x-6 translate-y-8 transition-all duration-200 pointer-events-none group-hover:pointer-events-auto lg:absolute rounded-[4px] group-hover:grid group-hover:opacity-100 before:content-[''] before:block before:absolute before:w-full before:h-12 before:top-[-35px] before:left-0 grid-cols-2 w-[340px]">
                                     <li
-                                        className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                                        className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                                         data-menu="hp1"
                                     >
                                         <a className="flex items-center text-[14px]" href="/">
@@ -75,7 +75,7 @@ const NewHeader = () => (
                                         </a>
                                     </li>
                                     <li
-                                        className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                                        className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                                         data-menu="hp2"
                                     >
                                         <a
@@ -91,7 +91,7 @@ const NewHeader = () => (
                                         </a>
                                     </li>
                                     <li
-                                        className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                                        className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                                         data-menu="hp3"
                                     >
                                         <a
@@ -107,7 +107,7 @@ const NewHeader = () => (
                                         </a>
                                     </li>
                                     <li
-                                        className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                                        className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                                         data-menu="hp4"
                                     >
                                         <a
@@ -123,7 +123,7 @@ const NewHeader = () => (
                                         </a>
                                     </li>
                                     <li
-                                        className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                                        className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                                         data-menu="hp5"
                                     >
                                         <a
@@ -139,7 +139,7 @@ const NewHeader = () => (
                                         </a>
                                     </li>
                                     <li
-                                        className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                                        className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                                         data-menu="hp6"
                                     >
                                         <a
@@ -155,7 +155,7 @@ const NewHeader = () => (
                                         </a>
                                     </li>
                                     <li
-                                        className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                                        className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                                         data-menu="hp7"
                                     >
                                         <a
@@ -171,7 +171,7 @@ const NewHeader = () => (
                                         </a>
                                     </li>
                                     <li
-                                        className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                                        className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                                         data-menu="hp8"
                                     >
                                         <a
@@ -204,7 +204,7 @@ const NewHeader = () => (
                                 </i>
                                 <ul className="menu-child translate-y-4 opacity-0 bg-white top-full z-50 py-2 grid menu-shadow -translate-x-6 translate-y-8 transition-all duration-200 pointer-events-none group-hover:pointer-events-auto lg:absolute rounded-[4px] group-hover:grid group-hover:opacity-100 before:content-[''] before:block before:absolute before:w-full before:h-12 before:top-[-35px] before:left-0 grid-cols-1 w-[185px]">
                                     <li
-                                        className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                                        className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                                         data-menu="ab1"
                                     >
                                         <a
@@ -220,7 +220,7 @@ const NewHeader = () => (
                                         </a>
                                     </li>
                                     <li
-                                        className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                                        className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                                         data-menu="ab2"
                                     >
                                         <a
@@ -236,7 +236,7 @@ const NewHeader = () => (
                                         </a>
                                     </li>
                                     <li
-                                        className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                                        className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                                         data-menu="ab3"
                                     >
                                         <a
@@ -269,7 +269,7 @@ const NewHeader = () => (
                                 </i>
                                 <ul className="menu-child translate-y-4 opacity-0 bg-white top-full z-50 py-2 grid menu-shadow -translate-x-6 translate-y-8 transition-all duration-200 pointer-events-none group-hover:pointer-events-auto lg:absolute rounded-[4px] group-hover:grid group-hover:opacity-100 before:content-[''] before:block before:absolute before:w-full before:h-12 before:top-[-35px] before:left-0 grid-cols-1 w-[185px]">
                                     <li
-                                        className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                                        className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                                         data-menu="sv1"
                                     >
                                         <a
@@ -285,7 +285,7 @@ const NewHeader = () => (
                                         </a>
                                     </li>
                                     <li
-                                        className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                                        className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                                         data-menu="sv2"
                                     >
                                         <a
@@ -305,7 +305,7 @@ const NewHeader = () => (
                                         <span className="block bg-gray-100 w-full h-[1px] my-[5px]" />
                                     </li>
                                     <li
-                                        className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                                        className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                                         data-menu="p1"
                                     >
                                         <a
@@ -321,7 +321,7 @@ const NewHeader = () => (
                                         </a>
                                     </li>
                                     <li
-                                        className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                                        className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                                         data-menu="p2"
                                     >
                                         <a
@@ -341,7 +341,7 @@ const NewHeader = () => (
                                         <span className="block bg-gray-100 w-full h-[1px] my-[5px]" />
                                     </li>
                                     <li
-                                        className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                                        className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                                         data-menu="faqs1"
                                     >
                                         <a
@@ -357,7 +357,7 @@ const NewHeader = () => (
                                         </a>
                                     </li>
                                     <li
-                                        className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                                        className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                                         data-menu="faqs2"
                                     >
                                         <a
@@ -377,7 +377,7 @@ const NewHeader = () => (
                                         <span className="block bg-gray-100 w-full h-[1px] my-[5px]" />
                                     </li>
                                     <li
-                                        className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                                        className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                                         data-menu="career"
                                     >
                                         <a
@@ -393,7 +393,7 @@ const NewHeader = () => (
                                         </a>
                                     </li>
                                     <li
-                                        className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                                        className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                                         data-menu="career-details"
                                     >
                                         <a
@@ -426,7 +426,7 @@ const NewHeader = () => (
                                 </i>
                                 <ul className="menu-child translate-y-4 opacity-0 bg-white top-full z-50 py-2 grid menu-shadow -translate-x-6 translate-y-8 transition-all duration-200 pointer-events-none group-hover:pointer-events-auto lg:absolute rounded-[4px] group-hover:grid group-hover:opacity-100 before:content-[''] before:block before:absolute before:w-full before:h-12 before:top-[-35px] before:left-0 grid-cols-1 w-[185px]">
                                     <li
-                                        className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                                        className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                                         data-menu="contact"
                                     >
                                         <a
@@ -442,7 +442,7 @@ const NewHeader = () => (
                                         </a>
                                     </li>
                                     <li
-                                        className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                                        className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                                         data-menu="singup"
                                     >
                                         <a
@@ -458,7 +458,7 @@ const NewHeader = () => (
                                         </a>
                                     </li>
                                     <li
-                                        className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                                        className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                                         data-menu="login"
                                     >
                                         <a
@@ -474,7 +474,7 @@ const NewHeader = () => (
                                         </a>
                                     </li>
                                     <li
-                                        className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                                        className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                                         data-menu="rp"
                                     >
                                         <a
@@ -490,7 +490,7 @@ const NewHeader = () => (
                                         </a>
                                     </li>
                                     <li
-                                        className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                                        className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                                         data-menu="error404"
                                     >
                                         <a
@@ -523,7 +523,7 @@ const NewHeader = () => (
                                 </i>
                                 <ul className="menu-child translate-y-4 opacity-0 bg-white top-full z-50 py-2 grid menu-shadow -translate-x-6 translate-y-8 transition-all duration-200 pointer-events-none group-hover:pointer-events-auto lg:absolute rounded-[4px] group-hover:grid group-hover:opacity-100 before:content-[''] before:block before:absolute before:w-full before:h-12 before:top-[-35px] before:left-0 grid-cols-1 w-[185px]">
                                     <li
-                                        className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                                        className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                                         data-menu="b1"
                                     >
                                         <a
@@ -539,7 +539,7 @@ const NewHeader = () => (
                                         </a>
                                     </li>
                                     <li
-                                        className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                                        className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                                         data-menu="b2"
                                     >
                                         <a
@@ -559,7 +559,7 @@ const NewHeader = () => (
                                         <span className="block bg-gray-100 w-full h-[1px] my-[5px]" />
                                     </li>
                                     <li
-                                        className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                                        className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                                         data-menu="single"
                                     >
                                         <a
@@ -592,7 +592,7 @@ const NewHeader = () => (
                                 </i>
                                 <ul className="menu-child translate-y-4 opacity-0 bg-white top-full z-50 py-2 grid menu-shadow -translate-x-6 translate-y-8 transition-all duration-200 pointer-events-none group-hover:pointer-events-auto lg:absolute rounded-[4px] group-hover:grid group-hover:opacity-100 before:content-[''] before:block before:absolute before:w-full before:h-12 before:top-[-35px] before:left-0 grid-cols-1 w-[185px]">
                                     <li
-                                        className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                                        className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                                         data-menu="s1"
                                     >
                                         <a
@@ -608,7 +608,7 @@ const NewHeader = () => (
                                         </a>
                                     </li>
                                     <li
-                                        className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                                        className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                                         data-menu="s2"
                                     >
                                         <a
@@ -624,7 +624,7 @@ const NewHeader = () => (
                                         </a>
                                     </li>
                                     <li
-                                        className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                                        className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                                         data-menu="product"
                                     >
                                         <a
@@ -650,7 +650,7 @@ const NewHeader = () => (
                                 className="flex items-center inline-block z-10 relative transition-all duration-200 group px-[22px] py-[15px] lg:px-[32px] lg:py-[22px] rounded-[50px] bg-gray-100 text-gray-900 hover:bg-gray-900 hover:text-white hover:-translate-y-[2px] hidden lg:flex"
                                 href="#"
                             >
-                                <span className="block text-inherit w-full h-full rounded-[50px] text-heading-6 font-bold font-chivo">
+                                <span className="block text-inherit w-full h-full rounded-[50px] text-heading-6 font-bold font-poppins">
                                     Learn more
                                 </span>
                                 <i>
@@ -679,13 +679,13 @@ const NewHeader = () => (
                         />
                         <div>
                             <p className="font-bold">Hi! Steven</p>
-                            <p className="text-sm font-chivo text-gray-500">
+                            <p className="text-sm font-poppins text-gray-500">
                                 You have 5 new messages
                             </p>
                         </div>
                     </div>
                     <div className="p-[30px]">
-                        <ul className="font-chivo font-medium text-[16px] leading-[16px]">
+                        <ul className="font-poppins font-medium text-[16px] leading-[16px]">
                             <li className="group menu-mobile-item py-[13px]">
                                 <div className="flex items-center justify-between transition-all duration-200 hover:text-green-900 hover:translate-x-[2px]">
                                     <p>Home</p>
@@ -1060,7 +1060,7 @@ const NewHeader = () => (
                                 </li>
                             </ul>
                         </div>
-                        <div className="text-gray-400 font-chivo text-[13px]">
+                        <div className="text-gray-400 font-poppins text-[13px]">
                             Copyright 2022 © Agon - Agency Template.
                             <br />
                             <span>Designed by</span>

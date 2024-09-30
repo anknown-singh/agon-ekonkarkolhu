@@ -7,10 +7,10 @@ const About2 = () => (
       <div className="full-width bg-bg-2">
         <div className="px-[12px] md:px-[36px] mt-[70px] xl:px-0 z-10 relative mx-auto !mt-0 py-[60px] max-w-[1320px] lg:flex lg:items-end lg:justify-between">
           <div className="lg:w-[60%] lg:mr-[150px]">
-            <span className="font-chivo inline-block bg-bg-6 text-green-900 py-[14px] px-[28px] rounded-[50px] text-[14px] leading-[14px] mb-[10px]">
+            <span className="font-poppins inline-block bg-bg-6 text-green-900 py-[14px] px-[28px] rounded-[50px] text-[14px] leading-[14px] mb-[10px]">
               What We Do, What You Get
             </span>
-            <h1 className="font-chivo font-bold lg:text-display-2 md:text-[64px] md:leading-[70px] sm:text-[50px] sm:leading-[58px] text-[40px] leading-[48px] mb-[30px]">
+            <h1 className="font-poppins font-bold lg:text-display-2 md:text-[64px] md:leading-[70px] sm:text-[50px] sm:leading-[58px] text-[40px] leading-[48px] mb-[30px]">
               Advanced analytics to grow your business
             </h1>
             <p className="text-quote md:text-lead-lg text-gray-500 relative z-10 pr-[40px] lg:pr-[60px] mb-[44px]">
@@ -24,7 +24,7 @@ const About2 = () => (
                   className="flex items-center inline-block z-10 relative transition-all duration-200 group px-[22px] py-[15px] lg:px-[32px] lg:py-[22px] rounded-[50px] bg-gray-900 text-white hover:bg-gray-100 hover:text-gray-900 hover:-translate-y-[2px] text-white bg-black text-heading-6 tracking-wide mr-[22px]"
                   href="#"
                 >
-                  <span className="block text-inherit w-full h-full rounded-[50px] text-lg font-chivo font-semibold">
+                  <span className="block text-inherit w-full h-full rounded-[50px] text-lg font-poppins font-semibold">
                     Join Our Team
                   </span>
                   <i>
@@ -38,7 +38,7 @@ const About2 = () => (
                 </a>
               </button>
               <a
-                className="text-base flex items-center font-chivo font-bold text-[18px] leading-[18px] gap-[5px]"
+                className="text-base flex items-center font-poppins font-bold text-[18px] leading-[18px] gap-[5px]"
                 href="/"
               >
                 Contact Us
@@ -64,7 +64,7 @@ const About2 = () => (
                   />
                 </div>
                 <div className="flex-1">
-                  <h2 className="font-bold font-chivo text-[25px] leading-[30px] md:text-heading-3 text-green-900 mb-[5px]">
+                  <h2 className="font-bold font-poppins text-[25px] leading-[30px] md:text-heading-3 text-green-900 mb-[5px]">
                     +12k
                   </h2>
                   <p className="text-text text-gray-500">Projects done</p>
@@ -79,7 +79,7 @@ const About2 = () => (
                   />
                 </div>
                 <div className="flex-1">
-                  <h2 className="font-bold font-chivo text-[25px] leading-[30px] md:text-heading-3 text-green-900 mb-[5px]">
+                  <h2 className="font-bold font-poppins text-[25px] leading-[30px] md:text-heading-3 text-green-900 mb-[5px]">
                     +68
                   </h2>
                   <p className="text-text text-gray-500">Offices / Factories</p>
@@ -94,7 +94,7 @@ const About2 = () => (
                   />
                 </div>
                 <div className="flex-1">
-                  <h2 className="font-bold font-chivo text-[25px] leading-[30px] md:text-heading-3 text-green-900 mb-[5px]">
+                  <h2 className="font-bold font-poppins text-[25px] leading-[30px] md:text-heading-3 text-green-900 mb-[5px]">
                     +15k
                   </h2>
                   <p className="text-text text-gray-500">Constant clients</p>
@@ -113,11 +113,11 @@ const About2 = () => (
       </div>
       <div className="px-[12px] md:px-[36px] mt-[70px] xl:px-0 text-center mx-auto max-w-[905px]">
 
-        <span className="font-chivo inline-block bg-bg-2 text-orange-900 py-[14px] px-[28px] rounded-[50px] text-[14px] leading-[14px] mb-4">
+        <span className="font-poppins inline-block bg-bg-2 text-orange-900 py-[14px] px-[28px] rounded-[50px] text-[14px] leading-[14px] mb-4">
           How It Work ?
         </span>
         <div className="text-center mb-[88px]">
-          <h2 className="font-bold font-chivo mx-auto text-[35px] leading-[44px] md:text-[46px] md:leading-[52px] lg:text-heading-1 text-gray-900 mb-5 md:mb-[30px] max-w-[725px]">
+          <h2 className="font-bold font-poppins mx-auto text-[35px] leading-[44px] md:text-[46px] md:leading-[52px] lg:text-heading-1 text-gray-900 mb-5 md:mb-[30px] max-w-[725px]">
             Cross-border ordering has never been easier
           </h2>
           <p className="text-quote md:text-lead-lg text-gray-600 mx-auto max-w-[976px]"></p>
@@ -131,7 +131,7 @@ const About2 = () => (
                 alt="icon"
               />
             </div>
-            <h4 className="font-bold font-chivo text-[14px] xl:text-heading-5 mb-[15px]">
+            <h4 className="font-bold font-poppins text-[14px] xl:text-heading-5 mb-[15px]">
               Start Plan
             </h4>
             <p className="text-text text-gray-500">
@@ -151,7 +151,7 @@ const About2 = () => (
                 alt="icon"
               />
             </div>
-            <h4 className="font-bold font-chivo text-[14px] xl:text-heading-5 mb-[15px]">
+            <h4 className="font-bold font-poppins text-[14px] xl:text-heading-5 mb-[15px]">
               Connect
             </h4>
             <p className="text-text text-gray-500">
@@ -171,7 +171,7 @@ const About2 = () => (
                 alt="icon"
               />
             </div>
-            <h4 className="font-bold font-chivo text-[14px] xl:text-heading-5 mb-[15px]">
+            <h4 className="font-bold font-poppins text-[14px] xl:text-heading-5 mb-[15px]">
               Match
             </h4>
             <p className="text-text text-gray-500">Development Stage</p>
@@ -189,7 +189,7 @@ const About2 = () => (
                 alt="icon"
               />
             </div>
-            <h4 className="font-bold font-chivo text-[14px] xl:text-heading-5 mb-[15px]">
+            <h4 className="font-bold font-poppins text-[14px] xl:text-heading-5 mb-[15px]">
               Review
             </h4>
             <p className="text-text text-gray-500">
@@ -209,7 +209,7 @@ const About2 = () => (
                 alt="icon"
               />
             </div>
-            <h4 className="font-bold font-chivo text-[14px] xl:text-heading-5 mb-[15px]">
+            <h4 className="font-bold font-poppins text-[14px] xl:text-heading-5 mb-[15px]">
               Complete
             </h4>
             <p className="text-text text-gray-500">After-release Support</p>
@@ -242,7 +242,7 @@ const About2 = () => (
             </div>
           </div>
           <div className="flex-1">
-            <h1 className="font-extrabold font-chivo text-[35px] leading-[44px] sm:text-[46px] sm:leading-[52px] md:text-heading-1 text-white mb-[26px]">
+            <h1 className="font-extrabold font-poppins text-[35px] leading-[44px] sm:text-[46px] sm:leading-[52px] md:text-heading-1 text-white mb-[26px]">
               Our game-changing approach to working together
             </h1>
             <p className="text-text mb-9 text-[#D1DAE4]">
@@ -255,7 +255,7 @@ const About2 = () => (
                 className="flex items-center inline-block z-10 relative transition-all duration-200 group px-[22px] py-[15px] lg:px-[32px] lg:py-[22px] rounded-[50px] bg-gray-900 text-white hover:bg-gray-100 hover:text-gray-900 hover:-translate-y-[2px] text-text w-fit"
                 href="#"
               >
-                <span className="block text-inherit w-full h-full rounded-[50px] text-lg font-chivo font-semibold">
+                <span className="block text-inherit w-full h-full rounded-[50px] text-lg font-poppins font-semibold">
                   I am Button
                 </span>
               </a>
@@ -266,7 +266,7 @@ const About2 = () => (
       <div className="px-[12px] md:px-[36px] mt-[70px] xl:px-0 lg:mt-[128px]">
         <div className="items-center justify-between md:flex mb-[30px] md:mb-[90px]">
           <div className="mb-8">
-            <h2 className="text-gray-900 font-bold font-chivo mb-5 text-[35px] leading-[44px] md:text-[46px] md:leading-[52px] lg:text-heading-1 md:mb-[30px] max-w-[725px]">
+            <h2 className="text-gray-900 font-bold font-poppins mb-5 text-[35px] leading-[44px] md:text-[46px] md:leading-[52px] lg:text-heading-1 md:mb-[30px] max-w-[725px]">
               Our Happy Customers
             </h2>
             <p className="text-quote md:text-lead-lg text-gray-600">
@@ -297,7 +297,7 @@ const About2 = () => (
               src="./assets/images/avatar-1.png"
               alt="avatar"
             />
-            <p className="text-heading-6 font-chivo font-bold mb-[6px]">
+            <p className="text-heading-6 font-poppins font-bold mb-[6px]">
               Wade Warren
             </p>
             <p className="text-sm font-bold mb-5 text-gray-700">
@@ -314,7 +314,7 @@ const About2 = () => (
               src="./assets/images/avatar-2.png"
               alt="avatar"
             />
-            <p className="text-heading-6 font-chivo font-bold mb-[6px]">
+            <p className="text-heading-6 font-poppins font-bold mb-[6px]">
               Wade Warren
             </p>
             <p className="text-sm font-bold mb-5 text-gray-700">
@@ -331,7 +331,7 @@ const About2 = () => (
               src="./assets/images/avatar-3.png"
               alt="avatar"
             />
-            <p className="text-heading-6 font-chivo font-bold mb-[6px]">
+            <p className="text-heading-6 font-poppins font-bold mb-[6px]">
               Wade Warren
             </p>
             <p className="text-sm font-bold mb-5 text-gray-700">
@@ -348,7 +348,7 @@ const About2 = () => (
               src="./assets/images/avatar-4.png"
               alt="avatar"
             />
-            <p className="text-heading-6 font-chivo font-bold mb-[6px]">
+            <p className="text-heading-6 font-poppins font-bold mb-[6px]">
               Wade Warren
             </p>
             <p className="text-sm font-bold mb-5 text-gray-700">
@@ -365,7 +365,7 @@ const About2 = () => (
               src="./assets/images/avatar-5.png"
               alt="avatar"
             />
-            <p className="text-heading-6 font-chivo font-bold mb-[6px]">
+            <p className="text-heading-6 font-poppins font-bold mb-[6px]">
               Wade Warren
             </p>
             <p className="text-sm font-bold mb-5 text-gray-700">
@@ -382,7 +382,7 @@ const About2 = () => (
               src="./assets/images/avatar-6.png"
               alt="avatar"
             />
-            <p className="text-heading-6 font-chivo font-bold mb-[6px]">
+            <p className="text-heading-6 font-poppins font-bold mb-[6px]">
               Wade Warren
             </p>
             <p className="text-sm font-bold mb-5 text-gray-700">
@@ -399,7 +399,7 @@ const About2 = () => (
               src="./assets/images/avatar-7.png"
               alt="avatar"
             />
-            <p className="text-heading-6 font-chivo font-bold mb-[6px]">
+            <p className="text-heading-6 font-poppins font-bold mb-[6px]">
               Wade Warren
             </p>
             <p className="text-sm font-bold mb-5 text-gray-700">
@@ -416,7 +416,7 @@ const About2 = () => (
               src="./assets/images/avatar-8.png"
               alt="avatar"
             />
-            <p className="text-heading-6 font-chivo font-bold mb-[6px]">
+            <p className="text-heading-6 font-poppins font-bold mb-[6px]">
               Wade Warren
             </p>
             <p className="text-sm font-bold mb-5 text-gray-700">

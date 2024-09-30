@@ -14,9 +14,9 @@ const Contact = () => (
     <div className="wrapper mx-auto text-gray-900 font-normal max-w-[1320px]">
       <a name="top"> </a>
       <div className="overlay" />
-      <div className="full-width bg-bg-2">
+      <div className="full-width contact-bg">
         <div className="text-center px-5 pt-[74px] pb-[90px]">
-          <h2 className="font-bold font-chivo text-[28px] leading-[32px] md:text-heading-2 mb-[22px]">
+          <h2 className="heading-style font-bold font-poppins text-[28px] leading-[32px] md:text-heading-2 mb-[22px]">
             Contact Us
           </h2>
           <p className="text-text text-gray-500 mx-auto md:w-[49ch]">
@@ -35,7 +35,7 @@ const Contact = () => (
           <p className="text-capitalized text-gray-500 uppercase tracking-[2px] mb-[15px]">
             Contact us
           </p>
-          <h2 className="font-bold font-chivo text-[25px] leading-[30px] md:text-heading-3 mb-[22px]">
+          <h2 className="font-bold font-poppins text-[25px] leading-[30px] md:text-heading-3 mb-[22px]">
             Have an project in mind?
           </h2>
           <p className="text-text text-gray-600 mb-[30px] md:mb-[60px]">
@@ -53,7 +53,7 @@ const Contact = () => (
                     alt="home icon"
                   />
                 </i>
-                <p className="text-heading-6 font-bold font-chivo">
+                <p className="text-heading-6 font-bold font-poppins">
                   Agon Studio
                 </p>
               </div>
@@ -71,24 +71,24 @@ const Contact = () => (
             <form className="flex-1" action="/">
               <div className="flex flex-col gap-6 mb-6 lg:flex-row xl:gap-[30px]">
                 <input
-                  className="outline-none flex-1 placeholder:text-gray-400 placeholder:text-md placeholder:font-chivo py-5 px-[30px]"
+                  className="outline-none flex-1 placeholder:text-gray-400 placeholder:text-md placeholder:font-poppins py-5 px-[30px]"
                   type="text"
                   placeholder="Enter your name"
                 />
                 <input
-                  className="outline-none flex-1 placeholder:text-gray-400 placeholder:text-md placeholder:font-chivo py-5 px-[30px]"
+                  className="outline-none flex-1 placeholder:text-gray-400 placeholder:text-md placeholder:font-poppins py-5 px-[30px]"
                   type="text"
                   placeholder="Company (optional)"
                 />
               </div>
               <div className="flex flex-col gap-6 mb-6 lg:flex-row xl:gap-[30px]">
                 <input
-                  className="outline-none flex-1 placeholder:text-gray-400 placeholder:text-md placeholder:font-chivo py-5 px-[30px]"
+                  className="outline-none flex-1 placeholder:text-gray-400 placeholder:text-md placeholder:font-poppins py-5 px-[30px]"
                   type="text"
                   placeholder="Your email"
                 />
                 <input
-                  className="outline-none flex-1 placeholder:text-gray-400 placeholder:text-md placeholder:font-chivo py-5 px-[30px]"
+                  className="outline-none flex-1 placeholder:text-gray-400 placeholder:text-md placeholder:font-poppins py-5 px-[30px]"
                   type="text"
                   placeholder="Phone number"
                 />
@@ -103,7 +103,7 @@ const Contact = () => (
               />
               <div className="flex flex-col gap-5">
                 <button
-                  className="flex items-center transition-colors duration-200 px-[22px] py-[15px] lg:px-[32px] lg:py-[22px] rounded-[50px] font-chivo font-semibold text-md md:text-lg text-white bg-gray-900 w-fit"
+                  className="flex items-center transition-colors duration-200 px-[22px] py-[15px] lg:px-[32px] lg:py-[22px] rounded-[50px] font-poppins font-semibold text-md md:text-lg text-white bg-gray-900 w-fit"
                   type="submit"
                 >
                   Send Message
@@ -126,7 +126,7 @@ const Contact = () => (
       </div>
       <div className="px-[12px] md:px-[36px] mt-[70px] xl:px-0 lg:mt-[138px]">
         <div className="text-center mb-[100px]">
-          <h2 className="font-bold font-chivo mx-auto text-[35px] leading-[44px] md:text-[46px] md:leading-[52px] lg:text-heading-1 text-gray-900 mb-5 md:mb-[30px] max-w-full">
+          <h2 className="font-bold font-poppins mx-auto text-[35px] leading-[44px] md:text-[46px] md:leading-[52px] lg:text-heading-1 text-gray-900 mb-5 md:mb-[30px] max-w-full">
             Our Location
           </h2>
           <p className="text-quote md:text-lead-lg text-gray-600 mx-auto max-w-[743px]">
@@ -142,7 +142,7 @@ const Contact = () => (
               alt="icon"
             />
             <div>
-              <h3 className="font-bold font-chivo text-[20px] leading-[26px] md:text-heading-4 mb-[14px]">
+              <h3 className="font-bold font-poppins text-[20px] leading-[26px] md:text-heading-4 mb-[14px]">
                 Office
               </h3>
               <p className="text-[#7E7E7E] text-[14px] leading-[18px]">
@@ -166,7 +166,7 @@ const Contact = () => (
               alt="icon"
             />
             <div>
-              <h3 className="font-bold font-chivo text-[20px] leading-[26px] md:text-heading-4 mb-[14px]">
+              <h3 className="font-bold font-poppins text-[20px] leading-[26px] md:text-heading-4 mb-[14px]">
                 Studio
               </h3>
               <p className="text-[#7E7E7E] text-[14px] leading-[18px]">
@@ -190,7 +190,7 @@ const Contact = () => (
               alt="icon"
             />
             <div>
-              <h3 className="font-bold font-chivo text-[20px] leading-[26px] md:text-heading-4 mb-[14px]">
+              <h3 className="font-bold font-poppins text-[20px] leading-[26px] md:text-heading-4 mb-[14px]">
                 Factory
               </h3>
               <p className="text-[#7E7E7E] text-[14px] leading-[18px]">

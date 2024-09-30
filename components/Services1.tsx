@@ -16,7 +16,7 @@ const Services1 = () => (
       <div className="full-width bg-bg-5">
         <div className="items-center mx-auto px-5 pt-24 lg:flex max-w-[1320px]">
           <div className="flex-1">
-            <h1 className="font-chivo font-bold lg:text-display-2 md:text-[64px] md:leading-[70px] sm:text-[50px] sm:leading-[58px] text-[40px] leading-[48px] mb-[30px] md:w-[13ch]">
+            <h1 className="font-poppins font-bold lg:text-display-2 md:text-[64px] md:leading-[70px] sm:text-[50px] sm:leading-[58px] text-[40px] leading-[48px] mb-[30px] md:w-[13ch]">
               Building the Work Ecosystem
             </h1>
             <p className="text-quote md:text-lead-lg text-gray-500 pr-[40px] lg:pr-[150px] mb-[44px] md:w-[57ch]">
@@ -30,7 +30,7 @@ const Services1 = () => (
                   className="flex items-center inline-block z-10 relative transition-all duration-200 group px-[22px] py-[15px] lg:px-[32px] lg:py-[22px] rounded-md bg-gray-900 text-white hover:bg-gray-100 hover:text-gray-900 hover:-translate-y-[2px] text-white bg-black text-heading-6 tracking-wide mr-[22px]"
                   href="#"
                 >
-                  <span className="block text-inherit w-full h-full rounded-md text-lg font-chivo font-semibold">
+                  <span className="block text-inherit w-full h-full rounded-md text-lg font-poppins font-semibold">
                     Get Start
                   </span>
                   <i>
@@ -49,7 +49,7 @@ const Services1 = () => (
                   <img src="./assets/images/icons/icon-button.svg" alt />
                 </i>
                 <a
-                  className="text-base flex items-center font-chivo font-medium text-[18px] leading-[18px] gap-[5px]"
+                  className="text-base flex items-center font-poppins font-medium text-[18px] leading-[18px] gap-[5px]"
                   href="/"
                 >
                   How it works
@@ -66,7 +66,7 @@ const Services1 = () => (
                   />
                 </div>
                 <div className="flex-1">
-                  <h2 className="font-bold font-chivo text-[25px] leading-[30px] md:text-heading-3 text-green-900 mb-[5px]">
+                  <h2 className="font-bold font-poppins text-[25px] leading-[30px] md:text-heading-3 text-green-900 mb-[5px]">
                     +12k
                   </h2>
                   <p className="text-text text-gray-500">Projects done</p>
@@ -81,7 +81,7 @@ const Services1 = () => (
                   />
                 </div>
                 <div className="flex-1">
-                  <h2 className="font-bold font-chivo text-[25px] leading-[30px] md:text-heading-3 text-green-900 mb-[5px]">
+                  <h2 className="font-bold font-poppins text-[25px] leading-[30px] md:text-heading-3 text-green-900 mb-[5px]">
                     +68
                   </h2>
                   <p className="text-text text-gray-500">Offices / Factories</p>
@@ -106,11 +106,11 @@ const Services1 = () => (
         </div>
       </div>
       <div className="px-[12px] md:px-[36px] mt-[70px] xl:px-0 lg:mt-[150px]">
-        <span className="font-chivo inline-block bg-bg-6 text-green-900 py-[14px] px-[28px] rounded-[50px] text-[14px] leading-[14px] mb-[25px]">
+        <span className="font-poppins inline-block bg-bg-6 text-green-900 py-[14px] px-[28px] rounded-[50px] text-[14px] leading-[14px] mb-[25px]">
           What We Do
         </span>
         <div className="mb-[45px] md:mb-[75px]">
-          <h2 className="text-gray-900 font-bold font-chivo mb-5 text-[35px] leading-[44px] md:text-[46px] md:leading-[52px] lg:text-heading-1 md:mb-[30px] max-w-[725px]">
+          <h2 className="text-gray-900 font-bold font-poppins mb-5 text-[35px] leading-[44px] md:text-[46px] md:leading-[52px] lg:text-heading-1 md:mb-[30px] max-w-[725px]">
             We're always looking for new faces and fresh ideas
           </h2>
           <p className="text-quote md:text-lead-lg text-gray-600"></p>
@@ -123,7 +123,7 @@ const Services1 = () => (
               alt="icon"
             />
             <div>
-              <p className="font-bold font-chivo text-[14px] md:text-heading-6 mb-3 md:mb-[22px]">
+              <p className="font-bold font-poppins text-[14px] md:text-heading-6 mb-3 md:mb-[22px]">
                 Support Engineer
               </p>
               <p className="text-text">
@@ -139,7 +139,7 @@ const Services1 = () => (
               alt="icon"
             />
             <div>
-              <p className="font-bold font-chivo text-[14px] md:text-heading-6 mb-3 md:mb-[22px]">
+              <p className="font-bold font-poppins text-[14px] md:text-heading-6 mb-3 md:mb-[22px]">
                 Web Developer
               </p>
               <p className="text-text">
@@ -155,7 +155,7 @@ const Services1 = () => (
               alt="icon"
             />
             <div>
-              <p className="font-bold font-chivo text-[14px] md:text-heading-6 mb-3 md:mb-[22px]">
+              <p className="font-bold font-poppins text-[14px] md:text-heading-6 mb-3 md:mb-[22px]">
                 Business Analyst
               </p>
               <p className="text-text">
@@ -171,7 +171,7 @@ const Services1 = () => (
               alt="icon"
             />
             <div>
-              <p className="font-bold font-chivo text-[14px] md:text-heading-6 mb-3 md:mb-[22px]">
+              <p className="font-bold font-poppins text-[14px] md:text-heading-6 mb-3 md:mb-[22px]">
                 Product Designer
               </p>
               <p className="text-text">
@@ -187,7 +187,7 @@ const Services1 = () => (
               alt="icon"
             />
             <div>
-              <p className="font-bold font-chivo text-[14px] md:text-heading-6 mb-3 md:mb-[22px]">
+              <p className="font-bold font-poppins text-[14px] md:text-heading-6 mb-3 md:mb-[22px]">
                 Share stories
               </p>
               <p className="text-text">
@@ -203,7 +203,7 @@ const Services1 = () => (
               alt="icon"
             />
             <div>
-              <p className="font-bold font-chivo text-[14px] md:text-heading-6 mb-3 md:mb-[22px]">
+              <p className="font-bold font-poppins text-[14px] md:text-heading-6 mb-3 md:mb-[22px]">
                 Build communities
               </p>
               <p className="text-text">
@@ -219,7 +219,7 @@ const Services1 = () => (
               alt="icon"
             />
             <div>
-              <p className="font-bold font-chivo text-[14px] md:text-heading-6 mb-3 md:mb-[22px]">
+              <p className="font-bold font-poppins text-[14px] md:text-heading-6 mb-3 md:mb-[22px]">
                 A team with a mission
               </p>
               <p className="text-text">
@@ -238,10 +238,10 @@ const Services1 = () => (
             alt="Agon"
           />
           <div className="flex-1 order-1 lg:gap-[30px] xl:gap-[64px] order-[-1]">
-            <span className="font-chivo inline-block bg-bg-9 text-primary py-[14px] px-[28px] rounded-[50px] text-[14px] leading-[14px] mb-[22px]">
+            <span className="font-poppins inline-block bg-bg-9 text-primary py-[14px] px-[28px] rounded-[50px] text-[14px] leading-[14px] mb-[22px]">
               Built Exclusively For You
             </span>
-            <h3 className="font-chivo font-bold lg:text-heading-1 md:text-[46px] md:leading-[52px] text-[35px] leading-[44px] mb-[22px]">
+            <h3 className="font-poppins font-bold lg:text-heading-1 md:text-[46px] md:leading-[52px] text-[35px] leading-[44px] mb-[22px]">
               From the big picture to every tiny detail, we got you covered.
             </h3>
             <p className="text-quote md:text-lead-lg text-gray-600 mb-[50px]">
@@ -258,7 +258,7 @@ const Services1 = () => (
                     src="./assets/images/icons/icon-leaf.svg"
                     alt="leaf icon"
                   />
-                  <h4 className="text-heading-6 font-chivo font-bold">
+                  <h4 className="text-heading-6 font-poppins font-bold">
                     Boost your sale
                   </h4>
                 </div>
@@ -273,7 +273,7 @@ const Services1 = () => (
                     src="./assets/images/icons/icon-leaf.svg"
                     alt="leaf icon"
                   />
-                  <h4 className="text-heading-6 font-chivo font-bold">
+                  <h4 className="text-heading-6 font-poppins font-bold">
                     Smart Installation Tools
                   </h4>
                 </div>
@@ -288,7 +288,7 @@ const Services1 = () => (
                     src="./assets/images/icons/icon-leaf.svg"
                     alt="leaf icon"
                   />
-                  <h4 className="text-heading-6 font-chivo font-bold">
+                  <h4 className="text-heading-6 font-poppins font-bold">
                     Introducing New Features
                   </h4>
                 </div>
@@ -303,7 +303,7 @@ const Services1 = () => (
                     src="./assets/images/icons/icon-leaf.svg"
                     alt="leaf icon"
                   />
-                  <h4 className="text-heading-6 font-chivo font-bold">
+                  <h4 className="text-heading-6 font-poppins font-bold">
                     Dynamic Boosting
                   </h4>
                 </div>
@@ -317,7 +317,7 @@ const Services1 = () => (
       </div>
       <div className="px-[12px] md:px-[36px] mt-[70px] xl:px-0 lg:mt-[139px]">
         <div className="text-center">
-          <h2 className="font-bold font-chivo mx-auto text-[35px] leading-[44px] md:text-[46px] md:leading-[52px] lg:text-heading-1 text-gray-900 mb-5 md:mb-[30px] max-w-[725px]">
+          <h2 className="font-bold font-poppins mx-auto text-[35px] leading-[44px] md:text-[46px] md:leading-[52px] lg:text-heading-1 text-gray-900 mb-5 md:mb-[30px] max-w-[725px]">
             Choose The Best Plan That’s For You
           </h2>
           <p className="text-quote md:text-lead-lg text-gray-600 mx-auto max-w-[976px]"></p>
@@ -348,14 +348,14 @@ const Services1 = () => (
             <div className="rounded-2xl p-[30px] md:py-[53px] md:px-[48px] bg-white flex flex-col justify-between transition-all duration-300 package-card p-[35px] border border-gray-900 bill-monthly">
               <div>
                 <div className="mb-[21px]">
-                  <span className="text-heading-3 font-bold font-chivo">
+                  <span className="text-heading-3 font-bold font-poppins">
                     $35
                   </span>
                   <span className="text-sm font-bold text-gray-400 ml-[2px]">
                     /month
                   </span>
                 </div>
-                <h5 className="text-heading-5 font-chivo font-bold mb-[9px]">
+                <h5 className="text-heading-5 font-poppins font-bold mb-[9px]">
                   Standard
                 </h5>
                 <p className="text-sm font-bold text-gray-400 mb-[43px]">
@@ -410,7 +410,7 @@ const Services1 = () => (
                   className="flex items-center inline-block z-10 relative transition-all duration-200 group py-[11px] px-[22px] rounded-md bg-gray-900 text-white hover:bg-gray-100 hover:text-gray-900 hover:-translate-y-[2px] border-[2px] border-[#171B24]"
                   href="#"
                 >
-                  <span className="block text-inherit w-full h-full rounded-md text-lg font-chivo font-semibold">
+                  <span className="block text-inherit w-full h-full rounded-md text-lg font-poppins font-semibold">
                     Get Started
                   </span>
                   <i>
@@ -427,14 +427,14 @@ const Services1 = () => (
             <div className="rounded-2xl p-[30px] md:py-[53px] md:px-[48px] bg-white flex flex-col justify-between transition-all duration-300 package-card p-[35px] active border border-gray-900 bill-monthly">
               <div>
                 <div className="mb-[21px]">
-                  <span className="text-heading-3 font-bold font-chivo">
+                  <span className="text-heading-3 font-bold font-poppins">
                     $89
                   </span>
                   <span className="text-sm font-bold text-gray-400 ml-[2px]">
                     /month
                   </span>
                 </div>
-                <h5 className="text-heading-5 font-chivo font-bold mb-[9px]">
+                <h5 className="text-heading-5 font-poppins font-bold mb-[9px]">
                   Standard
                 </h5>
                 <p className="text-sm font-bold text-gray-400 mb-[43px]">
@@ -489,7 +489,7 @@ const Services1 = () => (
                   className="flex items-center inline-block z-10 relative transition-all duration-200 group py-[11px] px-[22px] rounded-md bg-gray-900 text-white hover:bg-gray-100 hover:text-gray-900 hover:-translate-y-[2px] border-[2px] border-[#171B24]"
                   href="#"
                 >
-                  <span className="block text-inherit w-full h-full rounded-md text-lg font-chivo font-semibold">
+                  <span className="block text-inherit w-full h-full rounded-md text-lg font-poppins font-semibold">
                     Get Started
                   </span>
                   <i>
@@ -506,14 +506,14 @@ const Services1 = () => (
             <div className="rounded-2xl p-[30px] md:py-[53px] md:px-[48px] bg-white flex flex-col justify-between transition-all duration-300 package-card p-[35px] border border-gray-900 bill-monthly">
               <div>
                 <div className="mb-[21px]">
-                  <span className="text-heading-3 font-bold font-chivo">
+                  <span className="text-heading-3 font-bold font-poppins">
                     $125
                   </span>
                   <span className="text-sm font-bold text-gray-400 ml-[2px]">
                     /month
                   </span>
                 </div>
-                <h5 className="text-heading-5 font-chivo font-bold mb-[9px]">
+                <h5 className="text-heading-5 font-poppins font-bold mb-[9px]">
                   Standard
                 </h5>
                 <p className="text-sm font-bold text-gray-400 mb-[43px]">
@@ -568,7 +568,7 @@ const Services1 = () => (
                   className="flex items-center inline-block z-10 relative transition-all duration-200 group py-[11px] px-[22px] rounded-md bg-gray-900 text-white hover:bg-gray-100 hover:text-gray-900 hover:-translate-y-[2px] border-[2px] border-[#171B24]"
                   href="#"
                 >
-                  <span className="block text-inherit w-full h-full rounded-md text-lg font-chivo font-semibold">
+                  <span className="block text-inherit w-full h-full rounded-md text-lg font-poppins font-semibold">
                     Get Started
                   </span>
                   <i>
@@ -585,14 +585,14 @@ const Services1 = () => (
             <div className="rounded-2xl p-[30px] md:py-[53px] md:px-[48px] bg-white flex flex-col justify-between transition-all duration-300 package-card p-[35px] border border-gray-900 bill-monthly">
               <div>
                 <div className="mb-[21px]">
-                  <span className="text-heading-3 font-bold font-chivo">
+                  <span className="text-heading-3 font-bold font-poppins">
                     $199
                   </span>
                   <span className="text-sm font-bold text-gray-400 ml-[2px]">
                     /month
                   </span>
                 </div>
-                <h5 className="text-heading-5 font-chivo font-bold mb-[9px]">
+                <h5 className="text-heading-5 font-poppins font-bold mb-[9px]">
                   Standard
                 </h5>
                 <p className="text-sm font-bold text-gray-400 mb-[43px]">
@@ -647,7 +647,7 @@ const Services1 = () => (
                   className="flex items-center inline-block z-10 relative transition-all duration-200 group py-[11px] px-[22px] rounded-md bg-gray-900 text-white hover:bg-gray-100 hover:text-gray-900 hover:-translate-y-[2px] border-[2px] border-[#171B24]"
                   href="#"
                 >
-                  <span className="block text-inherit w-full h-full rounded-md text-lg font-chivo font-semibold">
+                  <span className="block text-inherit w-full h-full rounded-md text-lg font-poppins font-semibold">
                     Get Started
                   </span>
                   <i>
@@ -664,14 +664,14 @@ const Services1 = () => (
             <div className="rounded-2xl p-[30px] md:py-[53px] md:px-[48px] bg-white flex flex-col justify-between transition-all duration-300 package-card p-[35px] border border-gray-900 bill-annually">
               <div>
                 <div className="mb-[21px]">
-                  <span className="text-heading-3 font-bold font-chivo">
+                  <span className="text-heading-3 font-bold font-poppins">
                     $420
                   </span>
                   <span className="text-sm font-bold text-gray-400 ml-[2px]">
                     /year
                   </span>
                 </div>
-                <h5 className="text-heading-5 font-chivo font-bold mb-[9px]">
+                <h5 className="text-heading-5 font-poppins font-bold mb-[9px]">
                   Standard
                 </h5>
                 <p className="text-sm font-bold text-gray-400 mb-[43px]">
@@ -726,7 +726,7 @@ const Services1 = () => (
                   className="flex items-center inline-block z-10 relative transition-all duration-200 group py-[11px] px-[22px] rounded-md bg-gray-900 text-white hover:bg-gray-100 hover:text-gray-900 hover:-translate-y-[2px] border-[2px] border-[#171B24]"
                   href="#"
                 >
-                  <span className="block text-inherit w-full h-full rounded-md text-lg font-chivo font-semibold">
+                  <span className="block text-inherit w-full h-full rounded-md text-lg font-poppins font-semibold">
                     Get Started
                   </span>
                   <i>
@@ -743,14 +743,14 @@ const Services1 = () => (
             <div className="rounded-2xl p-[30px] md:py-[53px] md:px-[48px] bg-white flex flex-col justify-between transition-all duration-300 package-card p-[35px] active border border-gray-900 bill-annually">
               <div>
                 <div className="mb-[21px]">
-                  <span className="text-heading-3 font-bold font-chivo">
+                  <span className="text-heading-3 font-bold font-poppins">
                     $1068
                   </span>
                   <span className="text-sm font-bold text-gray-400 ml-[2px]">
                     /year
                   </span>
                 </div>
-                <h5 className="text-heading-5 font-chivo font-bold mb-[9px]">
+                <h5 className="text-heading-5 font-poppins font-bold mb-[9px]">
                   Standard
                 </h5>
                 <p className="text-sm font-bold text-gray-400 mb-[43px]">
@@ -805,7 +805,7 @@ const Services1 = () => (
                   className="flex items-center inline-block z-10 relative transition-all duration-200 group py-[11px] px-[22px] rounded-md bg-gray-900 text-white hover:bg-gray-100 hover:text-gray-900 hover:-translate-y-[2px] border-[2px] border-[#171B24]"
                   href="#"
                 >
-                  <span className="block text-inherit w-full h-full rounded-md text-lg font-chivo font-semibold">
+                  <span className="block text-inherit w-full h-full rounded-md text-lg font-poppins font-semibold">
                     Get Started
                   </span>
                   <i>
@@ -822,14 +822,14 @@ const Services1 = () => (
             <div className="rounded-2xl p-[30px] md:py-[53px] md:px-[48px] bg-white flex flex-col justify-between transition-all duration-300 package-card p-[35px] border border-gray-900 bill-annually">
               <div>
                 <div className="mb-[21px]">
-                  <span className="text-heading-3 font-bold font-chivo">
+                  <span className="text-heading-3 font-bold font-poppins">
                     $1500
                   </span>
                   <span className="text-sm font-bold text-gray-400 ml-[2px]">
                     /year
                   </span>
                 </div>
-                <h5 className="text-heading-5 font-chivo font-bold mb-[9px]">
+                <h5 className="text-heading-5 font-poppins font-bold mb-[9px]">
                   Standard
                 </h5>
                 <p className="text-sm font-bold text-gray-400 mb-[43px]">
@@ -884,7 +884,7 @@ const Services1 = () => (
                   className="flex items-center inline-block z-10 relative transition-all duration-200 group py-[11px] px-[22px] rounded-md bg-gray-900 text-white hover:bg-gray-100 hover:text-gray-900 hover:-translate-y-[2px] border-[2px] border-[#171B24]"
                   href="#"
                 >
-                  <span className="block text-inherit w-full h-full rounded-md text-lg font-chivo font-semibold">
+                  <span className="block text-inherit w-full h-full rounded-md text-lg font-poppins font-semibold">
                     Get Started
                   </span>
                   <i>
@@ -901,14 +901,14 @@ const Services1 = () => (
             <div className="rounded-2xl p-[30px] md:py-[53px] md:px-[48px] bg-white flex flex-col justify-between transition-all duration-300 package-card p-[35px] border border-gray-900 bill-annually">
               <div>
                 <div className="mb-[21px]">
-                  <span className="text-heading-3 font-bold font-chivo">
+                  <span className="text-heading-3 font-bold font-poppins">
                     $2388
                   </span>
                   <span className="text-sm font-bold text-gray-400 ml-[2px]">
                     /year
                   </span>
                 </div>
-                <h5 className="text-heading-5 font-chivo font-bold mb-[9px]">
+                <h5 className="text-heading-5 font-poppins font-bold mb-[9px]">
                   Standard
                 </h5>
                 <p className="text-sm font-bold text-gray-400 mb-[43px]">
@@ -963,7 +963,7 @@ const Services1 = () => (
                   className="flex items-center inline-block z-10 relative transition-all duration-200 group py-[11px] px-[22px] rounded-md bg-gray-900 text-white hover:bg-gray-100 hover:text-gray-900 hover:-translate-y-[2px] border-[2px] border-[#171B24]"
                   href="#"
                 >
-                  <span className="block text-inherit w-full h-full rounded-md text-lg font-chivo font-semibold">
+                  <span className="block text-inherit w-full h-full rounded-md text-lg font-poppins font-semibold">
                     Get Started
                   </span>
                   <i>
@@ -985,7 +985,7 @@ const Services1 = () => (
           <p className="text-capitalized uppercase text-gray-500 tracking-[2px] mb-[13px]">
             newsletter
           </p>
-          <h4 className="font-bold font-chivo text-[28px] leading-[32px] md:text-heading-2 mb-[20px]">
+          <h4 className="font-bold font-poppins text-[28px] leading-[32px] md:text-heading-2 mb-[20px]">
             Subscribe our newsletter
           </h4>
           <p className="text-text text-gray-500">

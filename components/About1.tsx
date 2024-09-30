@@ -24,10 +24,10 @@ const About1 = () => (
       <div className="full-width banner-hero banner-2">
         <div className="px-[12px] md:px-[36px] mt-[70px] xl:px-0 z-10 relative mx-auto mt-0 py-[60px] !mt-0 max-w-[1320px] lg:flex lg:items-center">
           <div className="lg:w-[60%] lg:mr-[150px]">
-            <span className="font-chivo inline-block bg-bg-2 text-orange-900 py-[14px] px-[28px] rounded-[50px] text-[14px] leading-[14px] mb-[29px]">
+            <span className="font-poppins inline-block bg-bg-2 text-orange-900 py-[14px] px-[28px] rounded-[50px] text-[14px] leading-[14px] mb-[29px]">
               What We Do, What You Get
             </span>
-            <h1 className="font-chivo font-bold lg:text-display-3 md:text-[45px] md:leading-[52px] text-[35px] leading-[42px] mb-[20px]">
+            <h1 className="font-poppins font-bold lg:text-display-3 md:text-[45px] md:leading-[52px] text-[35px] leading-[42px] mb-[20px]">
               A small creative team excited to create beautiful things
             </h1>
             <p className="text-quote md:text-lead-lg text-gray-500 pr-[40px] lg:pr-[60px] mb-[44px] md:w-[36ch]">
@@ -41,7 +41,7 @@ const About1 = () => (
                   className="flex items-center inline-block z-10 relative transition-all duration-200 group px-[22px] py-[15px] lg:px-[32px] lg:py-[22px] rounded-[50px] bg-gray-900 text-white hover:bg-gray-100 hover:text-gray-900 hover:-translate-y-[2px] text-white bg-black text-heading-6 tracking-wide mr-[22px]"
                   href="#"
                 >
-                  <span className="block text-inherit w-full h-full rounded-[50px] text-lg font-chivo font-semibold">
+                  <span className="block text-inherit w-full h-full rounded-[50px] text-lg font-poppins font-semibold">
                     Join Our Team
                   </span>
                   <i>
@@ -55,7 +55,7 @@ const About1 = () => (
                 </a>
               </button>
               <a
-                className="text-base flex items-center font-chivo font-bold text-[18px] leading-[18px] gap-[5px]"
+                className="text-base flex items-center font-poppins font-bold text-[18px] leading-[18px] gap-[5px]"
                 href="/"
               >
                 Contact Us
@@ -87,7 +87,7 @@ const About1 = () => (
       <div className="px-[12px] md:px-[36px] mt-[70px] xl:px-0 lg:mt-[88px]">
         <div className="grid grid-cols-2 flex-1 text-center gap-2 gap-y-8 md:grid-cols-2 xl:gap-y-[70px] lg:grid-cols-4 mb-[45px] md:mb-[88px]">
           <div>
-            <h1 className="font-chivo font-bold lg:text-display-3 md:text-[45px] md:leading-[52px] text-[35px] leading-[42px] mb-1 text-green-900">
+            <h1 className="font-poppins font-bold lg:text-display-3 md:text-[45px] md:leading-[52px] text-[35px] leading-[42px] mb-1 text-green-900">
               +12
             </h1>
             <p className="text-text text-gray-500 mx-auto md:w-[26ch]">
@@ -95,7 +95,7 @@ const About1 = () => (
             </p>
           </div>
           <div>
-            <h1 className="font-chivo font-bold lg:text-display-3 md:text-[45px] md:leading-[52px] text-[35px] leading-[42px] mb-1 text-green-900">
+            <h1 className="font-poppins font-bold lg:text-display-3 md:text-[45px] md:leading-[52px] text-[35px] leading-[42px] mb-1 text-green-900">
               2K+
             </h1>
             <p className="text-text text-gray-500 mx-auto md:w-[26ch]">
@@ -103,7 +103,7 @@ const About1 = () => (
             </p>
           </div>
           <div>
-            <h1 className="font-chivo font-bold lg:text-display-3 md:text-[45px] md:leading-[52px] text-[35px] leading-[42px] mb-1 text-green-900">
+            <h1 className="font-poppins font-bold lg:text-display-3 md:text-[45px] md:leading-[52px] text-[35px] leading-[42px] mb-1 text-green-900">
               28+
             </h1>
             <p className="text-text text-gray-500 mx-auto md:w-[26ch]">
@@ -111,7 +111,7 @@ const About1 = () => (
             </p>
           </div>
           <div>
-            <h1 className="font-chivo font-bold lg:text-display-3 md:text-[45px] md:leading-[52px] text-[35px] leading-[42px] mb-1 text-green-900">
+            <h1 className="font-poppins font-bold lg:text-display-3 md:text-[45px] md:leading-[52px] text-[35px] leading-[42px] mb-1 text-green-900">
               86
             </h1>
             <p className="text-text text-gray-500 mx-auto md:w-[26ch]">
@@ -122,11 +122,11 @@ const About1 = () => (
         <div className="bg-gray-300 mx-auto w-[90%] h-[1px]" />
       </div>
       <div className="px-[12px] md:px-[36px] mt-[70px] xl:px-0 text-center lg:mt-[137px]">
-        <span className="font-chivo inline-block bg-bg-2 text-orange-900 py-[14px] px-[28px] rounded-[50px] text-[14px] leading-[14px] mb-[18px]">
+        <span className="font-poppins inline-block bg-bg-2 text-orange-900 py-[14px] px-[28px] rounded-[50px] text-[14px] leading-[14px] mb-[18px]">
           What We Do, What You Get
         </span>
         <div className="text-center mb-[40px] md:mb-[62px]">
-          <h2 className="font-bold font-chivo mx-auto text-[35px] leading-[44px] md:text-[46px] md:leading-[52px] lg:text-heading-1 text-gray-900 mb-5 md:mb-[30px] max-w-[725px]">
+          <h2 className="font-bold font-poppins mx-auto text-[35px] leading-[44px] md:text-[46px] md:leading-[52px] lg:text-heading-1 text-gray-900 mb-5 md:mb-[30px] max-w-[725px]">
             We believe in the power of creative ideas
           </h2>
           <p className="text-quote md:text-lead-lg text-gray-600 mx-auto max-w-[976px]"></p>
@@ -148,7 +148,7 @@ const About1 = () => (
       </div>
       <div className="px-[12px] md:px-[36px] mt-[70px] xl:px-0 lg:mt-[150px]">
         <div className="text-center mb-[40px] lg:mb-[90px]">
-          <h2 className="font-bold font-chivo mx-auto text-[35px] leading-[44px] md:text-[46px] md:leading-[52px] lg:text-heading-1 text-gray-900 mb-5 md:mb-[30px] w-full">
+          <h2 className="font-bold font-poppins mx-auto text-[35px] leading-[44px] md:text-[46px] md:leading-[52px] lg:text-heading-1 text-gray-900 mb-5 md:mb-[30px] w-full">
             Providing solutions of every kind
           </h2>
           <p className="text-quote md:text-lead-lg text-gray-600 mx-auto md:max-w-[50ch]">
@@ -164,7 +164,7 @@ const About1 = () => (
               alt="icon"
             />
             <div>
-              <h3 className="font-bold font-chivo text-[20px] leading-[26px] md:text-heading-4 mb-[14px]">
+              <h3 className="font-bold font-poppins text-[20px] leading-[26px] md:text-heading-4 mb-[14px]">
                 1. Acquisition
               </h3>
               <p className="text-excerpt">
@@ -180,7 +180,7 @@ const About1 = () => (
               alt="icon"
             />
             <div>
-              <h3 className="font-bold font-chivo text-[20px] leading-[26px] md:text-heading-4 mb-[14px]">
+              <h3 className="font-bold font-poppins text-[20px] leading-[26px] md:text-heading-4 mb-[14px]">
                 2. Activation
               </h3>
               <p className="text-excerpt">
@@ -196,7 +196,7 @@ const About1 = () => (
               alt="icon"
             />
             <div>
-              <h3 className="font-bold font-chivo text-[20px] leading-[26px] md:text-heading-4 mb-[14px]">
+              <h3 className="font-bold font-poppins text-[20px] leading-[26px] md:text-heading-4 mb-[14px]">
                 3. Retention
               </h3>
               <p className="text-excerpt">
@@ -209,12 +209,12 @@ const About1 = () => (
       </div>
       <div className="px-[12px] md:px-[36px] mt-[70px] xl:px-0 lg:mt-[150px]">
         <div className="text-center">
-          <span className="font-chivo inline-block bg-bg-6 text-green-900 py-[14px] px-[28px] rounded-[50px] text-[14px] leading-[14px] mb-[19px]">
+          <span className="font-poppins inline-block bg-bg-6 text-green-900 py-[14px] px-[28px] rounded-[50px] text-[14px] leading-[14px] mb-[19px]">
             What We Do, What You Get
           </span>
         </div>
         <div className="text-center mb-[70px]">
-          <h2 className="font-bold font-chivo mx-auto text-[35px] leading-[44px] md:text-[46px] md:leading-[52px] lg:text-heading-1 text-gray-900 mb-5 md:mb-[30px] md:w-[19ch]">
+          <h2 className="font-bold font-poppins mx-auto text-[35px] leading-[44px] md:text-[46px] md:leading-[52px] lg:text-heading-1 text-gray-900 mb-5 md:mb-[30px] md:w-[19ch]">
             Bringing the world's ideas to life
           </h2>
           <p className="text-quote md:text-lead-lg text-gray-600 mx-auto md:w-[63ch]">
@@ -230,7 +230,7 @@ const About1 = () => (
                 src="./assets/images/icons/icon-flower.svg"
                 alt="icon"
               />
-              <h2 className="font-bold font-chivo text-[28px] leading-[32px] md:text-heading-2 mb-[30px]">
+              <h2 className="font-bold font-poppins text-[28px] leading-[32px] md:text-heading-2 mb-[30px]">
                 Business strategy
               </h2>
               <p className="text-excerpt text-gray-600 mb-[30px]">
@@ -245,7 +245,7 @@ const About1 = () => (
                 className="flex items-center inline-block z-10 relative transition-all duration-200 group px-[22px] py-[15px] lg:px-[32px] lg:py-[22px] rounded-[50px] bg-gray-200 text-gray-900 hover:bg-gray-900 hover:text-white hover:-translate-y-[2px] w-fit"
                 href="#"
               >
-                <span className="block text-inherit w-full h-full rounded-[50px] text-lg font-chivo font-semibold">
+                <span className="block text-inherit w-full h-full rounded-[50px] text-lg font-poppins font-semibold">
                   Learn More
                 </span>
                 <i>
@@ -266,7 +266,7 @@ const About1 = () => (
                 src="./assets/images/icons/icon-map.svg"
                 alt="icon"
               />
-              <h2 className="font-bold font-chivo text-[28px] leading-[32px] md:text-heading-2 mb-[30px]">
+              <h2 className="font-bold font-poppins text-[28px] leading-[32px] md:text-heading-2 mb-[30px]">
                 Local Marketing
               </h2>
               <p className="text-excerpt text-gray-600 mb-[30px]">
@@ -281,7 +281,7 @@ const About1 = () => (
                 className="flex items-center inline-block z-10 relative transition-all duration-200 group px-[22px] py-[15px] lg:px-[32px] lg:py-[22px] rounded-[50px] bg-gray-200 text-gray-900 hover:bg-gray-900 hover:text-white hover:-translate-y-[2px] w-fit"
                 href="#"
               >
-                <span className="block text-inherit w-full h-full rounded-[50px] text-lg font-chivo font-semibold">
+                <span className="block text-inherit w-full h-full rounded-[50px] text-lg font-poppins font-semibold">
                   Learn More
                 </span>
                 <i>
@@ -302,7 +302,7 @@ const About1 = () => (
                 src="./assets/images/icons/icon-pine.svg"
                 alt="icon"
               />
-              <h2 className="font-bold font-chivo text-[28px] leading-[32px] md:text-heading-2 mb-[30px]">
+              <h2 className="font-bold font-poppins text-[28px] leading-[32px] md:text-heading-2 mb-[30px]">
                 Social Media
               </h2>
               <p className="text-excerpt text-gray-600 mb-[30px]">
@@ -317,7 +317,7 @@ const About1 = () => (
                 className="flex items-center inline-block z-10 relative transition-all duration-200 group px-[22px] py-[15px] lg:px-[32px] lg:py-[22px] rounded-[50px] bg-gray-200 text-gray-900 hover:bg-gray-900 hover:text-white hover:-translate-y-[2px] w-fit"
                 href="#"
               >
-                <span className="block text-inherit w-full h-full rounded-[50px] text-lg font-chivo font-semibold">
+                <span className="block text-inherit w-full h-full rounded-[50px] text-lg font-poppins font-semibold">
                   Learn More
                 </span>
                 <i>
@@ -336,7 +336,7 @@ const About1 = () => (
       <div className="px-[12px] md:px-[36px] mt-[70px] xl:px-0 lg:mt-[150px]">
         <div className="items-center justify-between md:flex mb-[80px] md:mb-[90px]">
           <div className="mb-8">
-            <h2 className="text-gray-900 font-bold font-chivo mb-5 text-[35px] leading-[44px] md:text-[46px] md:leading-[52px] lg:text-heading-1 md:mb-[30px] max-w-[725px]">
+            <h2 className="text-gray-900 font-bold font-poppins mb-5 text-[35px] leading-[44px] md:text-[46px] md:leading-[52px] lg:text-heading-1 md:mb-[30px] max-w-[725px]">
               Our Team
             </h2>
             <p className="text-quote md:text-lead-lg text-gray-600">
@@ -376,7 +376,7 @@ const About1 = () => (
                   <p className="text-md mb-2 opacity-50 text-[#0A3361]">
                     UI/UX Designer
                   </p>
-                  <p className="text-heading-6 font-chivo font-bold">
+                  <p className="text-heading-6 font-poppins font-bold">
                     Darlene Robertson
                   </p>
                 </div>
@@ -447,7 +447,7 @@ const About1 = () => (
                   <p className="text-md mb-2 opacity-50 text-[#0A3361]">
                     Software Tester
                   </p>
-                  <p className="text-heading-6 font-chivo font-bold">
+                  <p className="text-heading-6 font-poppins font-bold">
                     Devon Lane
                   </p>
                 </div>
@@ -518,7 +518,7 @@ const About1 = () => (
                   <p className="text-md mb-2 opacity-50 text-[#0A3361]">
                     Software Developer
                   </p>
-                  <p className="text-heading-6 font-chivo font-bold">
+                  <p className="text-heading-6 font-poppins font-bold">
                     Darrell Steward
                   </p>
                 </div>
@@ -589,7 +589,7 @@ const About1 = () => (
                   <p className="text-md mb-2 opacity-50 text-[#0A3361]">
                     Software Developer
                   </p>
-                  <p className="text-heading-6 font-chivo font-bold">
+                  <p className="text-heading-6 font-poppins font-bold">
                     Darrell Steward
                   </p>
                 </div>
@@ -660,7 +660,7 @@ const About1 = () => (
                   <p className="text-md mb-2 opacity-50 text-[#0A3361]">
                     UI/UX Designer
                   </p>
-                  <p className="text-heading-6 font-chivo font-bold">
+                  <p className="text-heading-6 font-poppins font-bold">
                     Darlene Robertson
                   </p>
                 </div>
@@ -731,7 +731,7 @@ const About1 = () => (
                   <p className="text-md mb-2 opacity-50 text-[#0A3361]">
                     UI/UX Designer
                   </p>
-                  <p className="text-heading-6 font-chivo font-bold">
+                  <p className="text-heading-6 font-poppins font-bold">
                     Darlene Robertson
                   </p>
                 </div>
@@ -802,7 +802,7 @@ const About1 = () => (
                   <p className="text-md mb-2 opacity-50 text-[#0A3361]">
                     Software Developer
                   </p>
-                  <p className="text-heading-6 font-chivo font-bold">
+                  <p className="text-heading-6 font-poppins font-bold">
                     Darrell Steward
                   </p>
                 </div>
@@ -873,7 +873,7 @@ const About1 = () => (
                   <p className="text-md mb-2 opacity-50 text-[#0A3361]">
                     Project Manager
                   </p>
-                  <p className="text-heading-6 font-chivo font-bold">
+                  <p className="text-heading-6 font-poppins font-bold">
                     Courtney Henry
                   </p>
                 </div>
@@ -946,7 +946,7 @@ const About1 = () => (
                   <p className="text-md mb-2 opacity-50 text-[#0A3361]">
                     UI/UX Designer
                   </p>
-                  <p className="text-heading-6 font-chivo font-bold">
+                  <p className="text-heading-6 font-poppins font-bold">
                     Darlene Robertson
                   </p>
                 </div>
@@ -1017,7 +1017,7 @@ const About1 = () => (
                   <p className="text-md mb-2 opacity-50 text-[#0A3361]">
                     Software Tester
                   </p>
-                  <p className="text-heading-6 font-chivo font-bold">
+                  <p className="text-heading-6 font-poppins font-bold">
                     Devon Lane
                   </p>
                 </div>
@@ -1088,7 +1088,7 @@ const About1 = () => (
                   <p className="text-md mb-2 opacity-50 text-[#0A3361]">
                     Software Developer
                   </p>
-                  <p className="text-heading-6 font-chivo font-bold">
+                  <p className="text-heading-6 font-poppins font-bold">
                     Darrell Steward
                   </p>
                 </div>
@@ -1159,7 +1159,7 @@ const About1 = () => (
                   <p className="text-md mb-2 opacity-50 text-[#0A3361]">
                     Software Developer
                   </p>
-                  <p className="text-heading-6 font-chivo font-bold">
+                  <p className="text-heading-6 font-poppins font-bold">
                     Darrell Steward
                   </p>
                 </div>
@@ -1230,7 +1230,7 @@ const About1 = () => (
                   <p className="text-md mb-2 opacity-50 text-[#0A3361]">
                     UI/UX Designer
                   </p>
-                  <p className="text-heading-6 font-chivo font-bold">
+                  <p className="text-heading-6 font-poppins font-bold">
                     Darlene Robertson
                   </p>
                 </div>
@@ -1301,7 +1301,7 @@ const About1 = () => (
                   <p className="text-md mb-2 opacity-50 text-[#0A3361]">
                     UI/UX Designer
                   </p>
-                  <p className="text-heading-6 font-chivo font-bold">
+                  <p className="text-heading-6 font-poppins font-bold">
                     Darlene Robertson
                   </p>
                 </div>
@@ -1372,7 +1372,7 @@ const About1 = () => (
                   <p className="text-md mb-2 opacity-50 text-[#0A3361]">
                     Software Developer
                   </p>
-                  <p className="text-heading-6 font-chivo font-bold">
+                  <p className="text-heading-6 font-poppins font-bold">
                     Darrell Steward
                   </p>
                 </div>
@@ -1443,7 +1443,7 @@ const About1 = () => (
                   <p className="text-md mb-2 opacity-50 text-[#0A3361]">
                     Project Manager
                   </p>
-                  <p className="text-heading-6 font-chivo font-bold">
+                  <p className="text-heading-6 font-poppins font-bold">
                     Courtney Henry
                   </p>
                 </div>
@@ -1516,7 +1516,7 @@ const About1 = () => (
                   <p className="text-md mb-2 opacity-50 text-[#0A3361]">
                     UI/UX Designer
                   </p>
-                  <p className="text-heading-6 font-chivo font-bold">
+                  <p className="text-heading-6 font-poppins font-bold">
                     Darlene Robertson
                   </p>
                 </div>
@@ -1587,7 +1587,7 @@ const About1 = () => (
                   <p className="text-md mb-2 opacity-50 text-[#0A3361]">
                     Software Tester
                   </p>
-                  <p className="text-heading-6 font-chivo font-bold">
+                  <p className="text-heading-6 font-poppins font-bold">
                     Devon Lane
                   </p>
                 </div>
@@ -1658,7 +1658,7 @@ const About1 = () => (
                   <p className="text-md mb-2 opacity-50 text-[#0A3361]">
                     Software Developer
                   </p>
-                  <p className="text-heading-6 font-chivo font-bold">
+                  <p className="text-heading-6 font-poppins font-bold">
                     Darrell Steward
                   </p>
                 </div>
@@ -1729,7 +1729,7 @@ const About1 = () => (
                   <p className="text-md mb-2 opacity-50 text-[#0A3361]">
                     Software Developer
                   </p>
-                  <p className="text-heading-6 font-chivo font-bold">
+                  <p className="text-heading-6 font-poppins font-bold">
                     Darrell Steward
                   </p>
                 </div>
@@ -1800,7 +1800,7 @@ const About1 = () => (
                   <p className="text-md mb-2 opacity-50 text-[#0A3361]">
                     UI/UX Designer
                   </p>
-                  <p className="text-heading-6 font-chivo font-bold">
+                  <p className="text-heading-6 font-poppins font-bold">
                     Darlene Robertson
                   </p>
                 </div>
@@ -1871,7 +1871,7 @@ const About1 = () => (
                   <p className="text-md mb-2 opacity-50 text-[#0A3361]">
                     UI/UX Designer
                   </p>
-                  <p className="text-heading-6 font-chivo font-bold">
+                  <p className="text-heading-6 font-poppins font-bold">
                     Darlene Robertson
                   </p>
                 </div>
@@ -1942,7 +1942,7 @@ const About1 = () => (
                   <p className="text-md mb-2 opacity-50 text-[#0A3361]">
                     Software Developer
                   </p>
-                  <p className="text-heading-6 font-chivo font-bold">
+                  <p className="text-heading-6 font-poppins font-bold">
                     Darrell Steward
                   </p>
                 </div>
@@ -2013,7 +2013,7 @@ const About1 = () => (
                   <p className="text-md mb-2 opacity-50 text-[#0A3361]">
                     Project Manager
                   </p>
-                  <p className="text-heading-6 font-chivo font-bold">
+                  <p className="text-heading-6 font-poppins font-bold">
                     Courtney Henry
                   </p>
                 </div>
@@ -2076,7 +2076,7 @@ const About1 = () => (
       <div className="px-[12px] md:px-[36px] mt-[70px] xl:px-0 lg:mt-[150px]">
         <div className="items-center justify-between md:flex mb-[30px] md:mb-[90px]">
           <div className="mb-8">
-            <h2 className="text-gray-900 font-bold font-chivo mb-5 text-[35px] leading-[44px] md:text-[46px] md:leading-[52px] lg:text-heading-1 md:mb-[30px] max-w-[725px]">
+            <h2 className="text-gray-900 font-bold font-poppins mb-5 text-[35px] leading-[44px] md:text-[46px] md:leading-[52px] lg:text-heading-1 md:mb-[30px] max-w-[725px]">
               Our Happy Customers
             </h2>
             <p className="text-quote md:text-lead-lg text-gray-600">
@@ -2107,7 +2107,7 @@ const About1 = () => (
               src="./assets/images/avatar-1.png"
               alt="avatar"
             />
-            <p className="text-heading-6 font-chivo font-bold mb-[6px]">
+            <p className="text-heading-6 font-poppins font-bold mb-[6px]">
               Wade Warren
             </p>
             <p className="text-sm font-bold mb-5 text-gray-700">
@@ -2124,7 +2124,7 @@ const About1 = () => (
               src="./assets/images/avatar-2.png"
               alt="avatar"
             />
-            <p className="text-heading-6 font-chivo font-bold mb-[6px]">
+            <p className="text-heading-6 font-poppins font-bold mb-[6px]">
               Wade Warren
             </p>
             <p className="text-sm font-bold mb-5 text-gray-700">
@@ -2141,7 +2141,7 @@ const About1 = () => (
               src="./assets/images/avatar-3.png"
               alt="avatar"
             />
-            <p className="text-heading-6 font-chivo font-bold mb-[6px]">
+            <p className="text-heading-6 font-poppins font-bold mb-[6px]">
               Wade Warren
             </p>
             <p className="text-sm font-bold mb-5 text-gray-700">
@@ -2158,7 +2158,7 @@ const About1 = () => (
               src="./assets/images/avatar-4.png"
               alt="avatar"
             />
-            <p className="text-heading-6 font-chivo font-bold mb-[6px]">
+            <p className="text-heading-6 font-poppins font-bold mb-[6px]">
               Wade Warren
             </p>
             <p className="text-sm font-bold mb-5 text-gray-700">
@@ -2175,7 +2175,7 @@ const About1 = () => (
               src="./assets/images/avatar-5.png"
               alt="avatar"
             />
-            <p className="text-heading-6 font-chivo font-bold mb-[6px]">
+            <p className="text-heading-6 font-poppins font-bold mb-[6px]">
               Wade Warren
             </p>
             <p className="text-sm font-bold mb-5 text-gray-700">
@@ -2192,7 +2192,7 @@ const About1 = () => (
               src="./assets/images/avatar-6.png"
               alt="avatar"
             />
-            <p className="text-heading-6 font-chivo font-bold mb-[6px]">
+            <p className="text-heading-6 font-poppins font-bold mb-[6px]">
               Wade Warren
             </p>
             <p className="text-sm font-bold mb-5 text-gray-700">
@@ -2209,7 +2209,7 @@ const About1 = () => (
               src="./assets/images/avatar-7.png"
               alt="avatar"
             />
-            <p className="text-heading-6 font-chivo font-bold mb-[6px]">
+            <p className="text-heading-6 font-poppins font-bold mb-[6px]">
               Wade Warren
             </p>
             <p className="text-sm font-bold mb-5 text-gray-700">
@@ -2226,7 +2226,7 @@ const About1 = () => (
               src="./assets/images/avatar-8.png"
               alt="avatar"
             />
-            <p className="text-heading-6 font-chivo font-bold mb-[6px]">
+            <p className="text-heading-6 font-poppins font-bold mb-[6px]">
               Wade Warren
             </p>
             <p className="text-sm font-bold mb-5 text-gray-700">
@@ -2242,7 +2242,7 @@ const About1 = () => (
       <div className="px-[12px] md:px-[36px] mt-[70px] xl:px-0 lg:mt-[150px]">
         <div className="items-center justify-between mb-[70px] md:mb-[90px] md:flex">
           <div className="mb-[30px]">
-            <h2 className="text-gray-900 font-bold font-chivo mb-5 text-[35px] leading-[44px] md:text-[46px] md:leading-[52px] lg:text-heading-1 md:mb-[30px] max-w-[725px]">
+            <h2 className="text-gray-900 font-bold font-poppins mb-5 text-[35px] leading-[44px] md:text-[46px] md:leading-[52px] lg:text-heading-1 md:mb-[30px] max-w-[725px]">
               Latest News
             </h2>
             <p className="text-quote md:text-lead-lg text-gray-600">
@@ -2255,7 +2255,7 @@ const About1 = () => (
               className="flex items-center inline-block z-10 relative transition-all duration-200 group px-[22px] py-[15px] lg:px-[32px] lg:py-[22px] rounded-[50px] bg-gray-900 text-white hover:bg-gray-100 hover:text-gray-900 hover:-translate-y-[2px] bg-black text-white w-fit"
               href="#"
             >
-              <span className="block text-inherit w-full h-full rounded-[50px] text-lg font-chivo font-semibold">
+              <span className="block text-inherit w-full h-full rounded-[50px] text-lg font-poppins font-semibold">
                 View More
               </span>
               <i>
@@ -2275,7 +2275,7 @@ const About1 = () => (
               <div className="bg-gray-500 rounded-full w-[3px] h-[3px] mr-[6px]" />
               <span className="uppercase text-gray-500">company</span>
             </div>
-            <p className="text-heading-4 font-chivo font-bold inline-block mb-[26px]">
+            <p className="text-heading-4 font-poppins font-bold inline-block mb-[26px]">
               We can blend colors multiple ways, the most common
             </p>
             <div className="relative mb-16">
@@ -2298,7 +2298,7 @@ const About1 = () => (
               <div className="bg-gray-500 rounded-full w-[3px] h-[3px] mr-[6px]" />
               <span className="uppercase text-gray-500">Marketing Event</span>
             </div>
-            <p className="text-heading-4 font-chivo font-bold inline-block mb-[26px]">
+            <p className="text-heading-4 font-poppins font-bold inline-block mb-[26px]">
               How To Blow Through Capital At An Incredible Rate
             </p>
             <div className="relative mb-16">
@@ -2321,7 +2321,7 @@ const About1 = () => (
               <div className="bg-gray-500 rounded-full w-[3px] h-[3px] mr-[6px]" />
               <span className="uppercase text-gray-500">Customer Services</span>
             </div>
-            <p className="text-heading-4 font-chivo font-bold inline-block mb-[26px]">
+            <p className="text-heading-4 font-poppins font-bold inline-block mb-[26px]">
               Design Studios That Everyone Should Know About?
             </p>
             <div className="relative mb-16">
@@ -2362,7 +2362,7 @@ const About1 = () => (
               alt="logo"
             />
             <div className="flex items-center flex-col gap-5 md:flex-row lg:gap-[30px]">
-              <p className="text-heading-6 font-chivo font-bold">
+              <p className="text-heading-6 font-poppins font-bold">
                 Ready to get started?
               </p>
               <button type="button">
@@ -2371,7 +2371,7 @@ const About1 = () => (
                   className="flex items-center inline-block z-10 relative transition-all duration-200 group px-[22px] py-[15px] lg:px-[32px] lg:py-[22px] rounded-md bg-gray-900 text-white hover:bg-gray-100 hover:text-gray-900 hover:-translate-y-[2px] text-white bg-gray-900 w-fit"
                   href="#"
                 >
-                  <span className="block text-inherit w-full h-full rounded-md text-lg font-chivo font-semibold">
+                  <span className="block text-inherit w-full h-full rounded-md text-lg font-poppins font-semibold">
                     Create an Account
                   </span>
                 </a>
@@ -2381,7 +2381,7 @@ const About1 = () => (
           <div className="w-full bg-gray-200 h-[1px] mb-[52px]" />
           <div className="text-gray-600 grid gird-cols-1 gap-8 mb-[48px] md:grid-cols-2 lg:grid-cols-5 xl:gap-[98px]">
             <div>
-              <h5 className="text-heading-5 font-chivo font-bold text-gray-900 mb-5 text-[18px]">
+              <h5 className="text-heading-5 font-poppins font-bold text-gray-900 mb-5 text-[18px]">
                 Contact
               </h5>
               <p className="text-text mb-5">
@@ -2391,7 +2391,7 @@ const About1 = () => (
               <p className="text-text underline">support@ekonkarkolhu.shop</p>
             </div>
             <div>
-              <h5 className="text-heading-5 font-chivo font-bold text-gray-900 mb-5 text-[18px]">
+              <h5 className="text-heading-5 font-poppins font-bold text-gray-900 mb-5 text-[18px]">
                 About Us
               </h5>
               <ul>
@@ -2446,7 +2446,7 @@ const About1 = () => (
               </ul>
             </div>
             <div>
-              <h5 className="text-heading-5 font-chivo font-bold text-gray-900 mb-5 text-[18px]">
+              <h5 className="text-heading-5 font-poppins font-bold text-gray-900 mb-5 text-[18px]">
                 Discover
               </h5>
               <ul>
@@ -2501,7 +2501,7 @@ const About1 = () => (
               </ul>
             </div>
             <div>
-              <h5 className="text-heading-5 font-chivo font-bold text-gray-900 mb-5 text-[18px]">
+              <h5 className="text-heading-5 font-poppins font-bold text-gray-900 mb-5 text-[18px]">
                 Support
               </h5>
               <ul>
@@ -2556,7 +2556,7 @@ const About1 = () => (
               </ul>
             </div>
             <div>
-              <h5 className="text-heading-5 font-chivo font-bold text-gray-900 mb-5 text-[18px]">
+              <h5 className="text-heading-5 font-poppins font-bold text-gray-900 mb-5 text-[18px]">
                 Useful links
               </h5>
               <ul>

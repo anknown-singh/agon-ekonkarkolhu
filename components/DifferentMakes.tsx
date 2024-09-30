@@ -22,10 +22,10 @@ const DifferentMakes = () => (
                 </div>
 
                 <div className="flex-1 order-1">
-                    <span className="font-chivo inline-block bg-bg-2 text-orange-900 py-[14px] px-[28px] rounded-[50px] text-[14px] leading-[14px] mb-[22px]">
+                    <span className="font-poppins inline-block bg-bg-2 text-orange-900 py-[14px] px-[28px] rounded-[50px] text-[14px] leading-[14px] mb-[22px]">
                         What We Do, What You Get
                     </span>
-                    <h3 className="font-chivo font-bold lg:text-heading-1 md:text-[46px] md:leading-[52px] text-[35px] leading-[44px] mb-[22px]">
+                    <h3 className="font-poppins font-bold lg:text-heading-1 md:text-[46px] md:leading-[52px] text-[35px] leading-[44px] mb-[22px]">
                         We believe that our works can contribute to a better world.
                     </h3>
                     <p className="text-quote md:text-lead-lg text-gray-600 mb-[50px]">
@@ -42,7 +42,7 @@ const DifferentMakes = () => (
                                     src="./assets/images/icons/icon-leaf.svg"
                                     alt="leaf icon"
                                 />
-                                <h4 className="text-heading-6 font-chivo font-bold">
+                                <h4 className="text-heading-6 font-poppins font-bold">
                                     Boost your sale
                                 </h4>
                             </div>
@@ -57,7 +57,7 @@ const DifferentMakes = () => (
                                     src="./assets/images/icons/icon-leaf.svg"
                                     alt="leaf icon"
                                 />
-                                <h4 className="text-heading-6 font-chivo font-bold">
+                                <h4 className="text-heading-6 font-poppins font-bold">
                                     Smart Installation Tools
                                 </h4>
                             </div>
@@ -72,7 +72,7 @@ const DifferentMakes = () => (
                                     src="./assets/images/icons/icon-leaf.svg"
                                     alt="leaf icon"
                                 />
-                                <h4 className="text-heading-6 font-chivo font-bold">
+                                <h4 className="text-heading-6 font-poppins font-bold">
                                     Introducing New Features
                                 </h4>
                             </div>
@@ -87,7 +87,7 @@ const DifferentMakes = () => (
                                     src="./assets/images/icons/icon-leaf.svg"
                                     alt="leaf icon"
                                 />
-                                <h4 className="text-heading-6 font-chivo font-bold">
+                                <h4 className="text-heading-6 font-poppins font-bold">
                                     Dynamic Boosting
                                 </h4>
                             </div>

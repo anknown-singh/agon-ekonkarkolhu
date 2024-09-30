@@ -1,15 +1,13 @@
 import React from "react";
 
 const Footer = () => (
-    <div className="wrapper mx-auto text-gray-900 font-normal max-w-[1320px]">
-        <footer className="mt-[92px] lg:mt-[50px] xl:mt-[100px] mb-[30px]">
-            <div className="px-[12px] md:px-[36px] mt-[70px] xl:px-0">
-            
-                <div className="w-full bg-gray-200 h-[1px] mb-[52px]" />
-                <div className="text-gray-600 grid gird-cols-1 gap-8 mb-[48px] md:grid-cols-2 lg:grid-cols-5 xl:gap-[98px]">
+
+        <footer className="lg:mt-[50px] xl:mt-[100px] mb-[0px] footer-image mx-auto">
+            <div className="md:px-[36px] mt-[70px] xl:px-0">
+                <div className="w-full h-[1px] mb-[52px]" />
+                <div className="lg:px-[32px] text-white grid gird-cols-1 md:grid-cols-2 lg:grid-cols-4 xl:gap-[98px]">
                     <div>
-                        
-                        <h5 className="text-heading-5 font-chivo font-bold text-gray-900 mb-5 text-[18px]">
+                        <h5 className="text-heading-5 font-poppins font-bold text-white mb-5 text-[18px]">
                             Contact
                         </h5>
                         <p className="text-text mb-5">
@@ -19,7 +17,7 @@ const Footer = () => (
                         <p className="text-text underline">support@ekonkarkolhu.shop</p>
                     </div>
                     <div>
-                        <h5 className="text-heading-5 font-chivo font-bold text-gray-900 mb-5 text-[18px]">
+                        <h5 className="text-heading-5 font-poppins font-bold text-white mb-5 text-[18px]">
                             About Us
                         </h5>
                         <ul>
@@ -74,7 +72,7 @@ const Footer = () => (
                         </ul>
                     </div>
                     <div>
-                        <h5 className="text-heading-5 font-chivo font-bold text-gray-900 mb-5 text-[18px]">
+                        <h5 className="text-heading-5 font-poppins font-bold text-white mb-5 text-[18px]">
                             Discover
                         </h5>
                         <ul>
@@ -129,7 +127,7 @@ const Footer = () => (
                         </ul>
                     </div>
                     <div>
-                        <h5 className="text-heading-5 font-chivo font-bold text-gray-900 mb-5 text-[18px]">
+                        <h5 className="text-heading-5 font-poppins font-bold text-white mb-5 text-[18px]">
                             Support
                         </h5>
                         <ul>
@@ -183,56 +181,10 @@ const Footer = () => (
                             </li>
                         </ul>
                     </div>
-                    <div>
-                        <h5 className="text-heading-5 font-chivo font-bold text-gray-900 mb-5 text-[18px]">
-                            Useful links
-                        </h5>
-                        <ul>
-                            <li className="mb-2">
-                                <a
-                                    className="transition-all duration-200 hover:text-green-900 hover:pl-[3px]"
-                                    href="/"
-                                >
-                                    Request an offer
-                                </a>
-                            </li>
-                            <li className="mb-2">
-                                <a
-                                    className="transition-all duration-200 hover:text-green-900 hover:pl-[3px]"
-                                    href="/"
-                                >
-                                    How it works
-                                </a>
-                            </li>
-                            <li className="mb-2">
-                                <a
-                                    className="transition-all duration-200 hover:text-green-900 hover:pl-[3px]"
-                                    href="/"
-                                >
-                                    Pricing
-                                </a>
-                            </li>
-                            <li className="mb-2">
-                                <a
-                                    className="transition-all duration-200 hover:text-green-900 hover:pl-[3px]"
-                                    href="/"
-                                >
-                                    Reviews
-                                </a>
-                            </li>
-                            <li className="mb-2">
-                                <a
-                                    className="transition-all duration-200 hover:text-green-900 hover:pl-[3px]"
-                                    href="/"
-                                >
-                                    Stories
-                                </a>
-                            </li>
-                        </ul>
-                    </div>
+                   
                 </div>
-                <div className="w-full bg-gray-200 h-[1px] mb-[46px]" />
-                <div className="text-gray-400 lg:flex lg:items-center lg:justify-between">
+                <div className="w-full  h-[1px] mb-[46px]" />
+                <div className="text-white lg:flex lg:items-center lg:justify-between">
                     <div className="md:flex md:items-center md:gap-6">
                         <p className="text-lead font-bold">©Agon Official 2022</p>
                         <div className="flex items-center justify-between md:gap-6">
@@ -292,7 +244,7 @@ const Footer = () => (
                 </div>
             </div>
         </footer>
-    </div>
+   
 );
 
 export default Footer;

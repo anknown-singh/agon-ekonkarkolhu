@@ -74,7 +74,7 @@ const About3 = () => (
             />
           </a>
           <nav className="z-50 absolute hidden top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 lg:block">
-            <ul className="navbar flex flex-col justify-center font-chivo gap-[34px] lg:flex-row">
+            <ul className="navbar flex flex-col justify-center font-poppins gap-[34px] lg:flex-row">
               <li className="flex items-center group">
                 <a
                   className="hover:text-green-900 text-base font-inter menu-link lg:text-heading-6 mr-[7px]"
@@ -91,7 +91,7 @@ const About3 = () => (
                 </i>
                 <ul className="menu-child translate-y-4 opacity-0 bg-white top-full z-50 py-2 grid menu-shadow -translate-x-6 translate-y-8 transition-all duration-200 pointer-events-none group-hover:pointer-events-auto lg:absolute rounded-[4px] group-hover:grid group-hover:opacity-100 before:content-[''] before:block before:absolute before:w-full before:h-12 before:top-[-35px] before:left-0 grid-cols-2 w-[340px]">
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="hp1"
                   >
                     <a className="flex items-center text-[14px]" href="/">
@@ -104,7 +104,7 @@ const About3 = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="hp2"
                   >
                     <a
@@ -120,7 +120,7 @@ const About3 = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="hp3"
                   >
                     <a
@@ -136,7 +136,7 @@ const About3 = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="hp4"
                   >
                     <a
@@ -152,7 +152,7 @@ const About3 = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="hp5"
                   >
                     <a
@@ -168,7 +168,7 @@ const About3 = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="hp6"
                   >
                     <a
@@ -184,7 +184,7 @@ const About3 = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="hp7"
                   >
                     <a
@@ -200,7 +200,7 @@ const About3 = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="hp8"
                   >
                     <a
@@ -233,7 +233,7 @@ const About3 = () => (
                 </i>
                 <ul className="menu-child translate-y-4 opacity-0 bg-white top-full z-50 py-2 grid menu-shadow -translate-x-6 translate-y-8 transition-all duration-200 pointer-events-none group-hover:pointer-events-auto lg:absolute rounded-[4px] group-hover:grid group-hover:opacity-100 before:content-[''] before:block before:absolute before:w-full before:h-12 before:top-[-35px] before:left-0 grid-cols-1 w-[185px]">
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="ab1"
                   >
                     <a
@@ -249,7 +249,7 @@ const About3 = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="ab2"
                   >
                     <a
@@ -265,7 +265,7 @@ const About3 = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="ab3"
                   >
                     <a
@@ -298,7 +298,7 @@ const About3 = () => (
                 </i>
                 <ul className="menu-child translate-y-4 opacity-0 bg-white top-full z-50 py-2 grid menu-shadow -translate-x-6 translate-y-8 transition-all duration-200 pointer-events-none group-hover:pointer-events-auto lg:absolute rounded-[4px] group-hover:grid group-hover:opacity-100 before:content-[''] before:block before:absolute before:w-full before:h-12 before:top-[-35px] before:left-0 grid-cols-1 w-[185px]">
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="sv1"
                   >
                     <a
@@ -314,7 +314,7 @@ const About3 = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="sv2"
                   >
                     <a
@@ -334,7 +334,7 @@ const About3 = () => (
                     <span className="block bg-gray-100 w-full h-[1px] my-[5px]" />
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="p1"
                   >
                     <a
@@ -350,7 +350,7 @@ const About3 = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="p2"
                   >
                     <a
@@ -370,7 +370,7 @@ const About3 = () => (
                     <span className="block bg-gray-100 w-full h-[1px] my-[5px]" />
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="faqs1"
                   >
                     <a
@@ -386,7 +386,7 @@ const About3 = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="faqs2"
                   >
                     <a
@@ -406,7 +406,7 @@ const About3 = () => (
                     <span className="block bg-gray-100 w-full h-[1px] my-[5px]" />
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="career"
                   >
                     <a
@@ -422,7 +422,7 @@ const About3 = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="career-details"
                   >
                     <a
@@ -455,7 +455,7 @@ const About3 = () => (
                 </i>
                 <ul className="menu-child translate-y-4 opacity-0 bg-white top-full z-50 py-2 grid menu-shadow -translate-x-6 translate-y-8 transition-all duration-200 pointer-events-none group-hover:pointer-events-auto lg:absolute rounded-[4px] group-hover:grid group-hover:opacity-100 before:content-[''] before:block before:absolute before:w-full before:h-12 before:top-[-35px] before:left-0 grid-cols-1 w-[185px]">
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="contact"
                   >
                     <a
@@ -471,7 +471,7 @@ const About3 = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="singup"
                   >
                     <a
@@ -487,7 +487,7 @@ const About3 = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="login"
                   >
                     <a
@@ -503,7 +503,7 @@ const About3 = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="rp"
                   >
                     <a
@@ -519,7 +519,7 @@ const About3 = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="error404"
                   >
                     <a
@@ -552,7 +552,7 @@ const About3 = () => (
                 </i>
                 <ul className="menu-child translate-y-4 opacity-0 bg-white top-full z-50 py-2 grid menu-shadow -translate-x-6 translate-y-8 transition-all duration-200 pointer-events-none group-hover:pointer-events-auto lg:absolute rounded-[4px] group-hover:grid group-hover:opacity-100 before:content-[''] before:block before:absolute before:w-full before:h-12 before:top-[-35px] before:left-0 grid-cols-1 w-[185px]">
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="b1"
                   >
                     <a
@@ -568,7 +568,7 @@ const About3 = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="b2"
                   >
                     <a
@@ -588,7 +588,7 @@ const About3 = () => (
                     <span className="block bg-gray-100 w-full h-[1px] my-[5px]" />
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="single"
                   >
                     <a
@@ -621,7 +621,7 @@ const About3 = () => (
                 </i>
                 <ul className="menu-child translate-y-4 opacity-0 bg-white top-full z-50 py-2 grid menu-shadow -translate-x-6 translate-y-8 transition-all duration-200 pointer-events-none group-hover:pointer-events-auto lg:absolute rounded-[4px] group-hover:grid group-hover:opacity-100 before:content-[''] before:block before:absolute before:w-full before:h-12 before:top-[-35px] before:left-0 grid-cols-1 w-[185px]">
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="s1"
                   >
                     <a
@@ -637,7 +637,7 @@ const About3 = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="s2"
                   >
                     <a
@@ -653,7 +653,7 @@ const About3 = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="product"
                   >
                     <a
@@ -679,7 +679,7 @@ const About3 = () => (
                 className="flex items-center inline-block z-10 relative transition-all duration-200 group px-[22px] py-[15px] lg:px-[32px] lg:py-[22px] rounded-[50px] bg-gray-100 text-gray-900 hover:bg-gray-900 hover:text-white hover:-translate-y-[2px] hidden lg:flex"
                 href="#"
               >
-                <span className="block text-inherit w-full h-full rounded-[50px] text-heading-6 font-bold font-chivo">
+                <span className="block text-inherit w-full h-full rounded-[50px] text-heading-6 font-bold font-poppins">
                   Learn more
                 </span>
                 <i>
@@ -708,13 +708,13 @@ const About3 = () => (
             />
             <div>
               <p className="font-bold">Hi! Steven</p>
-              <p className="text-sm font-chivo text-gray-500">
+              <p className="text-sm font-poppins text-gray-500">
                 You have 5 new messages
               </p>
             </div>
           </div>
           <div className="p-[30px]">
-            <ul className="font-chivo font-medium text-[16px] leading-[16px]">
+            <ul className="font-poppins font-medium text-[16px] leading-[16px]">
               <li className="group menu-mobile-item py-[13px]">
                 <div className="flex items-center justify-between transition-all duration-200 hover:text-green-900 hover:translate-x-[2px]">
                   <p>Home</p>
@@ -1089,7 +1089,7 @@ const About3 = () => (
                 </li>
               </ul>
             </div>
-            <div className="text-gray-400 font-chivo text-[13px]">
+            <div className="text-gray-400 font-poppins text-[13px]">
               Copyright 2022 © Agon - Agency Template.
               <br />
               <span>Designed by</span>
@@ -1102,12 +1102,12 @@ const About3 = () => (
       </header>
       <div className="px-[12px] md:px-[36px] mt-[70px] xl:px-0 text-center">
         <div className="text-center mb-[35px] md:mb-[43px]">
-          <h2 className="font-bold font-chivo mx-auto text-[35px] leading-[44px] md:text-[46px] md:leading-[52px] lg:text-heading-1 text-gray-900 mb-5 md:mb-[30px] max-w-[725px]">
+          <h2 className="font-bold font-poppins mx-auto text-[35px] leading-[44px] md:text-[46px] md:leading-[52px] lg:text-heading-1 text-gray-900 mb-5 md:mb-[30px] max-w-[725px]">
             Our Story
           </h2>
           <p className="text-quote md:text-lead-lg text-gray-600 mx-auto max-w-[976px]"></p>
         </div>
-        <h3 className="font-bold font-chivo text-[20px] leading-[26px] md:text-heading-4 text-gray-600 mx-auto mb-[40px] md:mb-[75px] md:w-[47ch]">
+        <h3 className="font-bold font-poppins text-[20px] leading-[26px] md:text-heading-4 text-gray-600 mx-auto mb-[40px] md:mb-[75px] md:w-[47ch]">
           We supply enterprises, organizations and institutes of high-tech
           industries with modern components. We build long-term trusting
           relationships with our customers and partnes for further fruitful
@@ -1130,7 +1130,7 @@ const About3 = () => (
       </div>
       <div className="px-[12px] md:px-[36px] mt-[70px] xl:px-0 lg:mt-[138px]">
         <div className="text-center mb-[45px] lg:mb-[88px]">
-          <h2 className="font-bold font-chivo mx-auto text-[35px] leading-[44px] md:text-[46px] md:leading-[52px] lg:text-heading-1 text-gray-900 mb-5 md:mb-[30px] max-w-full">
+          <h2 className="font-bold font-poppins mx-auto text-[35px] leading-[44px] md:text-[46px] md:leading-[52px] lg:text-heading-1 text-gray-900 mb-5 md:mb-[30px] max-w-full">
             Providing solutions of every kind
           </h2>
           <p className="text-quote md:text-lead-lg text-gray-600 mx-auto max-w-[743px]">
@@ -1146,7 +1146,7 @@ const About3 = () => (
               alt="icon"
             />
             <div>
-              <h3 className="font-bold font-chivo text-[20px] leading-[26px] md:text-heading-4 mb-[14px]">
+              <h3 className="font-bold font-poppins text-[20px] leading-[26px] md:text-heading-4 mb-[14px]">
                 1. Acquisition
               </h3>
               <p className="text-excerpt">
@@ -1162,7 +1162,7 @@ const About3 = () => (
               alt="icon"
             />
             <div>
-              <h3 className="font-bold font-chivo text-[20px] leading-[26px] md:text-heading-4 mb-[14px]">
+              <h3 className="font-bold font-poppins text-[20px] leading-[26px] md:text-heading-4 mb-[14px]">
                 2. Activation
               </h3>
               <p className="text-excerpt">
@@ -1178,7 +1178,7 @@ const About3 = () => (
               alt="icon"
             />
             <div>
-              <h3 className="font-bold font-chivo text-[20px] leading-[26px] md:text-heading-4 mb-[14px]">
+              <h3 className="font-bold font-poppins text-[20px] leading-[26px] md:text-heading-4 mb-[14px]">
                 3. Retention
               </h3>
               <p className="text-excerpt">
@@ -1192,10 +1192,10 @@ const About3 = () => (
       <div className="full-width bg-bg-6">
         <div className="px-[12px] md:px-[36px] mt-[70px] xl:px-0 flex flex-col gap-6 mx-auto py-[98px] lg:flex-row max-w-[1320px]">
           <div className="flex-[1.36] mr-[90px]">
-            <span className="font-chivo inline-block bg-bg-9 text-gray-900 py-[14px] px-[28px] rounded-[50px] text-[14px] leading-[14px] mb-[36px]">
+            <span className="font-poppins inline-block bg-bg-9 text-gray-900 py-[14px] px-[28px] rounded-[50px] text-[14px] leading-[14px] mb-[36px]">
               Built Exclusively For You
             </span>
-            <h1 className="font-extrabold font-chivo text-[35px] leading-[44px] sm:text-[46px] sm:leading-[52px] md:text-heading-1 mb-[25px]">
+            <h1 className="font-extrabold font-poppins text-[35px] leading-[44px] sm:text-[46px] sm:leading-[52px] md:text-heading-1 mb-[25px]">
               Don’t take our word for it. See what our clients say.
             </h1>
             <p className="text-quote md:text-lead-lg text-gray-600 mb-[55px]">
@@ -1208,7 +1208,7 @@ const About3 = () => (
                 className="flex items-center inline-block z-10 relative transition-all duration-200 group px-[22px] py-[15px] lg:px-[32px] lg:py-[22px] rounded-[50px] bg-gray-100 text-gray-900 hover:bg-gray-900 hover:text-white hover:-translate-y-[2px] text-gray-900 bg-white w-fit"
                 href="#"
               >
-                <span className="block text-inherit w-full h-full rounded-[50px] text-lg font-chivo font-semibold">
+                <span className="block text-inherit w-full h-full rounded-[50px] text-lg font-poppins font-semibold">
                   Learn More
                 </span>
                 <i>
@@ -1324,10 +1324,10 @@ const About3 = () => (
             alt="Agon"
           />
           <div className="flex-1 order-1 lg:gap-[30px] xl:gap-[64px]">
-            <span className="font-chivo inline-block bg-bg-6 text-green-900 py-[14px] px-[28px] rounded-[50px] text-[14px] leading-[14px] mb-[22px]">
+            <span className="font-poppins inline-block bg-bg-6 text-green-900 py-[14px] px-[28px] rounded-[50px] text-[14px] leading-[14px] mb-[22px]">
               An Exceptionally unique experience Tailored to you
             </span>
-            <h3 className="font-chivo font-bold lg:text-heading-1 md:text-[46px] md:leading-[52px] text-[35px] leading-[44px] mb-[22px]">
+            <h3 className="font-poppins font-bold lg:text-heading-1 md:text-[46px] md:leading-[52px] text-[35px] leading-[44px] mb-[22px]">
               From the big picture to every tiny detail, we got you covered.
             </h3>
             <p className="text-quote md:text-lead-lg text-gray-600 mb-[50px]">
@@ -1343,7 +1343,7 @@ const About3 = () => (
                     src="./assets/images/icons/icon-leaf.svg"
                     alt="leaf icon"
                   />
-                  <h4 className="text-heading-6 font-chivo font-bold">
+                  <h4 className="text-heading-6 font-poppins font-bold">
                     Boost your sale
                   </h4>
                 </div>
@@ -1358,7 +1358,7 @@ const About3 = () => (
                     src="./assets/images/icons/icon-leaf.svg"
                     alt="leaf icon"
                   />
-                  <h4 className="text-heading-6 font-chivo font-bold">
+                  <h4 className="text-heading-6 font-poppins font-bold">
                     Smart Installation Tools
                   </h4>
                 </div>
@@ -1373,7 +1373,7 @@ const About3 = () => (
                     src="./assets/images/icons/icon-leaf.svg"
                     alt="leaf icon"
                   />
-                  <h4 className="text-heading-6 font-chivo font-bold">
+                  <h4 className="text-heading-6 font-poppins font-bold">
                     Introducing New Features
                   </h4>
                 </div>
@@ -1388,7 +1388,7 @@ const About3 = () => (
                     src="./assets/images/icons/icon-leaf.svg"
                     alt="leaf icon"
                   />
-                  <h4 className="text-heading-6 font-chivo font-bold">
+                  <h4 className="text-heading-6 font-poppins font-bold">
                     Dynamic Boosting
                   </h4>
                 </div>
@@ -1403,7 +1403,7 @@ const About3 = () => (
       <div className="px-[12px] md:px-[36px] mt-[70px] xl:px-0 lg:mt-[88px]">
         <div className="grid grid-cols-2 flex-1 text-center gap-2 gap-y-8 md:grid-cols-2 xl:gap-y-[70px] lg:grid-cols-5 mb-[44px] md:mb-[88px]">
           <div>
-            <h1 className="font-chivo font-bold lg:text-display-3 md:text-[45px] md:leading-[52px] text-[35px] leading-[42px] mb-1 text-green-900">
+            <h1 className="font-poppins font-bold lg:text-display-3 md:text-[45px] md:leading-[52px] text-[35px] leading-[42px] mb-1 text-green-900">
               +12
             </h1>
             <p className="text-text text-gray-500 mx-auto md:w-[26ch]">
@@ -1411,7 +1411,7 @@ const About3 = () => (
             </p>
           </div>
           <div>
-            <h1 className="font-chivo font-bold lg:text-display-3 md:text-[45px] md:leading-[52px] text-[35px] leading-[42px] mb-1 text-green-900">
+            <h1 className="font-poppins font-bold lg:text-display-3 md:text-[45px] md:leading-[52px] text-[35px] leading-[42px] mb-1 text-green-900">
               2K+
             </h1>
             <p className="text-text text-gray-500 mx-auto md:w-[26ch]">
@@ -1419,7 +1419,7 @@ const About3 = () => (
             </p>
           </div>
           <div>
-            <h1 className="font-chivo font-bold lg:text-display-3 md:text-[45px] md:leading-[52px] text-[35px] leading-[42px] mb-1 text-green-900">
+            <h1 className="font-poppins font-bold lg:text-display-3 md:text-[45px] md:leading-[52px] text-[35px] leading-[42px] mb-1 text-green-900">
               28+
             </h1>
             <p className="text-text text-gray-500 mx-auto md:w-[26ch]">
@@ -1427,7 +1427,7 @@ const About3 = () => (
             </p>
           </div>
           <div>
-            <h1 className="font-chivo font-bold lg:text-display-3 md:text-[45px] md:leading-[52px] text-[35px] leading-[42px] mb-1 text-green-900">
+            <h1 className="font-poppins font-bold lg:text-display-3 md:text-[45px] md:leading-[52px] text-[35px] leading-[42px] mb-1 text-green-900">
               86
             </h1>
             <p className="text-text text-gray-500 mx-auto md:w-[26ch]">
@@ -1435,7 +1435,7 @@ const About3 = () => (
             </p>
           </div>
           <div>
-            <h1 className="font-chivo font-bold lg:text-display-3 md:text-[45px] md:leading-[52px] text-[35px] leading-[42px] mb-1 text-green-900">
+            <h1 className="font-poppins font-bold lg:text-display-3 md:text-[45px] md:leading-[52px] text-[35px] leading-[42px] mb-1 text-green-900">
               +12
             </h1>
             <p className="text-text text-gray-500 mx-auto md:w-[26ch]">
@@ -1447,7 +1447,7 @@ const About3 = () => (
       </div>
       <div className="px-[12px] md:px-[36px] mt-[70px] xl:px-0 lg:mt-[128px]">
         <div className="text-center mb-[30px] md:mb-[90px]">
-          <h2 className="font-bold font-chivo mx-auto text-[35px] leading-[44px] md:text-[46px] md:leading-[52px] lg:text-heading-1 text-gray-900 mb-5 md:mb-[30px] md:w-[13ch]">
+          <h2 className="font-bold font-poppins mx-auto text-[35px] leading-[44px] md:text-[46px] md:leading-[52px] lg:text-heading-1 text-gray-900 mb-5 md:mb-[30px] md:w-[13ch]">
             Building the Work Ecosystem
           </h2>
           <p className="text-quote md:text-lead-lg text-gray-600 mx-auto md:w-[56ch]">
@@ -1457,7 +1457,7 @@ const About3 = () => (
         </div>
         <div className="mx-auto lg:flex gap-[30px] max-w-[1190px]">
           <div className="text-center rounded-2xl p-5 max-h-[300px] md:max-h-[450px] lg:max-h-[380px] xl:max-h-[455px] md:p-14 mb-[150px] md:mb-[300px] lg:mb-0 transition-all duration-300 hover:translate-y-[-3px] bg-bg-2">
-            <h3 className="font-bold font-chivo text-[20px] leading-[26px] md:text-heading-4 mb-[18px]">
+            <h3 className="font-bold font-poppins text-[20px] leading-[26px] md:text-heading-4 mb-[18px]">
               Cross-Platform
             </h3>
             <p className="text-md text-gray-600 mb-[22px] lg:mx-16">
@@ -1471,7 +1471,7 @@ const About3 = () => (
             />
           </div>
           <div className="text-center rounded-2xl p-5 max-h-[300px] md:max-h-[450px] lg:max-h-[380px] xl:max-h-[455px] md:p-14 mb-[150px] md:mb-[300px] lg:mb-0 transition-all duration-300 hover:translate-y-[-3px] bg-bg-6">
-            <h3 className="font-bold font-chivo text-[20px] leading-[26px] md:text-heading-4 mb-[18px]">
+            <h3 className="font-bold font-poppins text-[20px] leading-[26px] md:text-heading-4 mb-[18px]">
               Extremely Flexible
             </h3>
             <p className="text-md text-gray-600 mb-[22px] lg:mx-16">
@@ -1489,7 +1489,7 @@ const About3 = () => (
       <div className="px-[12px] md:px-[36px] mt-[70px] xl:px-0 lg:mt-[238px]">
         <div className="flex flex-col gap-6 lg:flex-row lg:items-center lg:justify-between mb-[45px] md:mb-[87px]">
           <div>
-            <h2 className="text-gray-900 font-bold font-chivo mb-5 text-[35px] leading-[44px] md:text-[46px] md:leading-[52px] lg:text-heading-1 md:mb-[30px] max-w-[725px]">
+            <h2 className="text-gray-900 font-bold font-poppins mb-5 text-[35px] leading-[44px] md:text-[46px] md:leading-[52px] lg:text-heading-1 md:mb-[30px] max-w-[725px]">
               From Our Blog
             </h2>
             <p className="text-quote md:text-lead-lg text-gray-600">
@@ -1502,7 +1502,7 @@ const About3 = () => (
               className="flex items-center inline-block z-10 relative transition-all duration-200 group px-[22px] py-[15px] lg:px-[32px] lg:py-[22px] rounded-[50px] bg-gray-900 text-white hover:bg-gray-100 hover:text-gray-900 hover:-translate-y-[2px] text-white bg-gray-900 w-fit"
               href="#"
             >
-              <span className="block text-inherit w-full h-full rounded-[50px] text-lg font-chivo font-semibold">
+              <span className="block text-inherit w-full h-full rounded-[50px] text-lg font-poppins font-semibold">
                 View More
               </span>
               <i>
@@ -1522,7 +1522,7 @@ const About3 = () => (
               <div className="bg-gray-500 rounded-full w-[3px] h-[3px] mr-[6px]" />
               <span className="uppercase text-gray-500">company</span>
             </div>
-            <p className="text-heading-4 font-chivo font-bold inline-block mb-[26px]">
+            <p className="text-heading-4 font-poppins font-bold inline-block mb-[26px]">
               We can blend colors multiple ways, the most common
             </p>
             <div className="relative mb-16">
@@ -1545,7 +1545,7 @@ const About3 = () => (
               <div className="bg-gray-500 rounded-full w-[3px] h-[3px] mr-[6px]" />
               <span className="uppercase text-gray-500">Marketing Event</span>
             </div>
-            <p className="text-heading-4 font-chivo font-bold inline-block mb-[26px]">
+            <p className="text-heading-4 font-poppins font-bold inline-block mb-[26px]">
               How To Blow Through Capital At An Incredible Rate
             </p>
             <div className="relative mb-16">
@@ -1568,7 +1568,7 @@ const About3 = () => (
               <div className="bg-gray-500 rounded-full w-[3px] h-[3px] mr-[6px]" />
               <span className="uppercase text-gray-500">Customer Services</span>
             </div>
-            <p className="text-heading-4 font-chivo font-bold inline-block mb-[26px]">
+            <p className="text-heading-4 font-poppins font-bold inline-block mb-[26px]">
               Design Studios That Everyone Should Know About?
             </p>
             <div className="relative mb-16">
@@ -1594,7 +1594,7 @@ const About3 = () => (
             <p className="text-capitalized uppercase text-gray-500 tracking-[2px] mb-[13px]">
               newsletter
             </p>
-            <h4 className="font-bold font-chivo text-[28px] leading-[32px] md:text-heading-2 mb-[20px]">
+            <h4 className="font-bold font-poppins text-[28px] leading-[32px] md:text-heading-2 mb-[20px]">
               Subscribe our newsletter
             </h4>
             <p className="text-text text-gray-500">
@@ -1660,7 +1660,7 @@ const About3 = () => (
               alt="logo"
             />
             <div className="flex items-center flex-col gap-5 md:flex-row lg:gap-[30px]">
-              <p className="text-heading-6 font-chivo font-bold">
+              <p className="text-heading-6 font-poppins font-bold">
                 Ready to get started?
               </p>
               <button type="button">
@@ -1669,7 +1669,7 @@ const About3 = () => (
                   className="flex items-center inline-block z-10 relative transition-all duration-200 group px-[22px] py-[15px] lg:px-[32px] lg:py-[22px] rounded-md bg-gray-900 text-white hover:bg-gray-100 hover:text-gray-900 hover:-translate-y-[2px] text-white bg-gray-900 w-fit"
                   href="#"
                 >
-                  <span className="block text-inherit w-full h-full rounded-md text-lg font-chivo font-semibold">
+                  <span className="block text-inherit w-full h-full rounded-md text-lg font-poppins font-semibold">
                     Create an Account
                   </span>
                 </a>
@@ -1679,7 +1679,7 @@ const About3 = () => (
           <div className="w-full bg-gray-200 h-[1px] mb-[52px]" />
           <div className="text-gray-600 grid gird-cols-1 gap-8 mb-[48px] md:grid-cols-2 lg:grid-cols-5 xl:gap-[98px]">
             <div>
-              <h5 className="text-heading-5 font-chivo font-bold text-gray-900 mb-5 text-[18px]">
+              <h5 className="text-heading-5 font-poppins font-bold text-gray-900 mb-5 text-[18px]">
                 Contact
               </h5>
               <p className="text-text mb-5">
@@ -1689,7 +1689,7 @@ const About3 = () => (
               <p className="text-text underline">support@ekonkarkolhu.shop</p>
             </div>
             <div>
-              <h5 className="text-heading-5 font-chivo font-bold text-gray-900 mb-5 text-[18px]">
+              <h5 className="text-heading-5 font-poppins font-bold text-gray-900 mb-5 text-[18px]">
                 About Us
               </h5>
               <ul>
@@ -1744,7 +1744,7 @@ const About3 = () => (
               </ul>
             </div>
             <div>
-              <h5 className="text-heading-5 font-chivo font-bold text-gray-900 mb-5 text-[18px]">
+              <h5 className="text-heading-5 font-poppins font-bold text-gray-900 mb-5 text-[18px]">
                 Discover
               </h5>
               <ul>
@@ -1799,7 +1799,7 @@ const About3 = () => (
               </ul>
             </div>
             <div>
-              <h5 className="text-heading-5 font-chivo font-bold text-gray-900 mb-5 text-[18px]">
+              <h5 className="text-heading-5 font-poppins font-bold text-gray-900 mb-5 text-[18px]">
                 Support
               </h5>
               <ul>
@@ -1854,7 +1854,7 @@ const About3 = () => (
               </ul>
             </div>
             <div>
-              <h5 className="text-heading-5 font-chivo font-bold text-gray-900 mb-5 text-[18px]">
+              <h5 className="text-heading-5 font-poppins font-bold text-gray-900 mb-5 text-[18px]">
                 Useful links
               </h5>
               <ul>

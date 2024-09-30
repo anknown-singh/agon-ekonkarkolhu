@@ -10,10 +10,10 @@ const Recipe = () => (
       />
       <div className="full-width">
         <div className="text-center px-5 pt-[74px] pb-[90px]">
-          <h1 className="font-chivo font-bold lg:text-display-3 md:text-[45px] md:leading-[52px] text-[35px] leading-[42px] mb-7">
+          <h1 className="font-poppins font-bold lg:text-display-3 md:text-[45px] md:leading-[52px] text-[35px] leading-[42px] mb-7">
             Our Blog
           </h1>
-          <p className="font-bold font-chivo text-[14px] md:text-heading-6 text-gray-600 mx-auto md:max-w-[55ch]">
+          <p className="font-bold font-poppins text-[14px] md:text-heading-6 text-gray-600 mx-auto md:max-w-[55ch]">
             From year to year we strive to invent the most innovative technology
             that is used by both small enterprises and space enterprises.
           </p>
@@ -48,7 +48,7 @@ const Recipe = () => (
                       Marketing Event
                     </span>
                   </div>
-                  <h2 className="font-bold font-chivo text-[25px] leading-[30px] md:text-heading-3 mb-5">
+                  <h2 className="font-bold font-poppins text-[25px] leading-[30px] md:text-heading-3 mb-5">
         
                     <a href="#">
                       How To Blow Through Capital At An Incredible Rate
@@ -102,7 +102,7 @@ const Recipe = () => (
                       Marketing Event
                     </span>
                   </div>
-                  <h2 className="font-bold font-chivo text-[25px] leading-[30px] md:text-heading-3 mb-5">
+                  <h2 className="font-bold font-poppins text-[25px] leading-[30px] md:text-heading-3 mb-5">
         
                     <a href="#">
                       How To Blow Through Capital At An Incredible Rate
@@ -156,7 +156,7 @@ const Recipe = () => (
                       Marketing Event
                     </span>
                   </div>
-                  <h2 className="font-bold font-chivo text-[25px] leading-[30px] md:text-heading-3 mb-5">
+                  <h2 className="font-bold font-poppins text-[25px] leading-[30px] md:text-heading-3 mb-5">
                     {" "}
                     <a href="#">
                       How To Blow Through Capital At An Incredible Rate
@@ -202,7 +202,7 @@ const Recipe = () => (
       <div className="px-[12px] md:px-[36px] mt-[70px] xl:px-0 z-10 relative lg:mt-[138px]">
         <div className="flex flex-col gap-6 justify-center lg:flex-row lg:items-center mb-[45px] md:mb-[87px]">
           <div className="text-center">
-            <h2 className="font-bold font-chivo mx-auto text-[35px] leading-[44px] md:text-[46px] md:leading-[52px] lg:text-heading-1 text-gray-900 mb-5 md:mb-[30px] max-w-[725px]">
+            <h2 className="font-bold font-poppins mx-auto text-[35px] leading-[44px] md:text-[46px] md:leading-[52px] lg:text-heading-1 text-gray-900 mb-5 md:mb-[30px] max-w-[725px]">
               Latest News
             </h2>
             <p className="text-quote md:text-lead-lg text-gray-600 mx-auto max-w-[976px]">
@@ -216,7 +216,7 @@ const Recipe = () => (
               <div className="bg-gray-500 rounded-full w-[3px] h-[3px] mr-[6px]" />
               <span className="uppercase text-gray-500">company</span>
             </div>
-            <p className="text-heading-4 font-chivo font-bold inline-block mb-[26px]">
+            <p className="text-heading-4 font-poppins font-bold inline-block mb-[26px]">
               We can blend colors multiple ways, the most common
             </p>
             <div className="relative mb-16">
@@ -239,7 +239,7 @@ const Recipe = () => (
               <div className="bg-gray-500 rounded-full w-[3px] h-[3px] mr-[6px]" />
               <span className="uppercase text-gray-500">Marketing Event</span>
             </div>
-            <p className="text-heading-4 font-chivo font-bold inline-block mb-[26px]">
+            <p className="text-heading-4 font-poppins font-bold inline-block mb-[26px]">
               How To Blow Through Capital At An Incredible Rate
             </p>
             <div className="relative mb-16">
@@ -262,7 +262,7 @@ const Recipe = () => (
               <div className="bg-gray-500 rounded-full w-[3px] h-[3px] mr-[6px]" />
               <span className="uppercase text-gray-500">Customer Services</span>
             </div>
-            <p className="text-heading-4 font-chivo font-bold inline-block mb-[26px]">
+            <p className="text-heading-4 font-poppins font-bold inline-block mb-[26px]">
               Design Studios That Everyone Should Know About?
             </p>
             <div className="relative mb-16">
@@ -288,7 +288,7 @@ const Recipe = () => (
             className="flex items-center inline-block z-10 relative transition-all duration-200 group px-[22px] py-[15px] lg:px-[32px] lg:py-[22px] rounded-[50px] bg-gray-900 text-white hover:bg-gray-100 hover:text-gray-900 hover:-translate-y-[2px] w-fit mx-auto"
             href="#"
           >
-            <span className="block text-inherit w-full h-full rounded-[50px] text-lg font-chivo font-semibold">
+            <span className="block text-inherit w-full h-full rounded-[50px] text-lg font-poppins font-semibold">
               Load more posts
             </span>
             <i>

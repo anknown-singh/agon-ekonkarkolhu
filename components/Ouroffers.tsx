@@ -21,7 +21,7 @@ const Banner = () => (
                     alt="pattern icon"
                 />
                 <div className="text-center relative mb-[70px] md:mb-[90px]">
-                    <h2 className="font-bold font-chivo mx-auto text-[35px] leading-[44px] md:text-[46px] md:leading-[52px] lg:text-heading-1 text-gray-900 mb-5 md:mb-[30px] max-w-[725px]">
+                    <h2 className="font-bold font-poppins mx-auto text-[35px] leading-[44px] md:text-[46px] md:leading-[52px] lg:text-heading-1 text-gray-900 mb-5 md:mb-[30px] max-w-[725px]">
                         What We Offer
                     </h2>
                     <p className="text-quote md:text-lead-lg text-gray-600 mx-auto md:max-w-[50ch]">
@@ -36,7 +36,7 @@ const Banner = () => (
                             src="./assets/images/icons/icon-trees.svg"
                             alt="icon"
                         />
-                        <h3 className="font-chivo font-bold text-[18px] md:text-heading-5 mb-[20px]">
+                        <h3 className="font-poppins font-bold text-[18px] md:text-heading-5 mb-[20px]">
                             Market research
                         </h3>
                         <p className="text-text text-gray-600">
@@ -49,7 +49,7 @@ const Banner = () => (
                             src="./assets/images/icons/icon-sun.svg"
                             alt="icon"
                         />
-                        <h3 className="font-chivo font-bold text-[18px] md:text-heading-5 mb-[20px]">
+                        <h3 className="font-poppins font-bold text-[18px] md:text-heading-5 mb-[20px]">
                             Strategic Consulting
                         </h3>
                         <p className="text-text text-gray-600">
@@ -62,7 +62,7 @@ const Banner = () => (
                             src="./assets/images/icons/icon-hat.svg"
                             alt="icon"
                         />
-                        <h3 className="font-chivo font-bold text-[18px] md:text-heading-5 mb-[20px]">
+                        <h3 className="font-poppins font-bold text-[18px] md:text-heading-5 mb-[20px]">
                             Cognitive Solution{" "}
                         </h3>
                         <p className="text-text text-gray-600">
@@ -75,7 +75,7 @@ const Banner = () => (
                             src="./assets/images/icons/icon-trees.svg"
                             alt="icon"
                         />
-                        <h3 className="font-chivo font-bold text-[18px] md:text-heading-5 mb-[20px]">
+                        <h3 className="font-poppins font-bold text-[18px] md:text-heading-5 mb-[20px]">
                             Market research
                         </h3>
                         <p className="text-text text-gray-600">
@@ -88,7 +88,7 @@ const Banner = () => (
                             src="./assets/images/icons/icon-sun.svg"
                             alt="icon"
                         />
-                        <h3 className="font-chivo font-bold text-[18px] md:text-heading-5 mb-[20px]">
+                        <h3 className="font-poppins font-bold text-[18px] md:text-heading-5 mb-[20px]">
                             Strategic Consulting
                         </h3>
                         <p className="text-text text-gray-600">
@@ -101,7 +101,7 @@ const Banner = () => (
                             src="./assets/images/icons/icon-hat.svg"
                             alt="icon"
                         />
-                        <h3 className="font-chivo font-bold text-[18px] md:text-heading-5 mb-[20px]">
+                        <h3 className="font-poppins font-bold text-[18px] md:text-heading-5 mb-[20px]">
                             Cognitive Solution{" "}
                         </h3>
                         <p className="text-text text-gray-600">
@@ -114,7 +114,7 @@ const Banner = () => (
                             src="./assets/images/icons/icon-trees.svg"
                             alt="icon"
                         />
-                        <h3 className="font-chivo font-bold text-[18px] md:text-heading-5 mb-[20px]">
+                        <h3 className="font-poppins font-bold text-[18px] md:text-heading-5 mb-[20px]">
                             Market research
                         </h3>
                         <p className="text-text text-gray-600">
@@ -127,7 +127,7 @@ const Banner = () => (
                             src="./assets/images/icons/icon-sun.svg"
                             alt="icon"
                         />
-                        <h3 className="font-chivo font-bold text-[18px] md:text-heading-5 mb-[20px]">
+                        <h3 className="font-poppins font-bold text-[18px] md:text-heading-5 mb-[20px]">
                             Strategic Consulting
                         </h3>
                         <p className="text-text text-gray-600">
@@ -140,7 +140,7 @@ const Banner = () => (
                             src="./assets/images/icons/icon-hat.svg"
                             alt="icon"
                         />
-                        <h3 className="font-chivo font-bold text-[18px] md:text-heading-5 mb-[20px]">
+                        <h3 className="font-poppins font-bold text-[18px] md:text-heading-5 mb-[20px]">
                             Cognitive Solution{" "}
                         </h3>
                         <p className="text-text text-gray-600">

@@ -15,7 +15,7 @@ const Testimonials = () => (
         <div className="px-[12px] md:px-[36px] mt-[70px] xl:px-0">
             <div className="items-center justify-between md:flex mb-[30px] md:mb-[80px]">
                 <div>
-                    <h2 className="text-gray-900 font-bold font-chivo mb-5 text-[35px] leading-[44px] md:text-[46px] md:leading-[52px] lg:text-heading-1 md:mb-[30px] max-w-[725px]">
+                    <h2 className="text-gray-900 font-bold font-poppins mb-5 text-[35px] leading-[44px] md:text-[46px] md:leading-[52px] lg:text-heading-1 md:mb-[30px] max-w-[725px]">
                         Our Happy Customers
                     </h2>
                     <p className="text-quote md:text-lead-lg text-gray-600">
@@ -46,7 +46,7 @@ const Testimonials = () => (
                         src="./assets/images/avatar-1.png"
                         alt="avatar"
                     />
-                    <p className="text-heading-6 font-chivo font-bold mb-[6px]">
+                    <p className="text-heading-6 font-poppins font-bold mb-[6px]">
                         Wade Warren
                     </p>
                     <p className="text-sm font-bold mb-5 text-gray-700">
@@ -63,7 +63,7 @@ const Testimonials = () => (
                         src="./assets/images/avatar-2.png"
                         alt="avatar"
                     />
-                    <p className="text-heading-6 font-chivo font-bold mb-[6px]">
+                    <p className="text-heading-6 font-poppins font-bold mb-[6px]">
                         Wade Warren
                     </p>
                     <p className="text-sm font-bold mb-5 text-gray-700">
@@ -80,7 +80,7 @@ const Testimonials = () => (
                         src="./assets/images/avatar-3.png"
                         alt="avatar"
                     />
-                    <p className="text-heading-6 font-chivo font-bold mb-[6px]">
+                    <p className="text-heading-6 font-poppins font-bold mb-[6px]">
                         Wade Warren
                     </p>
                     <p className="text-sm font-bold mb-5 text-gray-700">
@@ -97,7 +97,7 @@ const Testimonials = () => (
                         src="./assets/images/avatar-4.png"
                         alt="avatar"
                     />
-                    <p className="text-heading-6 font-chivo font-bold mb-[6px]">
+                    <p className="text-heading-6 font-poppins font-bold mb-[6px]">
                         Wade Warren
                     </p>
                     <p className="text-sm font-bold mb-5 text-gray-700">
@@ -114,7 +114,7 @@ const Testimonials = () => (
                         src="./assets/images/avatar-5.png"
                         alt="avatar"
                     />
-                    <p className="text-heading-6 font-chivo font-bold mb-[6px]">
+                    <p className="text-heading-6 font-poppins font-bold mb-[6px]">
                         Wade Warren
                     </p>
                     <p className="text-sm font-bold mb-5 text-gray-700">
@@ -131,7 +131,7 @@ const Testimonials = () => (
                         src="./assets/images/avatar-6.png"
                         alt="avatar"
                     />
-                    <p className="text-heading-6 font-chivo font-bold mb-[6px]">
+                    <p className="text-heading-6 font-poppins font-bold mb-[6px]">
                         Wade Warren
                     </p>
                     <p className="text-sm font-bold mb-5 text-gray-700">
@@ -148,7 +148,7 @@ const Testimonials = () => (
                         src="./assets/images/avatar-7.png"
                         alt="avatar"
                     />
-                    <p className="text-heading-6 font-chivo font-bold mb-[6px]">
+                    <p className="text-heading-6 font-poppins font-bold mb-[6px]">
                         Wade Warren
                     </p>
                     <p className="text-sm font-bold mb-5 text-gray-700">
@@ -165,7 +165,7 @@ const Testimonials = () => (
                         src="./assets/images/avatar-8.png"
                         alt="avatar"
                     />
-                    <p className="text-heading-6 font-chivo font-bold mb-[6px]">
+                    <p className="text-heading-6 font-poppins font-bold mb-[6px]">
                         Wade Warren
                     </p>
                     <p className="text-sm font-bold mb-5 text-gray-700">

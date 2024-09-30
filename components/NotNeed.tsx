@@ -50,7 +50,7 @@ const NotNeed = () => (
         />
         <div className="px-[12px] md:px-[36px] mt-[70px] xl:px-0 pt-[90px] pb-[111px]">
           <div className="text-center text-white mb-[56px]">
-            <h2 className="font-bold font-chivo mx-auto text-[35px] leading-[44px] md:text-[46px] md:leading-[52px] lg:text-heading-1 text-white mb-5 md:mb-[30px] max-w-[725px]">
+            <h2 className="font-bold font-poppins mx-auto text-[35px] leading-[44px] md:text-[46px] md:leading-[52px] lg:text-heading-1 text-white mb-5 md:mb-[30px] max-w-[725px]">
               Choose The Best Plan That’s For You
             </h2>
             <p className="text-quote md:text-lead-lg text-gray-600 mx-auto max-w-[976px]"></p>
@@ -81,14 +81,14 @@ const NotNeed = () => (
               <div className="rounded-2xl p-[30px] md:py-[53px] md:px-[48px] bg-white flex flex-col justify-between transition-all duration-300 package-card p-[35px] bill-monthly">
                 <div>
                   <div className="mb-[21px]">
-                    <span className="text-heading-3 font-bold font-chivo">
+                    <span className="text-heading-3 font-bold font-poppins">
                       $35
                     </span>
                     <span className="text-sm font-bold text-gray-400 ml-[2px]">
                       /month
                     </span>
                   </div>
-                  <h5 className="text-heading-5 font-chivo font-bold mb-[9px]">
+                  <h5 className="text-heading-5 font-poppins font-bold mb-[9px]">
                     Standard
                   </h5>
                   <p className="text-sm font-bold text-gray-400 mb-[43px]">
@@ -143,7 +143,7 @@ const NotNeed = () => (
                     className="flex items-center inline-block z-10 relative transition-all duration-200 group py-[11px] px-[22px] rounded-md bg-gray-900 text-white hover:bg-gray-100 hover:text-gray-900 hover:-translate-y-[2px] border-[2px] border-[#171B24]"
                     href="#"
                   >
-                    <span className="block text-inherit w-full h-full rounded-md text-lg font-chivo font-semibold">
+                    <span className="block text-inherit w-full h-full rounded-md text-lg font-poppins font-semibold">
                       Get Started
                     </span>
                     <i>
@@ -160,14 +160,14 @@ const NotNeed = () => (
               <div className="rounded-2xl p-[30px] md:py-[53px] md:px-[48px] bg-white bill-monthly flex flex-col justify-between p-[35px]">
                 <div>
                   <div className="mb-[21px]">
-                    <span className="text-heading-3 font-bold font-chivo">
+                    <span className="text-heading-3 font-bold font-poppins">
                       $89
                     </span>
                     <span className="text-sm font-bold text-gray-400 ml-[2px]">
                       /month
                     </span>
                   </div>
-                  <h5 className="text-heading-5 font-chivo font-bold mb-[9px]">
+                  <h5 className="text-heading-5 font-poppins font-bold mb-[9px]">
                     Essentials
                   </h5>
                   <p className="text-sm font-bold text-gray-400 mb-[43px]">
@@ -219,7 +219,7 @@ const NotNeed = () => (
                     className="flex items-center inline-block z-10 relative transition-all duration-200 group py-[11px] px-[22px] rounded-md bg-gray-900 text-white hover:bg-gray-100 hover:text-gray-900 hover:-translate-y-[2px] border-[2px] border-[#171B24]"
                     href="#"
                   >
-                    <span className="block text-inherit w-full h-full rounded-md text-lg font-chivo font-semibold">
+                    <span className="block text-inherit w-full h-full rounded-md text-lg font-poppins font-semibold">
                       Get Started
                     </span>
                     <i>
@@ -236,14 +236,14 @@ const NotNeed = () => (
               <div className="rounded-2xl p-[30px] md:py-[53px] md:px-[48px] bg-white flex flex-col justify-between transition-all duration-300 package-card p-[35px] col-span-1 bill-monthly md:col-span-2 lg:col-span-1">
                 <div>
                   <div className="mb-[21px]">
-                    <span className="text-heading-3 font-bold font-chivo">
+                    <span className="text-heading-3 font-bold font-poppins">
                       $125
                     </span>
                     <span className="text-sm font-bold text-gray-400 ml-[2px]">
                       /month
                     </span>
                   </div>
-                  <h5 className="text-heading-5 font-chivo font-bold mb-[9px]">
+                  <h5 className="text-heading-5 font-poppins font-bold mb-[9px]">
                     Premium
                   </h5>
                   <p className="text-sm font-bold text-gray-400 mb-[43px]">
@@ -298,7 +298,7 @@ const NotNeed = () => (
                     className="flex items-center inline-block z-10 relative transition-all duration-200 group py-[11px] px-[22px] rounded-md bg-gray-900 text-white hover:bg-gray-100 hover:text-gray-900 hover:-translate-y-[2px] border-[2px] border-[#171B24]"
                     href="#"
                   >
-                    <span className="block text-inherit w-full h-full rounded-md text-lg font-chivo font-semibold">
+                    <span className="block text-inherit w-full h-full rounded-md text-lg font-poppins font-semibold">
                       Get Started
                     </span>
                     <i>
@@ -315,14 +315,14 @@ const NotNeed = () => (
               <div className="rounded-2xl p-[30px] md:py-[53px] md:px-[48px] bg-white flex flex-col justify-between transition-all duration-300 package-card p-[35px] bill-annually">
                 <div>
                   <div className="mb-[21px]">
-                    <span className="text-heading-3 font-bold font-chivo">
+                    <span className="text-heading-3 font-bold font-poppins">
                       $420
                     </span>
                     <span className="text-sm font-bold text-gray-400 ml-[2px]">
                       /year
                     </span>
                   </div>
-                  <h5 className="text-heading-5 font-chivo font-bold mb-[9px]">
+                  <h5 className="text-heading-5 font-poppins font-bold mb-[9px]">
                     Standard
                   </h5>
                   <p className="text-sm font-bold text-gray-400 mb-[43px]">
@@ -377,7 +377,7 @@ const NotNeed = () => (
                     className="flex items-center inline-block z-10 relative transition-all duration-200 group py-[11px] px-[22px] rounded-md bg-gray-900 text-white hover:bg-gray-100 hover:text-gray-900 hover:-translate-y-[2px] border-[2px] border-[#171B24]"
                     href="#"
                   >
-                    <span className="block text-inherit w-full h-full rounded-md text-lg font-chivo font-semibold">
+                    <span className="block text-inherit w-full h-full rounded-md text-lg font-poppins font-semibold">
                       Get Started
                     </span>
                     <i>
@@ -394,14 +394,14 @@ const NotNeed = () => (
               <div className="rounded-2xl p-[30px] md:py-[53px] md:px-[48px] bg-white bill-annually flex flex-col justify-between p-[35px]">
                 <div>
                   <div className="mb-[21px]">
-                    <span className="text-heading-3 font-bold font-chivo">
+                    <span className="text-heading-3 font-bold font-poppins">
                       $1068
                     </span>
                     <span className="text-sm font-bold text-gray-400 ml-[2px]">
                       /year
                     </span>
                   </div>
-                  <h5 className="text-heading-5 font-chivo font-bold mb-[9px]">
+                  <h5 className="text-heading-5 font-poppins font-bold mb-[9px]">
                     Essentials
                   </h5>
                   <p className="text-sm font-bold text-gray-400 mb-[43px]">
@@ -453,7 +453,7 @@ const NotNeed = () => (
                     className="flex items-center inline-block z-10 relative transition-all duration-200 group py-[11px] px-[22px] rounded-md bg-gray-900 text-white hover:bg-gray-100 hover:text-gray-900 hover:-translate-y-[2px] border-[2px] border-[#171B24]"
                     href="#"
                   >
-                    <span className="block text-inherit w-full h-full rounded-md text-lg font-chivo font-semibold">
+                    <span className="block text-inherit w-full h-full rounded-md text-lg font-poppins font-semibold">
                       Get Started
                     </span>
                     <i>
@@ -470,14 +470,14 @@ const NotNeed = () => (
               <div className="rounded-2xl p-[30px] md:py-[53px] md:px-[48px] bg-white flex flex-col justify-between transition-all duration-300 package-card p-[35px] col-span-1 bill-annually md:col-span-2 lg:col-span-1">
                 <div>
                   <div className="mb-[21px]">
-                    <span className="text-heading-3 font-bold font-chivo">
+                    <span className="text-heading-3 font-bold font-poppins">
                       $1500
                     </span>
                     <span className="text-sm font-bold text-gray-400 ml-[2px]">
                       /year
                     </span>
                   </div>
-                  <h5 className="text-heading-5 font-chivo font-bold mb-[9px]">
+                  <h5 className="text-heading-5 font-poppins font-bold mb-[9px]">
                     Premium
                   </h5>
                   <p className="text-sm font-bold text-gray-400 mb-[43px]">
@@ -532,7 +532,7 @@ const NotNeed = () => (
                     className="flex items-center inline-block z-10 relative transition-all duration-200 group py-[11px] px-[22px] rounded-md bg-gray-900 text-white hover:bg-gray-100 hover:text-gray-900 hover:-translate-y-[2px] border-[2px] border-[#171B24]"
                     href="#"
                   >
-                    <span className="block text-inherit w-full h-full rounded-md text-lg font-chivo font-semibold">
+                    <span className="block text-inherit w-full h-full rounded-md text-lg font-poppins font-semibold">
                       Get Started
                     </span>
                     <i>
@@ -556,7 +556,7 @@ const NotNeed = () => (
             <p className="text-capitalized uppercase text-gray-500 tracking-[2px] mb-[13px]">
               newsletter
             </p>
-            <h4 className="font-bold font-chivo text-[28px] leading-[32px] md:text-heading-2 mb-[20px]">
+            <h4 className="font-bold font-poppins text-[28px] leading-[32px] md:text-heading-2 mb-[20px]">
               Subscribe our newsletter
             </h4>
             <p className="text-text text-gray-500">

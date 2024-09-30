@@ -261,7 +261,8 @@ video {
     --orange-100: #faede3;
     --orange-500: #ffddd2;
     --orange-900: #e29578;
-    --primary: #508fda;
+    /* --primary: #508fda; */
+    --primary: #FC7A1E;
     --secondary: #8d99ae;
     --success: #06d6a0;
     --danger: #ef476f;
@@ -286,7 +287,7 @@ video {
 
 html {
     /* font-family: Noto Sans, system-ui, sans-serif */
-    font-family: "Poppins", sans-serif;
+    font-family: "Poppins",system-ui, sans-serif;
 }
 
 select {
@@ -3517,13 +3518,17 @@ select {
     vertical-align: middle
 }
 
-.font-chivo {
+.font-poppins {
     font-family: Poppins, sans-serif
 }
 
 .text-heading-6 {
     font-size: 18px;
-    line-height: 22px
+    line-height: 22px;
+    background: url(../images/bg-text.png) top center;
+    background-repeat: repeat;
+    background-clip: text;
+    color: transparent;
 }
 
 .text-\[18px\] {
@@ -3979,15 +3984,15 @@ select {
     display: none
 }
 
-.placeholder\:font-chivo::-moz-placeholder {
+.placeholder\:font-poppins::-moz-placeholder {
     font-family: Poppins, sans-serif
 }
 
-.placeholder\:font-chivo:-ms-input-placeholder {
+.placeholder\:font-poppins:-ms-input-placeholder {
     font-family: Poppins, sans-serif
 }
 
-.placeholder\:font-chivo::placeholder {
+.placeholder\:font-poppins::placeholder {
     font-family: Poppins, sans-serif
 }
 
@@ -4893,7 +4898,7 @@ select {
     .md\:text-heading-1 {
         font-size: 56px;
         letter-spacing: -.01em;
-        line-height: 64px
+        line-height: 70px
     }
 
     .md\:text-lg {
@@ -5453,12 +5458,13 @@ select {
     .lg\:text-heading-1 {
         font-size: 56px;
         letter-spacing: -.01em;
-        line-height: 64px
+        line-height: 70px
     }
 
     .lg\:text-heading-6 {
         font-size: 18px;
-        line-height: 22px
+        line-height: 22px;
+     
     }
 
     .lg\:text-display-3 {
@@ -5497,6 +5503,30 @@ select {
         padding-bottom: 26px;
         padding-top: 26px
     }
+
+    .footer-image{
+        background-color: #FC7A1E;
+        background-image: "public/images/partner-logo-2.svg";
+    }
+    .heading-style{
+        background: url(../images/bg-text.png) bottom center;
+        background-repeat: repeat;
+        background-clip: text;
+        color: transparent;
+    }
+    .contact-bg{
+        background: url(../images/bg-text.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: right;
+
+    }
+    .card-bg{
+        animation: rotBGimg 3s linear infinite;
+        transition: all 0.2s linear;
+        background-image: linear-gradient(180deg, rgb(255 242 0), rgb(255 48 48));
+    }
+  
 }
 
 @media (min-width:1280px) {

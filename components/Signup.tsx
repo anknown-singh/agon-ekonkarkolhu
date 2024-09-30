@@ -74,7 +74,7 @@ const Signup = () => (
             />
           </a>
           <nav className="z-50 absolute hidden top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 lg:block">
-            <ul className="navbar flex flex-col justify-center font-chivo gap-[34px] lg:flex-row">
+            <ul className="navbar flex flex-col justify-center font-poppins gap-[34px] lg:flex-row">
               <li className="flex items-center group">
                 <a
                   className="hover:text-green-900 text-base font-inter menu-link lg:text-heading-6 mr-[7px]"
@@ -91,7 +91,7 @@ const Signup = () => (
                 </i>
                 <ul className="menu-child translate-y-4 opacity-0 bg-white top-full z-50 py-2 grid menu-shadow -translate-x-6 translate-y-8 transition-all duration-200 pointer-events-none group-hover:pointer-events-auto lg:absolute rounded-[4px] group-hover:grid group-hover:opacity-100 before:content-[''] before:block before:absolute before:w-full before:h-12 before:top-[-35px] before:left-0 grid-cols-2 w-[340px]">
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="hp1"
                   >
                     <a className="flex items-center text-[14px]" href="/">
@@ -104,7 +104,7 @@ const Signup = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="hp2"
                   >
                     <a
@@ -120,7 +120,7 @@ const Signup = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="hp3"
                   >
                     <a
@@ -136,7 +136,7 @@ const Signup = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="hp4"
                   >
                     <a
@@ -152,7 +152,7 @@ const Signup = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="hp5"
                   >
                     <a
@@ -168,7 +168,7 @@ const Signup = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="hp6"
                   >
                     <a
@@ -184,7 +184,7 @@ const Signup = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="hp7"
                   >
                     <a
@@ -200,7 +200,7 @@ const Signup = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="hp8"
                   >
                     <a
@@ -233,7 +233,7 @@ const Signup = () => (
                 </i>
                 <ul className="menu-child translate-y-4 opacity-0 bg-white top-full z-50 py-2 grid menu-shadow -translate-x-6 translate-y-8 transition-all duration-200 pointer-events-none group-hover:pointer-events-auto lg:absolute rounded-[4px] group-hover:grid group-hover:opacity-100 before:content-[''] before:block before:absolute before:w-full before:h-12 before:top-[-35px] before:left-0 grid-cols-1 w-[185px]">
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="ab1"
                   >
                     <a
@@ -249,7 +249,7 @@ const Signup = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="ab2"
                   >
                     <a
@@ -265,7 +265,7 @@ const Signup = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="ab3"
                   >
                     <a
@@ -298,7 +298,7 @@ const Signup = () => (
                 </i>
                 <ul className="menu-child translate-y-4 opacity-0 bg-white top-full z-50 py-2 grid menu-shadow -translate-x-6 translate-y-8 transition-all duration-200 pointer-events-none group-hover:pointer-events-auto lg:absolute rounded-[4px] group-hover:grid group-hover:opacity-100 before:content-[''] before:block before:absolute before:w-full before:h-12 before:top-[-35px] before:left-0 grid-cols-1 w-[185px]">
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="sv1"
                   >
                     <a
@@ -314,7 +314,7 @@ const Signup = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="sv2"
                   >
                     <a
@@ -334,7 +334,7 @@ const Signup = () => (
                     <span className="block bg-gray-100 w-full h-[1px] my-[5px]" />
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="p1"
                   >
                     <a
@@ -350,7 +350,7 @@ const Signup = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="p2"
                   >
                     <a
@@ -370,7 +370,7 @@ const Signup = () => (
                     <span className="block bg-gray-100 w-full h-[1px] my-[5px]" />
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="faqs1"
                   >
                     <a
@@ -386,7 +386,7 @@ const Signup = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="faqs2"
                   >
                     <a
@@ -406,7 +406,7 @@ const Signup = () => (
                     <span className="block bg-gray-100 w-full h-[1px] my-[5px]" />
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="career"
                   >
                     <a
@@ -422,7 +422,7 @@ const Signup = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="career-details"
                   >
                     <a
@@ -455,7 +455,7 @@ const Signup = () => (
                 </i>
                 <ul className="menu-child translate-y-4 opacity-0 bg-white top-full z-50 py-2 grid menu-shadow -translate-x-6 translate-y-8 transition-all duration-200 pointer-events-none group-hover:pointer-events-auto lg:absolute rounded-[4px] group-hover:grid group-hover:opacity-100 before:content-[''] before:block before:absolute before:w-full before:h-12 before:top-[-35px] before:left-0 grid-cols-1 w-[185px]">
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="contact"
                   >
                     <a
@@ -471,7 +471,7 @@ const Signup = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="singup"
                   >
                     <a
@@ -487,7 +487,7 @@ const Signup = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="login"
                   >
                     <a
@@ -503,7 +503,7 @@ const Signup = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="rp"
                   >
                     <a
@@ -519,7 +519,7 @@ const Signup = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="error404"
                   >
                     <a
@@ -552,7 +552,7 @@ const Signup = () => (
                 </i>
                 <ul className="menu-child translate-y-4 opacity-0 bg-white top-full z-50 py-2 grid menu-shadow -translate-x-6 translate-y-8 transition-all duration-200 pointer-events-none group-hover:pointer-events-auto lg:absolute rounded-[4px] group-hover:grid group-hover:opacity-100 before:content-[''] before:block before:absolute before:w-full before:h-12 before:top-[-35px] before:left-0 grid-cols-1 w-[185px]">
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="b1"
                   >
                     <a
@@ -568,7 +568,7 @@ const Signup = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="b2"
                   >
                     <a
@@ -588,7 +588,7 @@ const Signup = () => (
                     <span className="block bg-gray-100 w-full h-[1px] my-[5px]" />
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="single"
                   >
                     <a
@@ -621,7 +621,7 @@ const Signup = () => (
                 </i>
                 <ul className="menu-child translate-y-4 opacity-0 bg-white top-full z-50 py-2 grid menu-shadow -translate-x-6 translate-y-8 transition-all duration-200 pointer-events-none group-hover:pointer-events-auto lg:absolute rounded-[4px] group-hover:grid group-hover:opacity-100 before:content-[''] before:block before:absolute before:w-full before:h-12 before:top-[-35px] before:left-0 grid-cols-1 w-[185px]">
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="s1"
                   >
                     <a
@@ -637,7 +637,7 @@ const Signup = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="s2"
                   >
                     <a
@@ -653,7 +653,7 @@ const Signup = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="product"
                   >
                     <a
@@ -679,7 +679,7 @@ const Signup = () => (
                 className="flex items-center inline-block z-10 relative transition-all duration-200 group px-[22px] py-[15px] lg:px-[32px] lg:py-[22px] rounded-[50px] bg-gray-100 text-gray-900 hover:bg-gray-900 hover:text-white hover:-translate-y-[2px] hidden lg:flex"
                 href="#"
               >
-                <span className="block text-inherit w-full h-full rounded-[50px] text-heading-6 font-bold font-chivo">
+                <span className="block text-inherit w-full h-full rounded-[50px] text-heading-6 font-bold font-poppins">
                   Learn more
                 </span>
                 <i>
@@ -708,13 +708,13 @@ const Signup = () => (
             />
             <div>
               <p className="font-bold">Hi! Steven</p>
-              <p className="text-sm font-chivo text-gray-500">
+              <p className="text-sm font-poppins text-gray-500">
                 You have 5 new messages
               </p>
             </div>
           </div>
           <div className="p-[30px]">
-            <ul className="font-chivo font-medium text-[16px] leading-[16px]">
+            <ul className="font-poppins font-medium text-[16px] leading-[16px]">
               <li className="group menu-mobile-item py-[13px]">
                 <div className="flex items-center justify-between transition-all duration-200 hover:text-green-900 hover:translate-x-[2px]">
                   <p>Home</p>
@@ -1089,7 +1089,7 @@ const Signup = () => (
                 </li>
               </ul>
             </div>
-            <div className="text-gray-400 font-chivo text-[13px]">
+            <div className="text-gray-400 font-poppins text-[13px]">
               Copyright 2022 © Agon - Agency Template.
               <br />
               <span>Designed by</span>
@@ -1102,7 +1102,7 @@ const Signup = () => (
       </header>
       <div className="full-width bg-bg-6 px-5 text-center flex flex-col items-center justify-center pt-[127px] pb-[300px] lg:pb-[400px]">
         <div className="max-w-[400px]">
-          <h2 className="font-bold font-chivo text-[25px] leading-[30px] md:text-heading-3 mb-[50px]">
+          <h2 className="font-bold font-poppins text-[25px] leading-[30px] md:text-heading-3 mb-[50px]">
             Let’s join us
           </h2>
           <button type="button">
@@ -1111,7 +1111,7 @@ const Signup = () => (
               className="flex items-center inline-block z-10 relative transition-all duration-200 group py-[13px] md:px-[95px] px-[60px] rounded-md bg-white text-gray-500 hover:text-gray-900 hover:-translate-y-[2px] text-gray-500 flex flex-row-reverse w-fit mb-[30px]"
               href="#"
             >
-              <span className="block text-inherit w-full h-full rounded-md text-lg font-chivo font-semibold">
+              <span className="block text-inherit w-full h-full rounded-md text-lg font-poppins font-semibold">
                 Sign up with Google
               </span>
               <img
@@ -1134,7 +1134,7 @@ const Signup = () => (
           >
             <div className="relative mb-6">
               <input
-                className="outline-none flex-1 pr-3 border caret-green-900 w-full placeholder:text-gray-400 placeholder:text-text placeholder:font-chivo border-[#C2C8D0] rounded-[4px] py-[14px] pl-[16px] pr-[12px] focus:border-green-900 focus:border-[2px]"
+                className="outline-none flex-1 pr-3 border caret-green-900 w-full placeholder:text-gray-400 placeholder:text-text placeholder:font-poppins border-[#C2C8D0] rounded-[4px] py-[14px] pl-[16px] pr-[12px] focus:border-green-900 focus:border-[2px]"
                 type="text"
                 placeholder="Your name *"
                 required="required"
@@ -1148,7 +1148,7 @@ const Signup = () => (
             </div>
             <div className="relative mb-6">
               <input
-                className="outline-none flex-1 pr-3 border caret-green-900 w-full placeholder:text-gray-400 placeholder:text-text placeholder:font-chivo border-[#C2C8D0] rounded-[4px] py-[14px] pl-[16px] pr-[12px] focus:border-green-900 focus:border-[2px]"
+                className="outline-none flex-1 pr-3 border caret-green-900 w-full placeholder:text-gray-400 placeholder:text-text placeholder:font-poppins border-[#C2C8D0] rounded-[4px] py-[14px] pl-[16px] pr-[12px] focus:border-green-900 focus:border-[2px]"
                 type="text"
                 placeholder="Your email *"
                 required="required"
@@ -1156,13 +1156,13 @@ const Signup = () => (
             </div>
             <div className="relative mb-6 last-of-type:mb-4">
               <input
-                className="outline-none flex-1 pr-3 border caret-green-900 w-full peer placeholder:text-gray-400 placeholder:text-text placeholder:font-chivo border-[#C2C8D0] rounded-[4px] py-[14px] pl-[16px] pr-[12px] focus:border-green-900 focus:border-[2px]"
+                className="outline-none flex-1 pr-3 border caret-green-900 w-full peer placeholder:text-gray-400 placeholder:text-text placeholder:font-poppins border-[#C2C8D0] rounded-[4px] py-[14px] pl-[16px] pr-[12px] focus:border-green-900 focus:border-[2px]"
                 required="required"
                 type="password"
                 name="password"
                 id="password"
               />
-              <span className="text-gray-400 text-sm px-1 font-chivo font-medium absolute left-3 bg-white -translate-y-1/2 peer-focus:text-green-900">
+              <span className="text-gray-400 text-sm px-1 font-poppins font-medium absolute left-3 bg-white -translate-y-1/2 peer-focus:text-green-900">
                 Password
               </span>
               <i className="absolute hover:opacity-70 top-1/2 -translate-y-1/2 right-[12px]">
@@ -1175,13 +1175,13 @@ const Signup = () => (
             </div>
             <div className="relative mb-6 last-of-type:mb-4">
               <input
-                className="outline-none flex-1 pr-3 border caret-green-900 w-full peer placeholder:text-gray-400 placeholder:text-text placeholder:font-chivo border-[#C2C8D0] rounded-[4px] py-[14px] pl-[16px] pr-[12px] focus:border-green-900 focus:border-[2px]"
+                className="outline-none flex-1 pr-3 border caret-green-900 w-full peer placeholder:text-gray-400 placeholder:text-text placeholder:font-poppins border-[#C2C8D0] rounded-[4px] py-[14px] pl-[16px] pr-[12px] focus:border-green-900 focus:border-[2px]"
                 required="required"
                 type="password"
                 name="password"
                 id="retype-password"
               />
-              <span className="text-gray-400 text-sm px-1 font-chivo font-medium absolute left-3 bg-white -translate-y-1/2 peer-focus:text-green-900">
+              <span className="text-gray-400 text-sm px-1 font-poppins font-medium absolute left-3 bg-white -translate-y-1/2 peer-focus:text-green-900">
                 Re-type Password
               </span>
               <i className="absolute hover:opacity-70 top-1/2 -translate-y-1/2 right-[12px]">
@@ -1215,7 +1215,7 @@ const Signup = () => (
               </span>
             </div>
             <button
-              className="mb-6 w-full text-white bg-green-900 transition-opacity duration-200 text-heading-6 font-chivo font-bold shadow-sm py-[13px] hover:opacity-75"
+              className="mb-6 w-full text-white bg-green-900 transition-opacity duration-200 text-heading-6 font-poppins font-bold shadow-sm py-[13px] hover:opacity-75"
               type="submit"
             >
               Continue
@@ -1282,7 +1282,7 @@ const Signup = () => (
               alt="logo"
             />
             <div className="flex items-center flex-col gap-5 md:flex-row lg:gap-[30px]">
-              <p className="text-heading-6 font-chivo font-bold">
+              <p className="text-heading-6 font-poppins font-bold">
                 Ready to get started?
               </p>
               <button type="button">
@@ -1291,7 +1291,7 @@ const Signup = () => (
                   className="flex items-center inline-block z-10 relative transition-all duration-200 group px-[22px] py-[15px] lg:px-[32px] lg:py-[22px] rounded-md bg-gray-900 text-white hover:bg-gray-100 hover:text-gray-900 hover:-translate-y-[2px] text-white bg-gray-900 w-fit"
                   href="#"
                 >
-                  <span className="block text-inherit w-full h-full rounded-md text-lg font-chivo font-semibold">
+                  <span className="block text-inherit w-full h-full rounded-md text-lg font-poppins font-semibold">
                     Create an Account
                   </span>
                 </a>
@@ -1301,7 +1301,7 @@ const Signup = () => (
           <div className="w-full bg-gray-200 h-[1px] mb-[52px]" />
           <div className="text-gray-600 grid gird-cols-1 gap-8 mb-[48px] md:grid-cols-2 lg:grid-cols-5 xl:gap-[98px]">
             <div>
-              <h5 className="text-heading-5 font-chivo font-bold text-gray-900 mb-5 text-[18px]">
+              <h5 className="text-heading-5 font-poppins font-bold text-gray-900 mb-5 text-[18px]">
                 Contact
               </h5>
               <p className="text-text mb-5">
@@ -1311,7 +1311,7 @@ const Signup = () => (
               <p className="text-text underline">support@ekonkarkolhu.shop</p>
             </div>
             <div>
-              <h5 className="text-heading-5 font-chivo font-bold text-gray-900 mb-5 text-[18px]">
+              <h5 className="text-heading-5 font-poppins font-bold text-gray-900 mb-5 text-[18px]">
                 About Us
               </h5>
               <ul>
@@ -1366,7 +1366,7 @@ const Signup = () => (
               </ul>
             </div>
             <div>
-              <h5 className="text-heading-5 font-chivo font-bold text-gray-900 mb-5 text-[18px]">
+              <h5 className="text-heading-5 font-poppins font-bold text-gray-900 mb-5 text-[18px]">
                 Discover
               </h5>
               <ul>
@@ -1421,7 +1421,7 @@ const Signup = () => (
               </ul>
             </div>
             <div>
-              <h5 className="text-heading-5 font-chivo font-bold text-gray-900 mb-5 text-[18px]">
+              <h5 className="text-heading-5 font-poppins font-bold text-gray-900 mb-5 text-[18px]">
                 Support
               </h5>
               <ul>
@@ -1476,7 +1476,7 @@ const Signup = () => (
               </ul>
             </div>
             <div>
-              <h5 className="text-heading-5 font-chivo font-bold text-gray-900 mb-5 text-[18px]">
+              <h5 className="text-heading-5 font-poppins font-bold text-gray-900 mb-5 text-[18px]">
                 Useful links
               </h5>
               <ul>

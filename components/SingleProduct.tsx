@@ -74,7 +74,7 @@ const SingleProduct = () => (
             />
           </a>
           <nav className="z-50 absolute hidden top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 lg:block">
-            <ul className="navbar flex flex-col justify-center font-chivo gap-[34px] lg:flex-row">
+            <ul className="navbar flex flex-col justify-center font-poppins gap-[34px] lg:flex-row">
               <li className="flex items-center group">
                 <a
                   className="hover:text-green-900 text-base font-inter menu-link lg:text-heading-6 mr-[7px]"
@@ -91,7 +91,7 @@ const SingleProduct = () => (
                 </i>
                 <ul className="menu-child translate-y-4 opacity-0 bg-white top-full z-50 py-2 grid menu-shadow -translate-x-6 translate-y-8 transition-all duration-200 pointer-events-none group-hover:pointer-events-auto lg:absolute rounded-[4px] group-hover:grid group-hover:opacity-100 before:content-[''] before:block before:absolute before:w-full before:h-12 before:top-[-35px] before:left-0 grid-cols-2 w-[340px]">
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="hp1"
                   >
                     <a className="flex items-center text-[14px]" href="/">
@@ -104,7 +104,7 @@ const SingleProduct = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="hp2"
                   >
                     <a
@@ -120,7 +120,7 @@ const SingleProduct = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="hp3"
                   >
                     <a
@@ -136,7 +136,7 @@ const SingleProduct = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="hp4"
                   >
                     <a
@@ -152,7 +152,7 @@ const SingleProduct = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="hp5"
                   >
                     <a
@@ -168,7 +168,7 @@ const SingleProduct = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="hp6"
                   >
                     <a
@@ -184,7 +184,7 @@ const SingleProduct = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="hp7"
                   >
                     <a
@@ -200,7 +200,7 @@ const SingleProduct = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="hp8"
                   >
                     <a
@@ -233,7 +233,7 @@ const SingleProduct = () => (
                 </i>
                 <ul className="menu-child translate-y-4 opacity-0 bg-white top-full z-50 py-2 grid menu-shadow -translate-x-6 translate-y-8 transition-all duration-200 pointer-events-none group-hover:pointer-events-auto lg:absolute rounded-[4px] group-hover:grid group-hover:opacity-100 before:content-[''] before:block before:absolute before:w-full before:h-12 before:top-[-35px] before:left-0 grid-cols-1 w-[185px]">
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="ab1"
                   >
                     <a
@@ -249,7 +249,7 @@ const SingleProduct = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="ab2"
                   >
                     <a
@@ -265,7 +265,7 @@ const SingleProduct = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="ab3"
                   >
                     <a
@@ -298,7 +298,7 @@ const SingleProduct = () => (
                 </i>
                 <ul className="menu-child translate-y-4 opacity-0 bg-white top-full z-50 py-2 grid menu-shadow -translate-x-6 translate-y-8 transition-all duration-200 pointer-events-none group-hover:pointer-events-auto lg:absolute rounded-[4px] group-hover:grid group-hover:opacity-100 before:content-[''] before:block before:absolute before:w-full before:h-12 before:top-[-35px] before:left-0 grid-cols-1 w-[185px]">
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="sv1"
                   >
                     <a
@@ -314,7 +314,7 @@ const SingleProduct = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="sv2"
                   >
                     <a
@@ -334,7 +334,7 @@ const SingleProduct = () => (
                     <span className="block bg-gray-100 w-full h-[1px] my-[5px]" />
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="p1"
                   >
                     <a
@@ -350,7 +350,7 @@ const SingleProduct = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="p2"
                   >
                     <a
@@ -370,7 +370,7 @@ const SingleProduct = () => (
                     <span className="block bg-gray-100 w-full h-[1px] my-[5px]" />
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="faqs1"
                   >
                     <a
@@ -386,7 +386,7 @@ const SingleProduct = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="faqs2"
                   >
                     <a
@@ -406,7 +406,7 @@ const SingleProduct = () => (
                     <span className="block bg-gray-100 w-full h-[1px] my-[5px]" />
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="career"
                   >
                     <a
@@ -422,7 +422,7 @@ const SingleProduct = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="career-details"
                   >
                     <a
@@ -455,7 +455,7 @@ const SingleProduct = () => (
                 </i>
                 <ul className="menu-child translate-y-4 opacity-0 bg-white top-full z-50 py-2 grid menu-shadow -translate-x-6 translate-y-8 transition-all duration-200 pointer-events-none group-hover:pointer-events-auto lg:absolute rounded-[4px] group-hover:grid group-hover:opacity-100 before:content-[''] before:block before:absolute before:w-full before:h-12 before:top-[-35px] before:left-0 grid-cols-1 w-[185px]">
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="contact"
                   >
                     <a
@@ -471,7 +471,7 @@ const SingleProduct = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="singup"
                   >
                     <a
@@ -487,7 +487,7 @@ const SingleProduct = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="login"
                   >
                     <a
@@ -503,7 +503,7 @@ const SingleProduct = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="rp"
                   >
                     <a
@@ -519,7 +519,7 @@ const SingleProduct = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="error404"
                   >
                     <a
@@ -552,7 +552,7 @@ const SingleProduct = () => (
                 </i>
                 <ul className="menu-child translate-y-4 opacity-0 bg-white top-full z-50 py-2 grid menu-shadow -translate-x-6 translate-y-8 transition-all duration-200 pointer-events-none group-hover:pointer-events-auto lg:absolute rounded-[4px] group-hover:grid group-hover:opacity-100 before:content-[''] before:block before:absolute before:w-full before:h-12 before:top-[-35px] before:left-0 grid-cols-1 w-[185px]">
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="b1"
                   >
                     <a
@@ -568,7 +568,7 @@ const SingleProduct = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="b2"
                   >
                     <a
@@ -588,7 +588,7 @@ const SingleProduct = () => (
                     <span className="block bg-gray-100 w-full h-[1px] my-[5px]" />
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="single"
                   >
                     <a
@@ -621,7 +621,7 @@ const SingleProduct = () => (
                 </i>
                 <ul className="menu-child translate-y-4 opacity-0 bg-white top-full z-50 py-2 grid menu-shadow -translate-x-6 translate-y-8 transition-all duration-200 pointer-events-none group-hover:pointer-events-auto lg:absolute rounded-[4px] group-hover:grid group-hover:opacity-100 before:content-[''] before:block before:absolute before:w-full before:h-12 before:top-[-35px] before:left-0 grid-cols-1 w-[185px]">
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="s1"
                   >
                     <a
@@ -637,7 +637,7 @@ const SingleProduct = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="s2"
                   >
                     <a
@@ -653,7 +653,7 @@ const SingleProduct = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="product"
                   >
                     <a
@@ -679,7 +679,7 @@ const SingleProduct = () => (
                 className="flex items-center inline-block z-10 relative transition-all duration-200 group px-[22px] py-[15px] lg:px-[32px] lg:py-[22px] rounded-[50px] bg-gray-100 text-gray-900 hover:bg-gray-900 hover:text-white hover:-translate-y-[2px] hidden lg:flex"
                 href="#"
               >
-                <span className="block text-inherit w-full h-full rounded-[50px] text-heading-6 font-bold font-chivo">
+                <span className="block text-inherit w-full h-full rounded-[50px] text-heading-6 font-bold font-poppins">
                   Learn more
                 </span>
                 <i>
@@ -708,13 +708,13 @@ const SingleProduct = () => (
             />
             <div>
               <p className="font-bold">Hi! Steven</p>
-              <p className="text-sm font-chivo text-gray-500">
+              <p className="text-sm font-poppins text-gray-500">
                 You have 5 new messages
               </p>
             </div>
           </div>
           <div className="p-[30px]">
-            <ul className="font-chivo font-medium text-[16px] leading-[16px]">
+            <ul className="font-poppins font-medium text-[16px] leading-[16px]">
               <li className="group menu-mobile-item py-[13px]">
                 <div className="flex items-center justify-between transition-all duration-200 hover:text-green-900 hover:translate-x-[2px]">
                   <p>Home</p>
@@ -1089,7 +1089,7 @@ const SingleProduct = () => (
                 </li>
               </ul>
             </div>
-            <div className="text-gray-400 font-chivo text-[13px]">
+            <div className="text-gray-400 font-poppins text-[13px]">
               Copyright 2022 © Agon - Agency Template.
               <br />
               <span>Designed by</span>
@@ -1316,15 +1316,15 @@ const SingleProduct = () => (
               </p>
             </div>
           </div>
-          <h3 className="font-bold font-chivo text-[20px] leading-[26px] md:text-heading-4 mb-8">
+          <h3 className="font-bold font-poppins text-[20px] leading-[26px] md:text-heading-4 mb-8">
             Sony Digital Surround Wireless Headphones Black Bundle with Deco
             Gear 6FT Universal 4K
           </h3>
           <div className="flex items-baseline gap-4 mb-8">
-            <h2 className="font-bold font-chivo text-[25px] leading-[30px] md:text-heading-3 text-green-1000">
+            <h2 className="font-bold font-poppins text-[25px] leading-[30px] md:text-heading-3 text-green-1000">
               $318.00
             </h2>
-            <h3 className="font-bold font-chivo text-[20px] leading-[26px] md:text-heading-4 text-gray-500 line-through">
+            <h3 className="font-bold font-poppins text-[20px] leading-[26px] md:text-heading-4 text-gray-500 line-through">
               $420.00
             </h3>
             <p className="text-text text-gray-500">(In stock)</p>
@@ -1337,7 +1337,7 @@ const SingleProduct = () => (
           </p>
           <div className="flex flex-col gap-5 mb-[30px] md:flex-row md:gap-[37px]">
             <div className="flex-1">
-              <div className="font-chivo text-heading-6 font-bold text-green-1000 mb-[10px]">
+              <div className="font-poppins text-heading-6 font-bold text-green-1000 mb-[10px]">
                 <span className="block">Hurry up!</span>
                 <span className="block">Sales ends soon!</span>
               </div>
@@ -1349,7 +1349,7 @@ const SingleProduct = () => (
             <div className="flex items-center justify-center gap-[25px]">
               <div>
                 <div className="border border-gray-200 rounded grid place-items-center relative w-[57px] h-[64px] mb-[2px]">
-                  <p className="text-heading-5 font-bold font-chivo text-green-1000">
+                  <p className="text-heading-5 font-bold font-poppins text-green-1000">
                     10
                   </p>
                   <img
@@ -1364,7 +1364,7 @@ const SingleProduct = () => (
               </div>
               <div>
                 <div className="border border-gray-200 rounded grid place-items-center relative w-[57px] h-[64px] mb-[2px]">
-                  <p className="text-heading-5 font-bold font-chivo text-green-1000">
+                  <p className="text-heading-5 font-bold font-poppins text-green-1000">
                     10
                   </p>
                   <img
@@ -1379,7 +1379,7 @@ const SingleProduct = () => (
               </div>
               <div>
                 <div className="border border-gray-200 rounded grid place-items-center relative w-[57px] h-[64px] mb-[2px]">
-                  <p className="text-heading-5 font-bold font-chivo text-green-1000">
+                  <p className="text-heading-5 font-bold font-poppins text-green-1000">
                     10
                   </p>
                   <img
@@ -1394,7 +1394,7 @@ const SingleProduct = () => (
               </div>
               <div>
                 <div className="border border-gray-200 rounded grid place-items-center relative w-[57px] h-[64px] mb-[2px]">
-                  <p className="text-heading-5 font-bold font-chivo text-green-1000">
+                  <p className="text-heading-5 font-bold font-poppins text-green-1000">
                     10
                   </p>
                 </div>
@@ -1408,7 +1408,7 @@ const SingleProduct = () => (
           <div className="flex flex-col gap-[10px] mb-[46px] md:flex-row">
             <div className="detail-qty border border-green-100 rounded-lg flex items-center justify-between w-[118px]">
               <input
-                className="qty-val text-green-1000 px-4 text-center font-bold font-chivo text-[20px] max-w-[80px]"
+                className="qty-val text-green-1000 px-4 text-center font-bold font-poppins text-[20px] max-w-[80px]"
                 name="quantity"
                 defaultValue={1}
                 min={1}
@@ -1444,7 +1444,7 @@ const SingleProduct = () => (
                   src="./assets/images/icons/icon-cart.svg"
                   alt="cart icon"
                 />
-                <p className="text-green-1000 font-chivo font-bold text-[14px] md:text-[18px] md:leading-[20px]">
+                <p className="text-green-1000 font-poppins font-bold text-[14px] md:text-[18px] md:leading-[20px]">
                   Add To Cart
                 </p>
               </button>
@@ -1790,7 +1790,7 @@ const SingleProduct = () => (
                 </div>
                 <div>
                   <div className="flex justify-between mb-3">
-                    <span className="font-chivo flex-1 text-[13px]">
+                    <span className="font-poppins flex-1 text-[13px]">
                       December 4, 2022 at 3:12 pm
                     </span>
                     <div className="flex items-center relative z-10 overflow-hidden gap-[3px] max-w-[75px]">
@@ -1863,7 +1863,7 @@ const SingleProduct = () => (
                 </div>
                 <div>
                   <div className="flex justify-between mb-3">
-                    <span className="font-chivo flex-1 text-[13px]">
+                    <span className="font-poppins flex-1 text-[13px]">
                       December 4, 2022 at 3:12 pm
                     </span>
                     <div className="flex items-center relative z-10 overflow-hidden gap-[3px] max-w-[75px]">
@@ -1936,7 +1936,7 @@ const SingleProduct = () => (
                 </div>
                 <div>
                   <div className="flex justify-between mb-3">
-                    <span className="font-chivo flex-1 text-[13px]">
+                    <span className="font-poppins flex-1 text-[13px]">
                       December 4, 2022 at 3:12 pm
                     </span>
                     <div className="flex items-center relative z-10 overflow-hidden gap-[3px] max-w-[75px]">
@@ -2112,7 +2112,7 @@ const SingleProduct = () => (
       </div>
       <div className="px-[12px] md:px-[36px] mt-[70px] xl:px-0 lg:mt-[100px]">
         <div className="mb-[35px] md:mb-[64px]">
-          <h2 className="text-gray-900 font-bold font-chivo mb-5 text-[35px] leading-[44px] md:text-[46px] md:leading-[52px] lg:text-heading-1 md:mb-[30px] max-w-[725px]">
+          <h2 className="text-gray-900 font-bold font-poppins mb-5 text-[35px] leading-[44px] md:text-[46px] md:leading-[52px] lg:text-heading-1 md:mb-[30px] max-w-[725px]">
             You may also like
           </h2>
           <p className="text-quote md:text-lead-lg text-gray-600">
@@ -2127,7 +2127,7 @@ const SingleProduct = () => (
                 src="./assets/images/product-sm-1.png"
                 alt="product image"
               />
-              <div className="font-chivo">
+              <div className="font-poppins">
                 <p className="font-bold mb-3 text-[18px] leading-[21px] lg:text-[26px] lg:leading-[32px]">
                   Bass ultra x-203. Head phone
                 </p>
@@ -2150,7 +2150,7 @@ const SingleProduct = () => (
                 src="./assets/images/product-sm-2.png"
                 alt="product image"
               />
-              <div className="font-chivo">
+              <div className="font-poppins">
                 <p className="font-bold mb-3 text-[18px] leading-[21px] lg:text-[26px] lg:leading-[32px]">
                   Bass ultra x-203. Head phone
                 </p>
@@ -2173,7 +2173,7 @@ const SingleProduct = () => (
                 src="./assets/images/product-sm-3.png"
                 alt="product image"
               />
-              <div className="font-chivo">
+              <div className="font-poppins">
                 <p className="font-bold mb-3 text-[18px] leading-[21px] lg:text-[26px] lg:leading-[32px]">
                   Bass ultra x-203. Head phone
                 </p>
@@ -2196,7 +2196,7 @@ const SingleProduct = () => (
                 src="./assets/images/product-sm-1.png"
                 alt="product image"
               />
-              <div className="font-chivo">
+              <div className="font-poppins">
                 <p className="font-bold mb-3 text-[18px] leading-[21px] lg:text-[26px] lg:leading-[32px]">
                   Bass ultra x-203. Head phone
                 </p>
@@ -2219,7 +2219,7 @@ const SingleProduct = () => (
                 src="./assets/images/product-sm-2.png"
                 alt="product image"
               />
-              <div className="font-chivo">
+              <div className="font-poppins">
                 <p className="font-bold mb-3 text-[18px] leading-[21px] lg:text-[26px] lg:leading-[32px]">
                   Bass ultra x-203. Head phone
                 </p>
@@ -2242,7 +2242,7 @@ const SingleProduct = () => (
                 src="./assets/images/product-sm-3.png"
                 alt="product image"
               />
-              <div className="font-chivo">
+              <div className="font-poppins">
                 <p className="font-bold mb-3 text-[18px] leading-[21px] lg:text-[26px] lg:leading-[32px]">
                   Bass ultra x-203. Head phone
                 </p>
@@ -2263,7 +2263,7 @@ const SingleProduct = () => (
       <div className="px-[12px] md:px-[36px] mt-[70px] xl:px-0 lg:mt-[111px]">
         <div className="rounded-2xl p-[30px] md:py-[41px] md:px-[87px] bg-green-900 flex relative">
           <div className="lg:w-[45%]">
-            <h1 className="font-extrabold font-chivo text-[35px] leading-[44px] sm:text-[46px] sm:leading-[52px] md:text-heading-1 text-white mb-[6px]">
+            <h1 className="font-extrabold font-poppins text-[35px] leading-[44px] sm:text-[46px] sm:leading-[52px] md:text-heading-1 text-white mb-[6px]">
               You can order on App and Play store
             </h1>
             <p className="text-gray-200 text-md md:text-[18px] mb-[60px]">
@@ -2325,7 +2325,7 @@ const SingleProduct = () => (
               alt="logo"
             />
             <div className="flex items-center flex-col gap-5 md:flex-row lg:gap-[30px]">
-              <p className="text-heading-6 font-chivo font-bold">
+              <p className="text-heading-6 font-poppins font-bold">
                 Ready to get started?
               </p>
               <button type="button">
@@ -2334,7 +2334,7 @@ const SingleProduct = () => (
                   className="flex items-center inline-block z-10 relative transition-all duration-200 group px-[22px] py-[15px] lg:px-[32px] lg:py-[22px] rounded-md bg-gray-900 text-white hover:bg-gray-100 hover:text-gray-900 hover:-translate-y-[2px] text-white bg-gray-900 w-fit"
                   href="#"
                 >
-                  <span className="block text-inherit w-full h-full rounded-md text-lg font-chivo font-semibold">
+                  <span className="block text-inherit w-full h-full rounded-md text-lg font-poppins font-semibold">
                     Create an Account
                   </span>
                 </a>
@@ -2344,7 +2344,7 @@ const SingleProduct = () => (
           <div className="w-full bg-gray-200 h-[1px] mb-[52px]" />
           <div className="text-gray-600 grid gird-cols-1 gap-8 mb-[48px] md:grid-cols-2 lg:grid-cols-5 xl:gap-[98px]">
             <div>
-              <h5 className="text-heading-5 font-chivo font-bold text-gray-900 mb-5 text-[18px]">
+              <h5 className="text-heading-5 font-poppins font-bold text-gray-900 mb-5 text-[18px]">
                 Contact
               </h5>
               <p className="text-text mb-5">
@@ -2354,7 +2354,7 @@ const SingleProduct = () => (
               <p className="text-text underline">support@ekonkarkolhu.shop</p>
             </div>
             <div>
-              <h5 className="text-heading-5 font-chivo font-bold text-gray-900 mb-5 text-[18px]">
+              <h5 className="text-heading-5 font-poppins font-bold text-gray-900 mb-5 text-[18px]">
                 About Us
               </h5>
               <ul>
@@ -2409,7 +2409,7 @@ const SingleProduct = () => (
               </ul>
             </div>
             <div>
-              <h5 className="text-heading-5 font-chivo font-bold text-gray-900 mb-5 text-[18px]">
+              <h5 className="text-heading-5 font-poppins font-bold text-gray-900 mb-5 text-[18px]">
                 Discover
               </h5>
               <ul>
@@ -2464,7 +2464,7 @@ const SingleProduct = () => (
               </ul>
             </div>
             <div>
-              <h5 className="text-heading-5 font-chivo font-bold text-gray-900 mb-5 text-[18px]">
+              <h5 className="text-heading-5 font-poppins font-bold text-gray-900 mb-5 text-[18px]">
                 Support
               </h5>
               <ul>
@@ -2519,7 +2519,7 @@ const SingleProduct = () => (
               </ul>
             </div>
             <div>
-              <h5 className="text-heading-5 font-chivo font-bold text-gray-900 mb-5 text-[18px]">
+              <h5 className="text-heading-5 font-poppins font-bold text-gray-900 mb-5 text-[18px]">
                 Useful links
               </h5>
               <ul>

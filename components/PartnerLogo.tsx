@@ -18,37 +18,37 @@ const PartnerLogo = () => (
                     className="transition-all duration-300 partner-item p-[15px] md:pr-[15px] xl:w-auto lg:w-[184px] hover:translate-y-[-3px]"
                     href="/"
                 >
-                    <img src="./assets/images/partner-logo-1.svg" alt="partner logo" />
+                    <img src="./assets/images/fssai logo.jpg" alt="partner logo" />
                 </a>
                 <a
                     className="transition-all duration-300 partner-item p-[15px] md:pr-[15px] xl:w-auto lg:w-[184px] hover:translate-y-[-3px]"
                     href="/"
                 >
-                    <img src="./assets/images/partner-logo-2.svg" alt="partner logo" />
+                    <img src="./assets/images/fssai logo.jpg" alt="partner logo" />
                 </a>
                 <a
                     className="transition-all duration-300 partner-item p-[15px] md:pr-[15px] xl:w-auto lg:w-[184px] hover:translate-y-[-3px]"
                     href="/"
                 >
-                    <img src="./assets/images/partner-logo-3.svg" alt="partner logo" />
+                    <img src="./assets/images/fssai logo.jpg" alt="partner logo" />
                 </a>
                 <a
                     className="transition-all duration-300 partner-item p-[15px] md:pr-[15px] xl:w-auto lg:w-[184px] hover:translate-y-[-3px]"
                     href="/"
                 >
-                    <img src="./assets/images/partner-logo-4.svg" alt="partner logo" />
+                    <img src="./assets/images/fssai logo.jpg" alt="partner logo" />
                 </a>
                 <a
                     className="transition-all duration-300 partner-item p-[15px] md:pr-[15px] xl:w-auto lg:w-[184px] hover:translate-y-[-3px] md:col-start-2 lg:col-start-auto"
                     href="/"
                 >
-                    <img src="./assets/images/partner-logo-5.svg" alt="partner logo" />
+                    <img src="./assets/images/fssai logo.jpg" alt="partner logo" />
                 </a>
                 <a
                     className="transition-all duration-300 partner-item p-[15px] md:pr-[15px] xl:w-auto lg:w-[184px] hover:translate-y-[-3px] md:col-start-3 lg:col-start-auto"
                     href="/"
                 >
-                    <img src="./assets/images/partner-logo-6.svg" alt="partner logo" />
+                    <img src="./assets/images/fssai logo.jpg" alt="partner logo" />
                 </a>
             </div>
         </div>

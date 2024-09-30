@@ -21,7 +21,7 @@ const Faqs1 = () => (
       />
       <div className="px-[12px] md:px-[36px] mt-[70px] xl:px-0 z-10 relative lg:mt-[84px]">
         <div className="text-center text-white">
-          <h1 className="font-chivo font-bold lg:text-display-3 md:text-[45px] md:leading-[52px] text-[35px] leading-[42px] text-white mb-[45px]">
+          <h1 className="font-poppins font-bold lg:text-display-3 md:text-[45px] md:leading-[52px] text-[35px] leading-[42px] text-white mb-[45px]">
             We are here to help you
           </h1>
           <form
@@ -55,7 +55,7 @@ const Faqs1 = () => (
       <div className="px-[12px] md:px-[36px] mt-[70px] xl:px-0 lg:mt-[150px]">
         <div className="relative px-[12px] py-[70px] rounded-[50px]">
           <div className="text-center relative mb-[70px] md:mb-[90px]">
-            <h2 className="font-bold font-chivo mx-auto text-[35px] leading-[44px] md:text-[46px] md:leading-[52px] lg:text-heading-1 text-gray-900 mb-5 md:mb-[30px] max-w-[725px]">
+            <h2 className="font-bold font-poppins mx-auto text-[35px] leading-[44px] md:text-[46px] md:leading-[52px] lg:text-heading-1 text-gray-900 mb-5 md:mb-[30px] max-w-[725px]">
               Or choose a category
             </h2>
             <p className="text-quote md:text-lead-lg text-gray-600 mx-auto md:w-[51ch]">
@@ -71,7 +71,7 @@ const Faqs1 = () => (
                 src="./assets/images/icons/icon-trees.svg"
                 alt="icon"
               />
-              <h3 className="font-chivo font-bold text-[18px] md:text-heading-5 mb-[20px]">
+              <h3 className="font-poppins font-bold text-[18px] md:text-heading-5 mb-[20px]">
                 Market research
               </h3>
               <p className="text-text text-gray-600">
@@ -84,7 +84,7 @@ const Faqs1 = () => (
                 src="./assets/images/icons/icon-sun.svg"
                 alt="icon"
               />
-              <h3 className="font-chivo font-bold text-[18px] md:text-heading-5 mb-[20px]">
+              <h3 className="font-poppins font-bold text-[18px] md:text-heading-5 mb-[20px]">
                 Strategic Consulting
               </h3>
               <p className="text-text text-gray-600">
@@ -97,7 +97,7 @@ const Faqs1 = () => (
                 src="./assets/images/icons/icon-hat.svg"
                 alt="icon"
               />
-              <h3 className="font-chivo font-bold text-[18px] md:text-heading-5 mb-[20px]">
+              <h3 className="font-poppins font-bold text-[18px] md:text-heading-5 mb-[20px]">
                 Cognitive Solution{" "}
               </h3>
               <p className="text-text text-gray-600">
@@ -110,7 +110,7 @@ const Faqs1 = () => (
       <div className="gap-6 px-5 lg:flex xl:gap-[50px]">
         <div className="flex-1 mb-[40px]">
           <div className="mb-[22px]">
-            <h2 className="text-gray-900 font-bold font-chivo mb-5 text-[35px] leading-[44px] md:text-[46px] md:leading-[52px] lg:text-heading-1 md:mb-[30px] max-w-[725px]">
+            <h2 className="text-gray-900 font-bold font-poppins mb-5 text-[35px] leading-[44px] md:text-[46px] md:leading-[52px] lg:text-heading-1 md:mb-[30px] max-w-[725px]">
               Frequently asked questions
             </h2>
             <p className="text-quote md:text-lead-lg text-gray-600"></p>
@@ -127,7 +127,7 @@ const Faqs1 = () => (
                   src="./assets/images/icons/icon-leaf.svg"
                   alt="leaf icon"
                 />
-                <h4 className="text-heading-6 font-chivo font-bold">
+                <h4 className="text-heading-6 font-poppins font-bold">
                   Boost your sale
                 </h4>
               </div>
@@ -142,7 +142,7 @@ const Faqs1 = () => (
                   src="./assets/images/icons/icon-leaf.svg"
                   alt="leaf icon"
                 />
-                <h4 className="text-heading-6 font-chivo font-bold">
+                <h4 className="text-heading-6 font-poppins font-bold">
                   Introducing New Features
                 </h4>
               </div>
@@ -158,7 +158,7 @@ const Faqs1 = () => (
                 className="flex items-center inline-block z-10 relative transition-all duration-200 group px-[22px] py-[15px] lg:px-[32px] lg:py-[22px] rounded-[50px] bg-gray-900 text-white hover:bg-gray-100 hover:text-gray-900 hover:-translate-y-[2px] text-white bg-gray-900 w-fit"
                 href="#"
               >
-                <span className="block text-inherit w-full h-full rounded-[50px] text-lg font-chivo font-semibold">
+                <span className="block text-inherit w-full h-full rounded-[50px] text-lg font-poppins font-semibold">
                   Contact Us
                 </span>
                 <i>
@@ -177,7 +177,7 @@ const Faqs1 = () => (
                 className="flex items-center inline-block z-10 relative transition-all duration-200 group px-[22px] py-[15px] lg:px-[32px] lg:py-[22px] rounded-md bg-gray-900 text-white hover:bg-gray-100 hover:text-gray-900 hover:-translate-y-[2px] text-gray-900 bg-transparent w-fit"
                 href="#"
               >
-                <span className="block text-inherit w-full h-full rounded-md text-lg font-chivo font-semibold">
+                <span className="block text-inherit w-full h-full rounded-md text-lg font-poppins font-semibold">
                   Support Center
                 </span>
               </a>
@@ -188,11 +188,11 @@ const Faqs1 = () => (
           <div className="relative accordion-item mb-5">
             <details>
               <summary className="flex justify-between py-5 items-center gap-5 px-[30px]">
-                <h4 className="font-bold font-chivo text-[14px] xl:text-heading-5">
+                <h4 className="font-bold font-poppins text-[14px] xl:text-heading-5">
                   Where is my order? Quisque molestie
                 </h4>
               </summary>
-              <p className="text-text content font-chivo mt-[30px] ml-[30px]">
+              <p className="text-text content font-poppins mt-[30px] ml-[30px]">
                 Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel
                 pretium mi. Morbi varius, tellus in accumsan blandit, elit
                 ligula eleifend velit, luctus mattis ante nulla condimentum
@@ -203,11 +203,11 @@ const Faqs1 = () => (
           <div className="relative accordion-item mb-5">
             <details>
               <summary className="flex justify-between py-5 items-center gap-5 px-[30px]">
-                <h4 className="font-bold font-chivo text-[14px] xl:text-heading-5">
+                <h4 className="font-bold font-poppins text-[14px] xl:text-heading-5">
                   How can I return an item purchased online?
                 </h4>
               </summary>
-              <p className="text-text content font-chivo mt-[30px] ml-[30px]">
+              <p className="text-text content font-poppins mt-[30px] ml-[30px]">
                 Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel
                 pretium mi. Morbi varius, tellus in accumsan blandit, elit
                 ligula eleifend velit, luctus mattis ante nulla condimentum
@@ -218,11 +218,11 @@ const Faqs1 = () => (
           <div className="relative accordion-item mb-5">
             <details>
               <summary className="flex justify-between py-5 items-center gap-5 px-[30px]">
-                <h4 className="font-bold font-chivo text-[14px] xl:text-heading-5">
+                <h4 className="font-bold font-poppins text-[14px] xl:text-heading-5">
                   Can I cancel or change my order?
                 </h4>
               </summary>
-              <p className="text-text content font-chivo mt-[30px] ml-[30px]">
+              <p className="text-text content font-poppins mt-[30px] ml-[30px]">
                 Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel
                 pretium mi. Morbi varius, tellus in accumsan blandit, elit
                 ligula eleifend velit, luctus mattis ante nulla condimentum
@@ -233,11 +233,11 @@ const Faqs1 = () => (
           <div className="relative accordion-item mb-5">
             <details>
               <summary className="flex justify-between py-5 items-center gap-5 px-[30px]">
-                <h4 className="font-bold font-chivo text-[14px] xl:text-heading-5">
+                <h4 className="font-bold font-poppins text-[14px] xl:text-heading-5">
                   I have promotional or discount code?
                 </h4>
               </summary>
-              <p className="text-text content font-chivo mt-[30px] ml-[30px]">
+              <p className="text-text content font-poppins mt-[30px] ml-[30px]">
                 Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel
                 pretium mi. Morbi varius, tellus in accumsan blandit, elit
                 ligula eleifend velit, luctus mattis ante nulla condimentum
@@ -248,11 +248,11 @@ const Faqs1 = () => (
           <div className="relative accordion-item mb-5">
             <details>
               <summary className="flex justify-between py-5 items-center gap-5 px-[30px]">
-                <h4 className="font-bold font-chivo text-[14px] xl:text-heading-5">
+                <h4 className="font-bold font-poppins text-[14px] xl:text-heading-5">
                   What are the delivery types you use?
                 </h4>
               </summary>
-              <p className="text-text content font-chivo mt-[30px] ml-[30px]">
+              <p className="text-text content font-poppins mt-[30px] ml-[30px]">
                 Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel
                 pretium mi. Morbi varius, tellus in accumsan blandit, elit
                 ligula eleifend velit, luctus mattis ante nulla condimentum
@@ -263,11 +263,11 @@ const Faqs1 = () => (
           <div className="relative accordion-item mb-5">
             <details>
               <summary className="flex justify-between py-5 items-center gap-5 px-[30px]">
-                <h4 className="font-bold font-chivo text-[14px] xl:text-heading-5">
+                <h4 className="font-bold font-poppins text-[14px] xl:text-heading-5">
                   How can I pay for my purchases?
                 </h4>
               </summary>
-              <p className="text-text content font-chivo mt-[30px] ml-[30px]">
+              <p className="text-text content font-poppins mt-[30px] ml-[30px]">
                 Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel
                 pretium mi. Morbi varius, tellus in accumsan blandit, elit
                 ligula eleifend velit, luctus mattis ante nulla condimentum
@@ -278,11 +278,11 @@ const Faqs1 = () => (
           <div className="relative accordion-item mb-5">
             <details>
               <summary className="flex justify-between py-5 items-center gap-5 px-[30px]">
-                <h4 className="font-bold font-chivo text-[14px] xl:text-heading-5">
+                <h4 className="font-bold font-poppins text-[14px] xl:text-heading-5">
                   Can I cancel my order?
                 </h4>
               </summary>
-              <p className="text-text content font-chivo mt-[30px] ml-[30px]">
+              <p className="text-text content font-poppins mt-[30px] ml-[30px]">
                 Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel
                 pretium mi. Morbi varius, tellus in accumsan blandit, elit
                 ligula eleifend velit, luctus mattis ante nulla condimentum
@@ -294,7 +294,7 @@ const Faqs1 = () => (
       </div>
       <div className="px-[12px] md:px-[36px] mt-[70px] xl:px-0 lg:mt-[150px]">
         <div className="text-center">
-          <h2 className="font-bold font-chivo mx-auto text-[35px] leading-[44px] md:text-[46px] md:leading-[52px] lg:text-heading-1 text-gray-900 mb-5 md:mb-[30px] max-w-[725px]">
+          <h2 className="font-bold font-poppins mx-auto text-[35px] leading-[44px] md:text-[46px] md:leading-[52px] lg:text-heading-1 text-gray-900 mb-5 md:mb-[30px] max-w-[725px]">
             Choose The Best Plan That’s For You
           </h2>
           <p className="text-quote md:text-lead-lg text-gray-600 mx-auto max-w-[976px]"></p>
@@ -325,14 +325,14 @@ const Faqs1 = () => (
             <div className="rounded-2xl p-[30px] md:py-[53px] md:px-[48px] bg-white flex flex-col justify-between transition-all duration-300 package-card p-[35px] border border-gray-900 bill-monthly">
               <div>
                 <div className="mb-[21px]">
-                  <span className="text-heading-3 font-bold font-chivo">
+                  <span className="text-heading-3 font-bold font-poppins">
                     $35
                   </span>
                   <span className="text-sm font-bold text-gray-400 ml-[2px]">
                     /month
                   </span>
                 </div>
-                <h5 className="text-heading-5 font-chivo font-bold mb-[9px]">
+                <h5 className="text-heading-5 font-poppins font-bold mb-[9px]">
                   Standard
                 </h5>
                 <p className="text-sm font-bold text-gray-400 mb-[43px]">
@@ -387,7 +387,7 @@ const Faqs1 = () => (
                   className="flex items-center inline-block z-10 relative transition-all duration-200 group py-[11px] px-[22px] rounded-md bg-gray-900 text-white hover:bg-gray-100 hover:text-gray-900 hover:-translate-y-[2px] border-[2px] border-[#171B24]"
                   href="#"
                 >
-                  <span className="block text-inherit w-full h-full rounded-md text-lg font-chivo font-semibold">
+                  <span className="block text-inherit w-full h-full rounded-md text-lg font-poppins font-semibold">
                     Get Started
                   </span>
                   <i>
@@ -404,14 +404,14 @@ const Faqs1 = () => (
             <div className="rounded-2xl p-[30px] md:py-[53px] md:px-[48px] bg-white flex flex-col justify-between transition-all duration-300 package-card p-[35px] active border border-gray-900 bill-monthly">
               <div>
                 <div className="mb-[21px]">
-                  <span className="text-heading-3 font-bold font-chivo">
+                  <span className="text-heading-3 font-bold font-poppins">
                     $89
                   </span>
                   <span className="text-sm font-bold text-gray-400 ml-[2px]">
                     /month
                   </span>
                 </div>
-                <h5 className="text-heading-5 font-chivo font-bold mb-[9px]">
+                <h5 className="text-heading-5 font-poppins font-bold mb-[9px]">
                   Standard
                 </h5>
                 <p className="text-sm font-bold text-gray-400 mb-[43px]">
@@ -466,7 +466,7 @@ const Faqs1 = () => (
                   className="flex items-center inline-block z-10 relative transition-all duration-200 group py-[11px] px-[22px] rounded-md bg-gray-900 text-white hover:bg-gray-100 hover:text-gray-900 hover:-translate-y-[2px] border-[2px] border-[#171B24]"
                   href="#"
                 >
-                  <span className="block text-inherit w-full h-full rounded-md text-lg font-chivo font-semibold">
+                  <span className="block text-inherit w-full h-full rounded-md text-lg font-poppins font-semibold">
                     Get Started
                   </span>
                   <i>
@@ -483,14 +483,14 @@ const Faqs1 = () => (
             <div className="rounded-2xl p-[30px] md:py-[53px] md:px-[48px] bg-white flex flex-col justify-between transition-all duration-300 package-card p-[35px] border border-gray-900 bill-monthly">
               <div>
                 <div className="mb-[21px]">
-                  <span className="text-heading-3 font-bold font-chivo">
+                  <span className="text-heading-3 font-bold font-poppins">
                     $125
                   </span>
                   <span className="text-sm font-bold text-gray-400 ml-[2px]">
                     /month
                   </span>
                 </div>
-                <h5 className="text-heading-5 font-chivo font-bold mb-[9px]">
+                <h5 className="text-heading-5 font-poppins font-bold mb-[9px]">
                   Standard
                 </h5>
                 <p className="text-sm font-bold text-gray-400 mb-[43px]">
@@ -545,7 +545,7 @@ const Faqs1 = () => (
                   className="flex items-center inline-block z-10 relative transition-all duration-200 group py-[11px] px-[22px] rounded-md bg-gray-900 text-white hover:bg-gray-100 hover:text-gray-900 hover:-translate-y-[2px] border-[2px] border-[#171B24]"
                   href="#"
                 >
-                  <span className="block text-inherit w-full h-full rounded-md text-lg font-chivo font-semibold">
+                  <span className="block text-inherit w-full h-full rounded-md text-lg font-poppins font-semibold">
                     Get Started
                   </span>
                   <i>
@@ -562,14 +562,14 @@ const Faqs1 = () => (
             <div className="rounded-2xl p-[30px] md:py-[53px] md:px-[48px] bg-white flex flex-col justify-between transition-all duration-300 package-card p-[35px] border border-gray-900 bill-monthly">
               <div>
                 <div className="mb-[21px]">
-                  <span className="text-heading-3 font-bold font-chivo">
+                  <span className="text-heading-3 font-bold font-poppins">
                     $199
                   </span>
                   <span className="text-sm font-bold text-gray-400 ml-[2px]">
                     /month
                   </span>
                 </div>
-                <h5 className="text-heading-5 font-chivo font-bold mb-[9px]">
+                <h5 className="text-heading-5 font-poppins font-bold mb-[9px]">
                   Standard
                 </h5>
                 <p className="text-sm font-bold text-gray-400 mb-[43px]">
@@ -624,7 +624,7 @@ const Faqs1 = () => (
                   className="flex items-center inline-block z-10 relative transition-all duration-200 group py-[11px] px-[22px] rounded-md bg-gray-900 text-white hover:bg-gray-100 hover:text-gray-900 hover:-translate-y-[2px] border-[2px] border-[#171B24]"
                   href="#"
                 >
-                  <span className="block text-inherit w-full h-full rounded-md text-lg font-chivo font-semibold">
+                  <span className="block text-inherit w-full h-full rounded-md text-lg font-poppins font-semibold">
                     Get Started
                   </span>
                   <i>
@@ -641,14 +641,14 @@ const Faqs1 = () => (
             <div className="rounded-2xl p-[30px] md:py-[53px] md:px-[48px] bg-white flex flex-col justify-between transition-all duration-300 package-card p-[35px] border border-gray-900 bill-annually">
               <div>
                 <div className="mb-[21px]">
-                  <span className="text-heading-3 font-bold font-chivo">
+                  <span className="text-heading-3 font-bold font-poppins">
                     $420
                   </span>
                   <span className="text-sm font-bold text-gray-400 ml-[2px]">
                     /year
                   </span>
                 </div>
-                <h5 className="text-heading-5 font-chivo font-bold mb-[9px]">
+                <h5 className="text-heading-5 font-poppins font-bold mb-[9px]">
                   Standard
                 </h5>
                 <p className="text-sm font-bold text-gray-400 mb-[43px]">
@@ -703,7 +703,7 @@ const Faqs1 = () => (
                   className="flex items-center inline-block z-10 relative transition-all duration-200 group py-[11px] px-[22px] rounded-md bg-gray-900 text-white hover:bg-gray-100 hover:text-gray-900 hover:-translate-y-[2px] border-[2px] border-[#171B24]"
                   href="#"
                 >
-                  <span className="block text-inherit w-full h-full rounded-md text-lg font-chivo font-semibold">
+                  <span className="block text-inherit w-full h-full rounded-md text-lg font-poppins font-semibold">
                     Get Started
                   </span>
                   <i>
@@ -720,14 +720,14 @@ const Faqs1 = () => (
             <div className="rounded-2xl p-[30px] md:py-[53px] md:px-[48px] bg-white flex flex-col justify-between transition-all duration-300 package-card p-[35px] active border border-gray-900 bill-annually">
               <div>
                 <div className="mb-[21px]">
-                  <span className="text-heading-3 font-bold font-chivo">
+                  <span className="text-heading-3 font-bold font-poppins">
                     $1068
                   </span>
                   <span className="text-sm font-bold text-gray-400 ml-[2px]">
                     /year
                   </span>
                 </div>
-                <h5 className="text-heading-5 font-chivo font-bold mb-[9px]">
+                <h5 className="text-heading-5 font-poppins font-bold mb-[9px]">
                   Standard
                 </h5>
                 <p className="text-sm font-bold text-gray-400 mb-[43px]">
@@ -782,7 +782,7 @@ const Faqs1 = () => (
                   className="flex items-center inline-block z-10 relative transition-all duration-200 group py-[11px] px-[22px] rounded-md bg-gray-900 text-white hover:bg-gray-100 hover:text-gray-900 hover:-translate-y-[2px] border-[2px] border-[#171B24]"
                   href="#"
                 >
-                  <span className="block text-inherit w-full h-full rounded-md text-lg font-chivo font-semibold">
+                  <span className="block text-inherit w-full h-full rounded-md text-lg font-poppins font-semibold">
                     Get Started
                   </span>
                   <i>
@@ -799,14 +799,14 @@ const Faqs1 = () => (
             <div className="rounded-2xl p-[30px] md:py-[53px] md:px-[48px] bg-white flex flex-col justify-between transition-all duration-300 package-card p-[35px] border border-gray-900 bill-annually">
               <div>
                 <div className="mb-[21px]">
-                  <span className="text-heading-3 font-bold font-chivo">
+                  <span className="text-heading-3 font-bold font-poppins">
                     $1500
                   </span>
                   <span className="text-sm font-bold text-gray-400 ml-[2px]">
                     /year
                   </span>
                 </div>
-                <h5 className="text-heading-5 font-chivo font-bold mb-[9px]">
+                <h5 className="text-heading-5 font-poppins font-bold mb-[9px]">
                   Standard
                 </h5>
                 <p className="text-sm font-bold text-gray-400 mb-[43px]">
@@ -861,7 +861,7 @@ const Faqs1 = () => (
                   className="flex items-center inline-block z-10 relative transition-all duration-200 group py-[11px] px-[22px] rounded-md bg-gray-900 text-white hover:bg-gray-100 hover:text-gray-900 hover:-translate-y-[2px] border-[2px] border-[#171B24]"
                   href="#"
                 >
-                  <span className="block text-inherit w-full h-full rounded-md text-lg font-chivo font-semibold">
+                  <span className="block text-inherit w-full h-full rounded-md text-lg font-poppins font-semibold">
                     Get Started
                   </span>
                   <i>
@@ -878,14 +878,14 @@ const Faqs1 = () => (
             <div className="rounded-2xl p-[30px] md:py-[53px] md:px-[48px] bg-white flex flex-col justify-between transition-all duration-300 package-card p-[35px] border border-gray-900 bill-annually">
               <div>
                 <div className="mb-[21px]">
-                  <span className="text-heading-3 font-bold font-chivo">
+                  <span className="text-heading-3 font-bold font-poppins">
                     $2388
                   </span>
                   <span className="text-sm font-bold text-gray-400 ml-[2px]">
                     /year
                   </span>
                 </div>
-                <h5 className="text-heading-5 font-chivo font-bold mb-[9px]">
+                <h5 className="text-heading-5 font-poppins font-bold mb-[9px]">
                   Standard
                 </h5>
                 <p className="text-sm font-bold text-gray-400 mb-[43px]">
@@ -940,7 +940,7 @@ const Faqs1 = () => (
                   className="flex items-center inline-block z-10 relative transition-all duration-200 group py-[11px] px-[22px] rounded-md bg-gray-900 text-white hover:bg-gray-100 hover:text-gray-900 hover:-translate-y-[2px] border-[2px] border-[#171B24]"
                   href="#"
                 >
-                  <span className="block text-inherit w-full h-full rounded-md text-lg font-chivo font-semibold">
+                  <span className="block text-inherit w-full h-full rounded-md text-lg font-poppins font-semibold">
                     Get Started
                   </span>
                   <i>
@@ -959,7 +959,7 @@ const Faqs1 = () => (
       </div>
       <div className="px-[12px] md:px-[36px] mt-[70px] xl:px-0 lg:mt-[150px]">
         <div className="text-center mb-[30px] md:mb-[68px]">
-          <h2 className="font-bold font-chivo mx-auto text-[35px] leading-[44px] md:text-[46px] md:leading-[52px] lg:text-heading-1 text-gray-900 mb-5 md:mb-[30px] max-w-[725px]">
+          <h2 className="font-bold font-poppins mx-auto text-[35px] leading-[44px] md:text-[46px] md:leading-[52px] lg:text-heading-1 text-gray-900 mb-5 md:mb-[30px] max-w-[725px]">
             Still have a questions?
           </h2>
           <p className="text-quote md:text-lead-lg text-gray-600 mx-auto md:w-[62ch]">
@@ -975,7 +975,7 @@ const Faqs1 = () => (
               src="./assets/images/avatar-1.png"
               alt="avatar"
             />
-            <p className="text-heading-6 font-chivo font-bold mb-[6px]">
+            <p className="text-heading-6 font-poppins font-bold mb-[6px]">
               Wade Warren
             </p>
             <p className="text-sm font-bold mb-5 text-gray-700">
@@ -992,7 +992,7 @@ const Faqs1 = () => (
               src="./assets/images/avatar-2.png"
               alt="avatar"
             />
-            <p className="text-heading-6 font-chivo font-bold mb-[6px]">
+            <p className="text-heading-6 font-poppins font-bold mb-[6px]">
               Wade Warren
             </p>
             <p className="text-sm font-bold mb-5 text-gray-700">
@@ -1009,7 +1009,7 @@ const Faqs1 = () => (
               src="./assets/images/avatar-3.png"
               alt="avatar"
             />
-            <p className="text-heading-6 font-chivo font-bold mb-[6px]">
+            <p className="text-heading-6 font-poppins font-bold mb-[6px]">
               Wade Warren
             </p>
             <p className="text-sm font-bold mb-5 text-gray-700">
@@ -1026,7 +1026,7 @@ const Faqs1 = () => (
               src="./assets/images/avatar-4.png"
               alt="avatar"
             />
-            <p className="text-heading-6 font-chivo font-bold mb-[6px]">
+            <p className="text-heading-6 font-poppins font-bold mb-[6px]">
               Wade Warren
             </p>
             <p className="text-sm font-bold mb-5 text-gray-700">
@@ -1043,7 +1043,7 @@ const Faqs1 = () => (
               src="./assets/images/avatar-5.png"
               alt="avatar"
             />
-            <p className="text-heading-6 font-chivo font-bold mb-[6px]">
+            <p className="text-heading-6 font-poppins font-bold mb-[6px]">
               Wade Warren
             </p>
             <p className="text-sm font-bold mb-5 text-gray-700">
@@ -1060,7 +1060,7 @@ const Faqs1 = () => (
               src="./assets/images/avatar-6.png"
               alt="avatar"
             />
-            <p className="text-heading-6 font-chivo font-bold mb-[6px]">
+            <p className="text-heading-6 font-poppins font-bold mb-[6px]">
               Wade Warren
             </p>
             <p className="text-sm font-bold mb-5 text-gray-700">
@@ -1077,7 +1077,7 @@ const Faqs1 = () => (
               src="./assets/images/avatar-7.png"
               alt="avatar"
             />
-            <p className="text-heading-6 font-chivo font-bold mb-[6px]">
+            <p className="text-heading-6 font-poppins font-bold mb-[6px]">
               Wade Warren
             </p>
             <p className="text-sm font-bold mb-5 text-gray-700">
@@ -1094,7 +1094,7 @@ const Faqs1 = () => (
               src="./assets/images/avatar-8.png"
               alt="avatar"
             />
-            <p className="text-heading-6 font-chivo font-bold mb-[6px]">
+            <p className="text-heading-6 font-poppins font-bold mb-[6px]">
               Wade Warren
             </p>
             <p className="text-sm font-bold mb-5 text-gray-700">

@@ -74,7 +74,7 @@ const Services2 = () => (
             />
           </a>
           <nav className="z-50 absolute hidden top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 lg:block">
-            <ul className="navbar flex flex-col justify-center font-chivo gap-[34px] lg:flex-row">
+            <ul className="navbar flex flex-col justify-center font-poppins gap-[34px] lg:flex-row">
               <li className="flex items-center group">
                 <a
                   className="hover:text-green-900 text-base font-inter menu-link lg:text-heading-6 mr-[7px]"
@@ -91,7 +91,7 @@ const Services2 = () => (
                 </i>
                 <ul className="menu-child translate-y-4 opacity-0 bg-white top-full z-50 py-2 grid menu-shadow -translate-x-6 translate-y-8 transition-all duration-200 pointer-events-none group-hover:pointer-events-auto lg:absolute rounded-[4px] group-hover:grid group-hover:opacity-100 before:content-[''] before:block before:absolute before:w-full before:h-12 before:top-[-35px] before:left-0 grid-cols-2 w-[340px]">
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="hp1"
                   >
                     <a className="flex items-center text-[14px]" href="/">
@@ -104,7 +104,7 @@ const Services2 = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="hp2"
                   >
                     <a
@@ -120,7 +120,7 @@ const Services2 = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="hp3"
                   >
                     <a
@@ -136,7 +136,7 @@ const Services2 = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="hp4"
                   >
                     <a
@@ -152,7 +152,7 @@ const Services2 = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="hp5"
                   >
                     <a
@@ -168,7 +168,7 @@ const Services2 = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="hp6"
                   >
                     <a
@@ -184,7 +184,7 @@ const Services2 = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="hp7"
                   >
                     <a
@@ -200,7 +200,7 @@ const Services2 = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="hp8"
                   >
                     <a
@@ -233,7 +233,7 @@ const Services2 = () => (
                 </i>
                 <ul className="menu-child translate-y-4 opacity-0 bg-white top-full z-50 py-2 grid menu-shadow -translate-x-6 translate-y-8 transition-all duration-200 pointer-events-none group-hover:pointer-events-auto lg:absolute rounded-[4px] group-hover:grid group-hover:opacity-100 before:content-[''] before:block before:absolute before:w-full before:h-12 before:top-[-35px] before:left-0 grid-cols-1 w-[185px]">
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="ab1"
                   >
                     <a
@@ -249,7 +249,7 @@ const Services2 = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="ab2"
                   >
                     <a
@@ -265,7 +265,7 @@ const Services2 = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="ab3"
                   >
                     <a
@@ -298,7 +298,7 @@ const Services2 = () => (
                 </i>
                 <ul className="menu-child translate-y-4 opacity-0 bg-white top-full z-50 py-2 grid menu-shadow -translate-x-6 translate-y-8 transition-all duration-200 pointer-events-none group-hover:pointer-events-auto lg:absolute rounded-[4px] group-hover:grid group-hover:opacity-100 before:content-[''] before:block before:absolute before:w-full before:h-12 before:top-[-35px] before:left-0 grid-cols-1 w-[185px]">
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="sv1"
                   >
                     <a
@@ -314,7 +314,7 @@ const Services2 = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="sv2"
                   >
                     <a
@@ -334,7 +334,7 @@ const Services2 = () => (
                     <span className="block bg-gray-100 w-full h-[1px] my-[5px]" />
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="p1"
                   >
                     <a
@@ -350,7 +350,7 @@ const Services2 = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="p2"
                   >
                     <a
@@ -370,7 +370,7 @@ const Services2 = () => (
                     <span className="block bg-gray-100 w-full h-[1px] my-[5px]" />
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="faqs1"
                   >
                     <a
@@ -386,7 +386,7 @@ const Services2 = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="faqs2"
                   >
                     <a
@@ -406,7 +406,7 @@ const Services2 = () => (
                     <span className="block bg-gray-100 w-full h-[1px] my-[5px]" />
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="career"
                   >
                     <a
@@ -422,7 +422,7 @@ const Services2 = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="career-details"
                   >
                     <a
@@ -455,7 +455,7 @@ const Services2 = () => (
                 </i>
                 <ul className="menu-child translate-y-4 opacity-0 bg-white top-full z-50 py-2 grid menu-shadow -translate-x-6 translate-y-8 transition-all duration-200 pointer-events-none group-hover:pointer-events-auto lg:absolute rounded-[4px] group-hover:grid group-hover:opacity-100 before:content-[''] before:block before:absolute before:w-full before:h-12 before:top-[-35px] before:left-0 grid-cols-1 w-[185px]">
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="contact"
                   >
                     <a
@@ -471,7 +471,7 @@ const Services2 = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="singup"
                   >
                     <a
@@ -487,7 +487,7 @@ const Services2 = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="login"
                   >
                     <a
@@ -503,7 +503,7 @@ const Services2 = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="rp"
                   >
                     <a
@@ -519,7 +519,7 @@ const Services2 = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="error404"
                   >
                     <a
@@ -552,7 +552,7 @@ const Services2 = () => (
                 </i>
                 <ul className="menu-child translate-y-4 opacity-0 bg-white top-full z-50 py-2 grid menu-shadow -translate-x-6 translate-y-8 transition-all duration-200 pointer-events-none group-hover:pointer-events-auto lg:absolute rounded-[4px] group-hover:grid group-hover:opacity-100 before:content-[''] before:block before:absolute before:w-full before:h-12 before:top-[-35px] before:left-0 grid-cols-1 w-[185px]">
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="b1"
                   >
                     <a
@@ -568,7 +568,7 @@ const Services2 = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="b2"
                   >
                     <a
@@ -588,7 +588,7 @@ const Services2 = () => (
                     <span className="block bg-gray-100 w-full h-[1px] my-[5px]" />
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="single"
                   >
                     <a
@@ -621,7 +621,7 @@ const Services2 = () => (
                 </i>
                 <ul className="menu-child translate-y-4 opacity-0 bg-white top-full z-50 py-2 grid menu-shadow -translate-x-6 translate-y-8 transition-all duration-200 pointer-events-none group-hover:pointer-events-auto lg:absolute rounded-[4px] group-hover:grid group-hover:opacity-100 before:content-[''] before:block before:absolute before:w-full before:h-12 before:top-[-35px] before:left-0 grid-cols-1 w-[185px]">
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="s1"
                   >
                     <a
@@ -637,7 +637,7 @@ const Services2 = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="s2"
                   >
                     <a
@@ -653,7 +653,7 @@ const Services2 = () => (
                     </a>
                   </li>
                   <li
-                    className="menu-child-item font-chivo group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
+                    className="menu-child-item font-poppins group transition-all duration-200 py-[10px] px-[22px] hover:filter-green hover:pl-[25px] hover:opacity-100"
                     data-menu="product"
                   >
                     <a
@@ -679,7 +679,7 @@ const Services2 = () => (
                 className="flex items-center inline-block z-10 relative transition-all duration-200 group px-[22px] py-[15px] lg:px-[32px] lg:py-[22px] rounded-[50px] bg-gray-100 text-gray-900 hover:bg-gray-900 hover:text-white hover:-translate-y-[2px] hidden lg:flex"
                 href="#"
               >
-                <span className="block text-inherit w-full h-full rounded-[50px] text-heading-6 font-bold font-chivo">
+                <span className="block text-inherit w-full h-full rounded-[50px] text-heading-6 font-bold font-poppins">
                   Learn more
                 </span>
                 <i>
@@ -708,13 +708,13 @@ const Services2 = () => (
             />
             <div>
               <p className="font-bold">Hi! Steven</p>
-              <p className="text-sm font-chivo text-gray-500">
+              <p className="text-sm font-poppins text-gray-500">
                 You have 5 new messages
               </p>
             </div>
           </div>
           <div className="p-[30px]">
-            <ul className="font-chivo font-medium text-[16px] leading-[16px]">
+            <ul className="font-poppins font-medium text-[16px] leading-[16px]">
               <li className="group menu-mobile-item py-[13px]">
                 <div className="flex items-center justify-between transition-all duration-200 hover:text-green-900 hover:translate-x-[2px]">
                   <p>Home</p>
@@ -1089,7 +1089,7 @@ const Services2 = () => (
                 </li>
               </ul>
             </div>
-            <div className="text-gray-400 font-chivo text-[13px]">
+            <div className="text-gray-400 font-poppins text-[13px]">
               Copyright 2022 © Agon - Agency Template.
               <br />
               <span>Designed by</span>
@@ -1102,7 +1102,7 @@ const Services2 = () => (
       </header>
       <div className="px-[12px] md:px-[36px] mt-[70px] xl:px-0 text-center z-10 relative lg:mt-[99px]">
         <div className="text-center">
-          <h2 className="font-bold font-chivo mx-auto text-gray-900 mb-5 md:mb-[30px] text-[35px] leading-[44px] md:text-[46px] md:leading-[52px] lg:text-heading-1 md:w-[20ch]">
+          <h2 className="font-bold font-poppins mx-auto text-gray-900 mb-5 md:mb-[30px] text-[35px] leading-[44px] md:text-[46px] md:leading-[52px] lg:text-heading-1 md:w-[20ch]">
             Advanced <span className="text-green-900">analytics</span> to grow
             your business
           </h2>
@@ -1118,7 +1118,7 @@ const Services2 = () => (
               className="flex items-center inline-block z-10 relative transition-all duration-200 group px-[22px] py-[15px] lg:px-[32px] lg:py-[22px] rounded-md bg-gray-900 text-white hover:bg-gray-100 hover:text-gray-900 hover:-translate-y-[2px] text-white bg-black text-heading-6 tracking-wide mr-[22px]"
               href="#"
             >
-              <span className="block text-inherit w-full h-full rounded-md text-lg font-chivo font-semibold">
+              <span className="block text-inherit w-full h-full rounded-md text-lg font-poppins font-semibold">
                 Get Start
               </span>
               <i>
@@ -1137,7 +1137,7 @@ const Services2 = () => (
               <img src="./assets/images/icons/icon-button.svg" alt />
             </i>
             <a
-              className="text-base flex items-center font-chivo font-medium text-[18px] leading-[18px] gap-[5px]"
+              className="text-base flex items-center font-poppins font-medium text-[18px] leading-[18px] gap-[5px]"
               href="/"
             >
               How it works
@@ -1153,7 +1153,7 @@ const Services2 = () => (
         </div>
       </div>
       <div className="px-[12px] md:px-[36px] mt-[70px] xl:px-0 mt-[30px] md:mt-[80px] lg:mt-[143px]">
-        <h2 className="font-bold font-chivo text-[25px] leading-[30px] md:text-heading-3 text-center mb-[40px] md:mb-[60px] lg:mb-[84px]">
+        <h2 className="font-bold font-poppins text-[25px] leading-[30px] md:text-heading-3 text-center mb-[40px] md:mb-[60px] lg:mb-[84px]">
           Trusted by the world’s leading companies
         </h2>
         <div className="flex flex-wrap items-center justify-center mb-[30px] md:mb-[60px] lg:mb-[80px]">
@@ -1216,7 +1216,7 @@ const Services2 = () => (
       </div>
       <div className="px-[12px] md:px-[36px] mt-[70px] xl:px-0 lg:mt-[133px]">
         <div className="text-center mb-[30px] md:mb-[90px]">
-          <h2 className="font-bold font-chivo mx-auto text-[35px] leading-[44px] md:text-[46px] md:leading-[52px] lg:text-heading-1 text-gray-900 mb-5 md:mb-[30px] max-w-[725px]">
+          <h2 className="font-bold font-poppins mx-auto text-[35px] leading-[44px] md:text-[46px] md:leading-[52px] lg:text-heading-1 text-gray-900 mb-5 md:mb-[30px] max-w-[725px]">
             Discover powerful features to boost your productivity
           </h2>
           <p className="text-quote md:text-lead-lg text-gray-600 mx-auto max-w-[976px]">
@@ -1226,7 +1226,7 @@ const Services2 = () => (
         </div>
         <div className="mx-auto lg:flex gap-[30px] max-w-[1190px]">
           <div className="text-center rounded-2xl p-5 max-h-[300px] md:max-h-[450px] lg:max-h-[380px] xl:max-h-[455px] md:p-14 mb-[150px] md:mb-[300px] lg:mb-0 transition-all duration-300 hover:translate-y-[-3px] bg-bg-2">
-            <h3 className="font-bold font-chivo text-[20px] leading-[26px] md:text-heading-4 mb-[18px]">
+            <h3 className="font-bold font-poppins text-[20px] leading-[26px] md:text-heading-4 mb-[18px]">
               Cross-Platform
             </h3>
             <p className="text-md text-gray-600 mb-[22px] lg:mx-16">
@@ -1240,7 +1240,7 @@ const Services2 = () => (
             />
           </div>
           <div className="text-center rounded-2xl p-5 max-h-[300px] md:max-h-[450px] lg:max-h-[380px] xl:max-h-[455px] md:p-14 mb-[150px] md:mb-[300px] lg:mb-0 transition-all duration-300 hover:translate-y-[-3px] bg-bg-6">
-            <h3 className="font-bold font-chivo text-[20px] leading-[26px] md:text-heading-4 mb-[18px]">
+            <h3 className="font-bold font-poppins text-[20px] leading-[26px] md:text-heading-4 mb-[18px]">
               Extremely Flexible
             </h3>
             <p className="text-md text-gray-600 mb-[22px] lg:mx-16">
@@ -1258,7 +1258,7 @@ const Services2 = () => (
       <div className="px-[12px] md:px-[36px] mt-[70px] xl:px-0 lg:mt-[260px]">
         <div className="bg-bg-2 relative px-[12px] py-[70px] rounded-[50px]">
           <div className="text-center relative mb-[70px] md:mb-[90px]">
-            <h2 className="font-bold font-chivo mx-auto text-[35px] leading-[44px] md:text-[46px] md:leading-[52px] lg:text-heading-1 text-gray-900 mb-5 md:mb-[30px] max-w-[725px]">
+            <h2 className="font-bold font-poppins mx-auto text-[35px] leading-[44px] md:text-[46px] md:leading-[52px] lg:text-heading-1 text-gray-900 mb-5 md:mb-[30px] max-w-[725px]">
               What We Offer
             </h2>
             <p className="text-quote md:text-lead-lg text-gray-600 mx-auto md:w-[43ch]">
@@ -1273,7 +1273,7 @@ const Services2 = () => (
                 src="./assets/images/icons/icon-trees.svg"
                 alt="icon"
               />
-              <h3 className="font-chivo font-bold text-[18px] md:text-heading-5 mb-[20px]">
+              <h3 className="font-poppins font-bold text-[18px] md:text-heading-5 mb-[20px]">
                 Market research
               </h3>
               <p className="text-text text-gray-600">
@@ -1286,7 +1286,7 @@ const Services2 = () => (
                 src="./assets/images/icons/icon-sun.svg"
                 alt="icon"
               />
-              <h3 className="font-chivo font-bold text-[18px] md:text-heading-5 mb-[20px]">
+              <h3 className="font-poppins font-bold text-[18px] md:text-heading-5 mb-[20px]">
                 Strategic Consulting
               </h3>
               <p className="text-text text-gray-600">
@@ -1299,7 +1299,7 @@ const Services2 = () => (
                 src="./assets/images/icons/icon-hat.svg"
                 alt="icon"
               />
-              <h3 className="font-chivo font-bold text-[18px] md:text-heading-5 mb-[20px]">
+              <h3 className="font-poppins font-bold text-[18px] md:text-heading-5 mb-[20px]">
                 Cognitive Solution{" "}
               </h3>
               <p className="text-text text-gray-600">
@@ -1312,7 +1312,7 @@ const Services2 = () => (
                 src="./assets/images/icons/icon-trees.svg"
                 alt="icon"
               />
-              <h3 className="font-chivo font-bold text-[18px] md:text-heading-5 mb-[20px]">
+              <h3 className="font-poppins font-bold text-[18px] md:text-heading-5 mb-[20px]">
                 Market research
               </h3>
               <p className="text-text text-gray-600">
@@ -1325,7 +1325,7 @@ const Services2 = () => (
                 src="./assets/images/icons/icon-sun.svg"
                 alt="icon"
               />
-              <h3 className="font-chivo font-bold text-[18px] md:text-heading-5 mb-[20px]">
+              <h3 className="font-poppins font-bold text-[18px] md:text-heading-5 mb-[20px]">
                 Strategic Consulting
               </h3>
               <p className="text-text text-gray-600">
@@ -1338,7 +1338,7 @@ const Services2 = () => (
                 src="./assets/images/icons/icon-hat.svg"
                 alt="icon"
               />
-              <h3 className="font-chivo font-bold text-[18px] md:text-heading-5 mb-[20px]">
+              <h3 className="font-poppins font-bold text-[18px] md:text-heading-5 mb-[20px]">
                 Cognitive Solution{" "}
               </h3>
               <p className="text-text text-gray-600">
@@ -1351,7 +1351,7 @@ const Services2 = () => (
                 src="./assets/images/icons/icon-trees.svg"
                 alt="icon"
               />
-              <h3 className="font-chivo font-bold text-[18px] md:text-heading-5 mb-[20px]">
+              <h3 className="font-poppins font-bold text-[18px] md:text-heading-5 mb-[20px]">
                 Market research
               </h3>
               <p className="text-text text-gray-600">
@@ -1364,7 +1364,7 @@ const Services2 = () => (
                 src="./assets/images/icons/icon-sun.svg"
                 alt="icon"
               />
-              <h3 className="font-chivo font-bold text-[18px] md:text-heading-5 mb-[20px]">
+              <h3 className="font-poppins font-bold text-[18px] md:text-heading-5 mb-[20px]">
                 Strategic Consulting
               </h3>
               <p className="text-text text-gray-600">
@@ -1377,7 +1377,7 @@ const Services2 = () => (
                 src="./assets/images/icons/icon-hat.svg"
                 alt="icon"
               />
-              <h3 className="font-chivo font-bold text-[18px] md:text-heading-5 mb-[20px]">
+              <h3 className="font-poppins font-bold text-[18px] md:text-heading-5 mb-[20px]">
                 Cognitive Solution{" "}
               </h3>
               <p className="text-text text-gray-600">
@@ -1390,7 +1390,7 @@ const Services2 = () => (
       <div className="gap-6 px-5 lg:flex xl:gap-[50px] mt-[70px] lg:mt-[150px]">
         <div className="flex-1 mb-[40px]">
           <div className="mb-[22px]">
-            <h2 className="text-gray-900 font-bold font-chivo mb-5 text-[35px] leading-[44px] md:text-[46px] md:leading-[52px] lg:text-heading-1 md:mb-[30px] max-w-[725px]">
+            <h2 className="text-gray-900 font-bold font-poppins mb-5 text-[35px] leading-[44px] md:text-[46px] md:leading-[52px] lg:text-heading-1 md:mb-[30px] max-w-[725px]">
               Frequently asked questions
             </h2>
             <p className="text-quote md:text-lead-lg text-gray-600"></p>
@@ -1407,7 +1407,7 @@ const Services2 = () => (
                   src="./assets/images/icons/icon-leaf.svg"
                   alt="leaf icon"
                 />
-                <h4 className="text-heading-6 font-chivo font-bold">
+                <h4 className="text-heading-6 font-poppins font-bold">
                   Boost your sale
                 </h4>
               </div>
@@ -1422,7 +1422,7 @@ const Services2 = () => (
                   src="./assets/images/icons/icon-leaf.svg"
                   alt="leaf icon"
                 />
-                <h4 className="text-heading-6 font-chivo font-bold">
+                <h4 className="text-heading-6 font-poppins font-bold">
                   Introducing New Features
                 </h4>
               </div>
@@ -1438,7 +1438,7 @@ const Services2 = () => (
                 className="flex items-center inline-block z-10 relative transition-all duration-200 group px-[22px] py-[15px] lg:px-[32px] lg:py-[22px] rounded-[50px] bg-gray-900 text-white hover:bg-gray-100 hover:text-gray-900 hover:-translate-y-[2px] text-white bg-gray-900 w-fit"
                 href="#"
               >
-                <span className="block text-inherit w-full h-full rounded-[50px] text-lg font-chivo font-semibold">
+                <span className="block text-inherit w-full h-full rounded-[50px] text-lg font-poppins font-semibold">
                   Contact Us
                 </span>
                 <i>
@@ -1457,7 +1457,7 @@ const Services2 = () => (
                 className="flex items-center inline-block z-10 relative transition-all duration-200 group px-[22px] py-[15px] lg:px-[32px] lg:py-[22px] rounded-md bg-gray-900 text-white hover:bg-gray-100 hover:text-gray-900 hover:-translate-y-[2px] text-gray-900 bg-transparent w-fit"
                 href="#"
               >
-                <span className="block text-inherit w-full h-full rounded-md text-lg font-chivo font-semibold">
+                <span className="block text-inherit w-full h-full rounded-md text-lg font-poppins font-semibold">
                   Support Center
                 </span>
               </a>
@@ -1468,11 +1468,11 @@ const Services2 = () => (
           <div className="relative accordion-item mb-5">
             <details>
               <summary className="flex justify-between py-5 items-center gap-5 px-[30px]">
-                <h4 className="font-bold font-chivo text-[14px] xl:text-heading-5">
+                <h4 className="font-bold font-poppins text-[14px] xl:text-heading-5">
                   Where is my order? Quisque molestie
                 </h4>
               </summary>
-              <p className="text-text content font-chivo mt-[30px] ml-[30px]">
+              <p className="text-text content font-poppins mt-[30px] ml-[30px]">
                 Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel
                 pretium mi. Morbi varius, tellus in accumsan blandit, elit
                 ligula eleifend velit, luctus mattis ante nulla condimentum
@@ -1483,11 +1483,11 @@ const Services2 = () => (
           <div className="relative accordion-item mb-5">
             <details>
               <summary className="flex justify-between py-5 items-center gap-5 px-[30px]">
-                <h4 className="font-bold font-chivo text-[14px] xl:text-heading-5">
+                <h4 className="font-bold font-poppins text-[14px] xl:text-heading-5">
                   How can I return an item purchased online?
                 </h4>
               </summary>
-              <p className="text-text content font-chivo mt-[30px] ml-[30px]">
+              <p className="text-text content font-poppins mt-[30px] ml-[30px]">
                 Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel
                 pretium mi. Morbi varius, tellus in accumsan blandit, elit
                 ligula eleifend velit, luctus mattis ante nulla condimentum
@@ -1498,11 +1498,11 @@ const Services2 = () => (
           <div className="relative accordion-item mb-5">
             <details>
               <summary className="flex justify-between py-5 items-center gap-5 px-[30px]">
-                <h4 className="font-bold font-chivo text-[14px] xl:text-heading-5">
+                <h4 className="font-bold font-poppins text-[14px] xl:text-heading-5">
                   Can I cancel or change my order?
                 </h4>
               </summary>
-              <p className="text-text content font-chivo mt-[30px] ml-[30px]">
+              <p className="text-text content font-poppins mt-[30px] ml-[30px]">
                 Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel
                 pretium mi. Morbi varius, tellus in accumsan blandit, elit
                 ligula eleifend velit, luctus mattis ante nulla condimentum
@@ -1513,11 +1513,11 @@ const Services2 = () => (
           <div className="relative accordion-item mb-5">
             <details>
               <summary className="flex justify-between py-5 items-center gap-5 px-[30px]">
-                <h4 className="font-bold font-chivo text-[14px] xl:text-heading-5">
+                <h4 className="font-bold font-poppins text-[14px] xl:text-heading-5">
                   I have promotional or discount code?
                 </h4>
               </summary>
-              <p className="text-text content font-chivo mt-[30px] ml-[30px]">
+              <p className="text-text content font-poppins mt-[30px] ml-[30px]">
                 Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel
                 pretium mi. Morbi varius, tellus in accumsan blandit, elit
                 ligula eleifend velit, luctus mattis ante nulla condimentum
@@ -1528,11 +1528,11 @@ const Services2 = () => (
           <div className="relative accordion-item mb-5">
             <details>
               <summary className="flex justify-between py-5 items-center gap-5 px-[30px]">
-                <h4 className="font-bold font-chivo text-[14px] xl:text-heading-5">
+                <h4 className="font-bold font-poppins text-[14px] xl:text-heading-5">
                   What are the delivery types you use?
                 </h4>
               </summary>
-              <p className="text-text content font-chivo mt-[30px] ml-[30px]">
+              <p className="text-text content font-poppins mt-[30px] ml-[30px]">
                 Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel
                 pretium mi. Morbi varius, tellus in accumsan blandit, elit
                 ligula eleifend velit, luctus mattis ante nulla condimentum
@@ -1543,11 +1543,11 @@ const Services2 = () => (
           <div className="relative accordion-item mb-5">
             <details>
               <summary className="flex justify-between py-5 items-center gap-5 px-[30px]">
-                <h4 className="font-bold font-chivo text-[14px] xl:text-heading-5">
+                <h4 className="font-bold font-poppins text-[14px] xl:text-heading-5">
                   How can I pay for my purchases?
                 </h4>
               </summary>
-              <p className="text-text content font-chivo mt-[30px] ml-[30px]">
+              <p className="text-text content font-poppins mt-[30px] ml-[30px]">
                 Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel
                 pretium mi. Morbi varius, tellus in accumsan blandit, elit
                 ligula eleifend velit, luctus mattis ante nulla condimentum
@@ -1558,11 +1558,11 @@ const Services2 = () => (
           <div className="relative accordion-item mb-5">
             <details>
               <summary className="flex justify-between py-5 items-center gap-5 px-[30px]">
-                <h4 className="font-bold font-chivo text-[14px] xl:text-heading-5">
+                <h4 className="font-bold font-poppins text-[14px] xl:text-heading-5">
                   Can I cancel my order?
                 </h4>
               </summary>
-              <p className="text-text content font-chivo mt-[30px] ml-[30px]">
+              <p className="text-text content font-poppins mt-[30px] ml-[30px]">
                 Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel
                 pretium mi. Morbi varius, tellus in accumsan blandit, elit
                 ligula eleifend velit, luctus mattis ante nulla condimentum
@@ -1577,7 +1577,7 @@ const Services2 = () => (
           <p className="text-capitalized uppercase text-gray-500 tracking-[2px] mb-[13px]">
             newsletter
           </p>
-          <h4 className="font-bold font-chivo text-[28px] leading-[32px] md:text-heading-2 mb-[20px]">
+          <h4 className="font-bold font-poppins text-[28px] leading-[32px] md:text-heading-2 mb-[20px]">
             Subscribe our newsletter
           </h4>
           <p className="text-text text-gray-500">
@@ -1642,7 +1642,7 @@ const Services2 = () => (
               alt="logo"
             />
             <div className="flex items-center flex-col gap-5 md:flex-row lg:gap-[30px]">
-              <p className="text-heading-6 font-chivo font-bold">
+              <p className="text-heading-6 font-poppins font-bold">
                 Ready to get started?
               </p>
               <button type="button">
@@ -1651,7 +1651,7 @@ const Services2 = () => (
                   className="flex items-center inline-block z-10 relative transition-all duration-200 group px-[22px] py-[15px] lg:px-[32px] lg:py-[22px] rounded-md bg-gray-900 text-white hover:bg-gray-100 hover:text-gray-900 hover:-translate-y-[2px] text-white bg-gray-900 w-fit"
                   href="#"
                 >
-                  <span className="block text-inherit w-full h-full rounded-md text-lg font-chivo font-semibold">
+                  <span className="block text-inherit w-full h-full rounded-md text-lg font-poppins font-semibold">
                     Create an Account
                   </span>
                 </a>
@@ -1661,7 +1661,7 @@ const Services2 = () => (
           <div className="w-full bg-gray-200 h-[1px] mb-[52px]" />
           <div className="text-gray-600 grid gird-cols-1 gap-8 mb-[48px] md:grid-cols-2 lg:grid-cols-5 xl:gap-[98px]">
             <div>
-              <h5 className="text-heading-5 font-chivo font-bold text-gray-900 mb-5 text-[18px]">
+              <h5 className="text-heading-5 font-poppins font-bold text-gray-900 mb-5 text-[18px]">
                 Contact
               </h5>
               <p className="text-text mb-5">
@@ -1671,7 +1671,7 @@ const Services2 = () => (
               <p className="text-text underline">support@ekonkarkolhu.shop</p>
             </div>
             <div>
-              <h5 className="text-heading-5 font-chivo font-bold text-gray-900 mb-5 text-[18px]">
+              <h5 className="text-heading-5 font-poppins font-bold text-gray-900 mb-5 text-[18px]">
                 About Us
               </h5>
               <ul>
@@ -1726,7 +1726,7 @@ const Services2 = () => (
               </ul>
             </div>
             <div>
-              <h5 className="text-heading-5 font-chivo font-bold text-gray-900 mb-5 text-[18px]">
+              <h5 className="text-heading-5 font-poppins font-bold text-gray-900 mb-5 text-[18px]">
                 Discover
               </h5>
               <ul>
@@ -1781,7 +1781,7 @@ const Services2 = () => (
               </ul>
             </div>
             <div>
-              <h5 className="text-heading-5 font-chivo font-bold text-gray-900 mb-5 text-[18px]">
+              <h5 className="text-heading-5 font-poppins font-bold text-gray-900 mb-5 text-[18px]">
                 Support
               </h5>
               <ul>
@@ -1836,7 +1836,7 @@ const Services2 = () => (
               </ul>
             </div>
             <div>
-              <h5 className="text-heading-5 font-chivo font-bold text-gray-900 mb-5 text-[18px]">
+              <h5 className="text-heading-5 font-poppins font-bold text-gray-900 mb-5 text-[18px]">
                 Useful links
               </h5>
               <ul>
